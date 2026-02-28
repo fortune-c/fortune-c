@@ -27,7 +27,7 @@
 
 ###
 
-<p align="left">I'm Fortunate from Nigeria<br><br>- 🔭 I’m working as ...<br>- 📚 I'm currently learning ML<br>- ⚡ In my free time I play video or watch anime</p>
+<p align="left">I'm Fortunate from Nigeria<br><br>- 🔭 I’m working as ...<br>- 📚 I'm currently learning ML<br>- ⚡ In my free time I play video game or watch anime</p>
 
 ###
 
