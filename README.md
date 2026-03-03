@@ -66,12 +66,4 @@
 
 ###
 
-<h3 align="left">📋 Projects :</h3>
-
-###
-
-<div align=left>
-  
-</div>
-
-###
+<h3 align="left">📋 Projects : Pinned Repo</h3>
