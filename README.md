@@ -1,76 +1,80 @@
 <div align="center">
-  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" />
 </div>
 
 ###
 
 <div align="center">
-  <a target="_blank" href="https://www.linkedin.com/in/fortunate-adesina-b8b731390/" rel="noopener noreferrer"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  /></a>
-  <a target="_blank" href="https://x.com/fortunevm" rel="noopener noreferrer"><img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  /></a>
+  <a target="_blank" href="https://www.linkedin.com/in/fortunate-adesina-b8b731390/">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&color=0077B5&logoColor=white&style=for-the-badge" height="25" alt="LinkedIn" />
+  </a>
+  <a target="_blank" href="https://x.com/fortunevm">
+    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&color=1DA1F2&logoColor=white&style=for-the-badge" height="25" alt="Twitter" />
+  </a>
 </div>
 
 ###
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=fortune-c.fortune-c&"  />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=fortune-c.fortune-c" alt="Visitor Badge" />
 </div>
 
 ###
-
-<br clear="both">
 
 <h1 align="center">Fortunate Adesina</h1>
 
 ###
 
-<h3 align="left">👩‍💻  About Me</h3>
+<h3 align="left">👩‍💻 About Me</h3>
+
+<p align="left">
+I'm Fortunate, a BSc Software Engineering student at Miva Open University, passionate about building scalable systems and creative projects. I love learning new technologies and contributing to open-source.  
+<br>
+<br>
+- 🔭 Looking for an **internship**<br>
+- 📚 Currently learning **ML/AI, Go, Python**<br>
+- ⚡ In my free time, I enjoy **gaming 🎮** and **watching anime 🎬**<br>
+</p>
 
 ###
 
-<p align="left">I'm Fortunate from Nigeria<br><br>- 🔭 I’m working as ...<br>- 📚 I'm currently learning ML<br>- ⚡ In my free time I play video game or watch anime</p>
-
-###
-
-<h3 align="left">🛠 Language and tools</h3>
-
-###
+<h3 align="left">🛠 Languages & Tools</h3>
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" title="C" />
   <img width="12" />
-  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" title="C#" />
   <img width="12" />
-  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-plain-wordmark.svg" height="40" alt="dot-net logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-plain-wordmark.svg" height="40" title=".NET" />
   <img width="12" />
-  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" height="40" alt="java logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" height="40" title="Java" />
   <img width="12" />
-  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo" title="current learning"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" title="Python (learning)" />
   <img width="12" />
-  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" height="40" alt="go logo" title="current learning"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" height="40" title="Go (learning)" />
   <img width="12" />
-  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="40" alt="docker logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="40" title="Docker" />
   <img width="12" />
-  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" height="40" alt="azure logo" />
-  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" title="Azure" />
 </div>
 
 ###
 
-<h3 align="left">🔥 My Stats :</h3>
-
-###
+<h3 align="left">🔥 GitHub Stats</h3>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=fortune-c&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+  <img src="https://streak-stats.demolab.com?user=fortune-c&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5" height="220" alt="GitHub Streak" />
 </div>
 
 ###
 
-<h3 align="left">📋 Projects : Pinned Repo</h3>
+<h3 align="left">📌 Projects / Pinned Repos</h3>
+
+- **[Civicvote](https://github.com/fortune-c/civicvote)** – Standard Secure Voting System - A secure and reliable voting system where eligible voters can cast votes, duplicate voting is prevented, and results are accurately tallied. 
+- **[Netus](https://github.com/fortune-c/netus)** – A minimal HTTP server written in C to understand the fundamentals of networking and systems programming.
+
+###
+
+<h3 align="left">⚡ Fun / Interests</h3>
+
+- 🎮 Gaming | 🎬 Anime | 💻 Open-Source | 🌱 Learning new tech
