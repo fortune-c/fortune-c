@@ -5,7 +5,7 @@
 ###
 
 <div align="center">
-  <a target="_blank" href="https://www.linkedin.com/in/fortunate-adesina-b8b731390/">
+  <a target="_blank" href="https://www.linkedin.com/in/fortune-c/">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&color=0077B5&logoColor=white&style=for-the-badge" height="25" alt="LinkedIn" />
   </a>
   <a target="_blank" href="https://x.com/fortunevm">
