@@ -50,8 +50,8 @@ I'm Fortunate, a BSc Software Engineering student at Miva Open University, passi
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" height="40" title="Java" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" title="Python (learning)" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" height="40" title="Go (learning)" />
+  <!-- <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" height="40" title="Go (learning)" /> -->
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="40" title="Docker" />
   <img width="12" />
