@@ -28,11 +28,11 @@
 <h3 align="left">👩‍💻 About Me</h3>
 
 <p align="left">
-I'm Fortunate, a BSc Software Engineering student at Miva Open University, passionate about building scalable systems and creative projects. I love learning new technologies and contributing to open-source.  
+I'm Fortunate, a BSc Software Engineering student at Miva Open University, passionate about building systems and creative projects. I love learning new technologies and contributing to open-source.  
 <br>
 <br>
 - 🔭 Looking for an **internship**<br>
-- 📚 Currently learning **Go**<br>
+- 📚 Currently learning **system programming**<br>
 - 🔍 Love to exploring **systems and low-level concepts**<br>
 - ⚡ In my free time, I enjoy **gaming 🎮** and **watching anime 🎬**<br>
 </p>
@@ -46,15 +46,15 @@ I'm Fortunate, a BSc Software Engineering student at Miva Open University, passi
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" height="40" title="C++" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rust/rust-original.svg" height="40" title="Rust" />
+  <img src="https://github.com/rust-lang/rust-artwork/blob/master/logo/rusty/rust-logo-512x512.png" height="40" title="Rust" />        
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/golang/golang-original.svg" height="40" title="Golang" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" title="C#" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original.svg" height="40" title="Golang" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" title="Python" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" height="40" title="Java" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" title="C#" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg" height="40" title="Kotlin" />
   <img width="12" />
