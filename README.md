@@ -32,33 +32,45 @@ I'm Fortunate, a BSc Software Engineering student at Miva Open University, passi
 <br>
 <br>
 - 🔭 Looking for an **internship**<br>
-- 📚 Currently learning **Go, Python**<br>
+- 📚 Currently learning **Go**<br>
 - 🔍 Love to exploring **systems and low-level concepts**<br>
 - ⚡ In my free time, I enjoy **gaming 🎮** and **watching anime 🎬**<br>
 </p>
 
 ###
 
-<h3 align="left">🛠 Languages & Tools</h3>
+<h3 align="left">🛠 Languages</h3>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" title="C" />
   <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" height="40" title="C++" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rust/rust-original.svg" height="40" title="Rust" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/golang/golang-original.svg" height="40" title="Golang" />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" title="C#" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-plain-wordmark.svg" height="40" title=".NET" />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" title="Python" />
-  <!--
-   <img width="12" />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" height="40" title="Java" />
-  -->
-  <!-- <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" height="40" title="Go" /> -->
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="40" title="Docker" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg" height="40" title="Kotlin" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" title="Azure" />
+</div>
+
+###
+
+<h3 align="left">🛠 Tools</h3>
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" title="Docker" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" title="Git" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" title="Linux" />
+  <img width="12" />
 </div>
 
 ###
@@ -71,14 +83,12 @@ I'm Fortunate, a BSc Software Engineering student at Miva Open University, passi
 
 ###
 
-<h3 align="left">📌 Projects / Pinned Repos</h3>
-
-- **[Civicvote](https://github.com/fortune-c/civicvote)** – Standard Secure Voting System - A secure and reliable voting system where eligible voters can cast votes, duplicate voting is prevented, and results are accurately tallied. 
-- **[Netus](https://github.com/fortune-c/netus)** – A minimal HTTP server written in C to understand the fundamentals of networking and systems programming.
-- **[CollabDocs](https://github.com/fortune-c/CollabDocs)** – A real-time collaborative document backend built with ASP.NET Core, WebSockets (SignalR), Redis, and PostgreSQL.
-  
-###
-
 <h3 align="left">⚡ Fun / Interests</h3>
 
 - 🎮 Gaming | 🎬 Anime | 💻 Open-Source | 🌱 Learning new tech
+
+###
+
+<h3 align="left">📽️ Projects</h3>
+
+- 📌 Pinned Repos | 📓 Repos | 👨‍💻 Portfolio
