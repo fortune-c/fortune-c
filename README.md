@@ -32,7 +32,7 @@ I'm Fortunate, a BSc Software Engineering student at Miva Open University, passi
 <br>
 <br>
 - 🔭 Looking for an ...<br>
-- 📚 Currently learning **system programming**<br>
+- 📚 Currently learning **AI/ML**<br>
 - 🔍 Love to exploring **systems and low-level concepts**<br>
 - ⚡ In my free time, I enjoy **gaming 🎮** and **watching anime 🎬**<br>
 </p>
