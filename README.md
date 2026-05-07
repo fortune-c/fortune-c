@@ -32,8 +32,8 @@ I'm Fortunate, a BSc Software Engineering student at Miva Open University, passi
 <br>
 <br>
 - 🔭 Looking for an ...<br>
-- 📚 Currently learning **AI/ML**<br>
-- 🔍 Love to exploring **ARM**<br>
+- 📚 Currently learning **ML, Data Science & Quant**<br>
+- 🔍 Love to exploring **ARM & Low Level System**<br>
 - ⚡ In my free time, I enjoy **gaming 🎮** and **watching anime 🎬**<br>
 </p>
 
