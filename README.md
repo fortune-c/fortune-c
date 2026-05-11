@@ -50,8 +50,6 @@ I'm Fortunate, a BSc Software Engineering student at Miva Open University, passi
   <img width="12" />
   <img src="https://github.com/rust-lang/rust-artwork/blob/master/logo/rusty/rust-logo-512x512.png" height="40" title="Rust" />        
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dart/dart-original.svg" height="40" title="Dart" />        
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" height="40" title="Java" />
   <img width="12" />
 </div>
@@ -61,7 +59,7 @@ I'm Fortunate, a BSc Software Engineering student at Miva Open University, passi
 <h3 align="left">🛠 Frameworks</h3>
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" height="40" title="Flutter" />
+
 </div>
 
 ###
