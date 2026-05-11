@@ -56,10 +56,13 @@ I'm Fortunate, a BSc Software Engineering student at Miva Open University, passi
 
 ###
 
-<h3 align="left">🛠 Frameworks</h3>
+<h3 align="left">🛠 Frameworks \ Libraries</h3>
 
 <div align="left">
-
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" title="numpy"/>
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original.svg" />
+  <img width="12' />        
 </div>
 
 ###
