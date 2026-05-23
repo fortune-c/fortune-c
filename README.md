@@ -50,8 +50,6 @@ I'm Fortunate, a BSc Software Engineering student at Miva Open University, passi
   <img width="12" />
   <img src="https://github.com/rust-lang/rust-artwork/blob/master/logo/rusty/rust-logo-512x512.png" height="40" title="Rust" />        
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" height="40" title="Java" />
-  <img width="12" />
 </div>
 
 ###
