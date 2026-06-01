@@ -30,12 +30,6 @@
 <p align="left">
 I'm Fortunate, a BSc Software Engineering student at Miva Open University, passionate about building systems and creative projects. I love learning new technologies and contributing to open-source.  
 <br>
-<br>
-- 🔭 Looking for an ...<br>
-- 📚 Currently learning ML<br>
-- 🔍 Love to explore Quant in the future<br>
-- ⚡ In my free time, I enjoy gaming 🎮 & watching anime 🎬<br>
-</p>
 
 ###
 
