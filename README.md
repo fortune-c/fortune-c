@@ -42,8 +42,6 @@ I'm Fortunate, a BSc Software Engineering student at Miva Open University, passi
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" title="Python" />
   <img width="12" />
-  <i class="devicon-rust-original"></i>         
-  <i width="12" />
 </div>
 
 ###
