@@ -68,9 +68,3 @@ I'm Fortunate, a BSc Software Engineering student at Miva Open University, passi
 <h3 align="left">⚡ Fun / Interests</h3>
 
 - 🎮 Gaming | 🎬 Anime | 💻 Open-Source | 🌱 Learning new tech
-
-###
-
-<h3 align="left">📽️ Projects</h3>
-
-- 📌 Pinned Repos | 📓 Repos | 👨‍💻 Portfolio
