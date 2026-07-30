@@ -21,7 +21,7 @@ import sys
 from pathlib import Path
 
 try:
-    from PIL import Image
+    from PIL import Image, ImageOps
     import numpy as np
 except ImportError as exc:
     sys.exit(
@@ -62,16 +62,24 @@ def image_to_ascii_grid(
 ) -> list[str]:
     """Convert a greyscale image to a 2-D grid of ASCII characters.
 
+    The image is **inverted** before conversion so that the white background
+    (produced by ``prep_photo.py``'s white composite step) maps to the space
+    character (index 0 in the ramp), while the dark portrait subject maps to
+    the denser characters at the end of the ramp.
+
     Args:
         img_path: Path to the pre-processed greyscale PNG.
         brightness_ramp: String of characters ordered dark-to-light.
-            The darkest pixel maps to the first character,
-            the brightest pixel maps to the last character.
+            After inversion, dark pixels (formerly bright background) become
+            space, and bright pixels (formerly dark subject tones) become
+            dense characters.
 
     Returns:
         A list of strings, one per row, each of equal length.
     """
     img = Image.open(img_path).convert("L")
+    # Invert: white background (255) → 0 (space), dark subject → 255 (dense char)
+    img = ImageOps.invert(img)
     pixels = np.array(img, dtype=np.uint8)
 
     ramp = brightness_ramp

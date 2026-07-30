@@ -127,7 +127,7 @@ heatmap:
 # ── Animation timing (all values in milliseconds unless noted) ───────────────
 animation:
   # ASCII portrait
-  ascii_char_delay_ms:   12    # time between each character appearing
+  ascii_char_delay_ms:   6     # time between each character appearing
   ascii_cursor_blink_ms: 530   # cursor blink period
   # Info card
   card_row_stagger_ms:   120   # delay between rows sliding in
