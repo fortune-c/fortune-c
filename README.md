@@ -88,15 +88,21 @@
 <br/>
 
 <!-- ── 4. GitHub stats ────────────────────────────────────────────────────── -->
+<!--
+  Streak stats use demolab.com which is stable and free.
+  Top languages uses github-readme-stats – if the image breaks, self-deploy:
+  https://vercel.com/new/clone?repository-url=https://github.com/anuraghazra/github-readme-stats&env=PAT_1
+  Then replace "github-readme-stats.vercel.app" with your own Vercel URL.
+-->
 <div align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=fortune-c&show_icons=true&theme=catppuccin_mocha&hide_border=true&count_private=true&include_all_commits=true"
+    src="https://streak-stats.demolab.com?user=fortune-c&theme=catppuccin-mocha&hide_border=true&border_radius=10&date_format=j%20M%5B%20Y%5D"
     height="165"
-    alt="GitHub stats"
+    alt="GitHub contribution streak"
   />
   &nbsp;
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=fortune-c&theme=catppuccin_mocha&hide_border=true&layout=compact&langs_count=6"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=fortune-c&theme=catppuccin_mocha&hide_border=true&layout=compact&langs_count=6&cache_seconds=86400"
     height="165"
     alt="Top languages"
   />
