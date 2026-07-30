@@ -16,7 +16,7 @@ pronouns:        "she/her"
 # ── Info-card rows (label: value, rendered inside the terminal card) ─────────
 info_rows:
   - label: "OS"
-    value: "Arch Linux (btw)"
+    value: "Ubuntu Linux (btw)"
   - label: "Shell"
     value: "zsh + starship"
   - label: "Editor"
