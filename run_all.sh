@@ -53,8 +53,16 @@ echo "▶ Step 4/5 – Render ASCII portrait …"
 python scripts/make_ascii_svg.py
 
 echo ""
-echo "▶ Step 5/5 – Render info card …"
+echo "▶ Step 5/7 – Render info card …"
 python scripts/make_info_card.py
+
+echo ""
+echo "▶ Step 6/7 – Render animated banner …"
+python scripts/make_banner_svg.py
+
+echo ""
+echo "▶ Step 7/7 – Render Spotify card …"
+python scripts/make_spotify_svg.py
 
 echo ""
 echo "══════════════════════════════════════════"

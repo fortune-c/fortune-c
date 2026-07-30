@@ -1,15 +1,28 @@
 <!--
   README.md – fortune-c GitHub Profile
-  
-  Layout:
-    ASCII portrait | Info card  (side by side, centred via HTML table)
-    Badges
 
-  All SVGs are embedded as <img> tags so GitHub renders them without
-  stripping scripts or styles. SMIL animations run natively in browsers.
+  Layout
+  ──────
+  1. Animated typing banner (full width)
+  2. ASCII portrait  |  Info card  (side by side)
+  3. Language / tool icon badges
+  4. GitHub stats  |  Top languages  (side by side)
+  5. Spotify now-playing
+  6. Social badges
 -->
 
-<!-- ── Portrait + Info card side-by-side ─────────────────────────────────── -->
+<!-- ── 1. Animated banner ─────────────────────────────────────────────────── -->
+<div align="center">
+  <img
+    src="generated/banner.svg"
+    alt="Hi, I'm Fortunate – animated typing banner"
+    width="860"
+  />
+</div>
+
+<br/>
+
+<!-- ── 2. ASCII portrait + Info card ─────────────────────────────────────── -->
 <div align="center">
   <table>
     <tr>
@@ -23,8 +36,8 @@
       <td valign="top" align="center">
         <img
           src="generated/info-card.svg"
-          alt="Terminal info card showing OS, shell, editor, stack, and links – rows slide in with animation"
-          width="520"
+          alt="Terminal info card – OS, Shell, Editor, Stack, Focus and more"
+          width="460"
         />
       </td>
     </tr>
@@ -33,7 +46,81 @@
 
 <br/>
 
-<!-- ── Badges ────────────────────────────────────────────────────────────── -->
+<!-- ── 3. Language & tool icon badges ────────────────────────────────────── -->
+<div align="center">
+
+  <!-- Languages -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"
+       height="40" title="C" alt="C" />
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg"
+       height="40" title="C++" alt="C++" />
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"
+       height="40" title="Python" alt="Python" />
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rust/rust-original.svg"
+       height="40" title="Rust" alt="Rust" />
+
+  &nbsp;&nbsp;&nbsp;
+
+  <!-- Editors & tools -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"
+       height="40" title="VS Code" alt="VS Code" />
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/neovim/neovim-original.svg"
+       height="40" title="Neovim" alt="Neovim" />
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"
+       height="40" title="Git" alt="Git" />
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"
+       height="40" title="Linux" alt="Linux" />
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-original.svg"
+       height="40" title="Ubuntu" alt="Ubuntu" />
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg"
+       height="40" title="Bash" alt="Bash" />
+
+</div>
+
+<br/>
+
+<!-- ── 4. GitHub stats ────────────────────────────────────────────────────── -->
+<div align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=fortune-c&show_icons=true&theme=catppuccin_mocha&hide_border=true&count_private=true&include_all_commits=true"
+    height="165"
+    alt="GitHub stats"
+  />
+  &nbsp;
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=fortune-c&theme=catppuccin_mocha&hide_border=true&layout=compact&langs_count=6"
+    height="165"
+    alt="Top languages"
+  />
+</div>
+
+<br/>
+
+<!-- ── 5. Spotify now-playing ─────────────────────────────────────────────── -->
+<!--
+  To activate: deploy novatorem → https://github.com/novatorem/novatorem
+  Then set spotify.vercel_url in config.yaml and update the src below.
+  Until then the placeholder SVG is shown.
+-->
+<div align="center">
+  <img
+    src="generated/spotify.svg"
+    alt="Spotify now playing"
+    width="350"
+  />
+</div>
+
+<br/>
+
+<!-- ── 6. Social badges ───────────────────────────────────────────────────── -->
 <div align="center">
   <a href="https://www.linkedin.com/in/fortune-c/" target="_blank">
     <img

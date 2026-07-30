@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="860" height="120" viewBox="0 0 860 120" role="img" aria-label="Animated greeting: Hi, I'm Fortunate">
+  <defs>
+    <filter id="banner-glow" x="-30%" y="-30%" width="160%" height="160%">
+      <feGaussianBlur in="SourceGraphic" stdDeviation="10.0" result="blur" />
+      <feFlood flood-color="#b4befe" flood-opacity="0.6" result="color" />
+      <feComposite in="color" in2="blur" operator="in" result="glow" />
+      <feMerge>
+        <feMergeNode in="glow" />
+        <feMergeNode in="SourceGraphic" />
+      </feMerge>
+    </filter>
+  </defs>
+  <rect x="0" y="0" width="860" height="120" fill="#1e1e2e" rx="10.0" />
+  <rect x="0" y="0" width="860" height="3" fill="#b4befe" rx="0" />
+  <line x1="40.0" y1="75.2" x2="820.0" y2="75.2" stroke="#45475a" stroke-width="1.0" />
+  <g filter="url(#banner-glow)">
+    <text x="40.0" y="62.400000000000006" font-family="'JetBrains Mono', 'Fira Code', 'Cascadia Code', 'Courier New', monospace" font-size="34.0" font-weight="bold" fill="#b4befe" dominant-baseline="auto">
+      <tspan opacity="0">H<set attributeName="opacity" to="1" begin="0.000s" fill="freeze" />
+      </tspan>
+      <tspan opacity="0">i<set attributeName="opacity" to="1" begin="0.055s" fill="freeze" />
+      </tspan>
+      <tspan opacity="0">,<set attributeName="opacity" to="1" begin="0.110s" fill="freeze" />
+      </tspan>
+      <tspan opacity="0">
+        <set attributeName="opacity" to="1" begin="0.165s" fill="freeze" />
+      </tspan>
+      <tspan opacity="0">I<set attributeName="opacity" to="1" begin="0.220s" fill="freeze" />
+      </tspan>
+      <tspan opacity="0">'<set attributeName="opacity" to="1" begin="0.275s" fill="freeze" />
+      </tspan>
+      <tspan opacity="0">m<set attributeName="opacity" to="1" begin="0.330s" fill="freeze" />
+      </tspan>
+      <tspan opacity="0">
+        <set attributeName="opacity" to="1" begin="0.385s" fill="freeze" />
+      </tspan>
+      <tspan opacity="0">F<set attributeName="opacity" to="1" begin="0.440s" fill="freeze" />
+      </tspan>
+      <tspan opacity="0">o<set attributeName="opacity" to="1" begin="0.495s" fill="freeze" />
+      </tspan>
+      <tspan opacity="0">r<set attributeName="opacity" to="1" begin="0.550s" fill="freeze" />
+      </tspan>
+      <tspan opacity="0">t<set attributeName="opacity" to="1" begin="0.605s" fill="freeze" />
+      </tspan>
+      <tspan opacity="0">u<set attributeName="opacity" to="1" begin="0.660s" fill="freeze" />
+      </tspan>
+      <tspan opacity="0">n<set attributeName="opacity" to="1" begin="0.715s" fill="freeze" />
+      </tspan>
+      <tspan opacity="0">a<set attributeName="opacity" to="1" begin="0.770s" fill="freeze" />
+      </tspan>
+      <tspan opacity="0">t<set attributeName="opacity" to="1" begin="0.825s" fill="freeze" />
+      </tspan>
+      <tspan opacity="0">e<set attributeName="opacity" to="1" begin="0.880s" fill="freeze" />
+      </tspan>
+    </text>
+  </g>
+  <rect x="389.956" y="28.400000000000006" width="17.3978" height="37.400000000000006" fill="#a6e3a1" rx="0" opacity="0">
+    <set attributeName="opacity" to="1" begin="0.935s" fill="freeze" />
+    <animate attributeName="opacity" begin="0.935s" dur="0.265s" fill="freeze" keyTimes="0;0.5;1" values="1;0;1" repeatCount="indefinite" calcMode="discrete" />
+  </rect>
+  <g opacity="0">
+    <animate attributeName="opacity" from="0" to="1" begin="1.235s" dur="0.700s" fill="freeze" />
+    <text x="40.0" y="96.0" fill="#a6adc8" font-family="'Inter', 'Segoe UI', system-ui, sans-serif" font-size="15.0" font-weight="normal" text-anchor="start" dominant-baseline="auto" opacity="1.0">Software Engineering Student  ·  Systems &amp; Low-level Programmer</text>
+  </g>
+</svg>

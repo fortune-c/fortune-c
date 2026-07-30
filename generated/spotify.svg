@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="350" height="80" viewBox="0 0 350 80" role="img" aria-label="Spotify not connected">
+  <defs>
+    <filter id="spot-glow" x="-30%" y="-30%" width="160%" height="160%">
+      <feGaussianBlur in="SourceGraphic" stdDeviation="6" result="blur" />
+      <feFlood flood-color="#1DB954" flood-opacity="0.6" result="color" />
+      <feComposite in="color" in2="blur" operator="in" result="glow" />
+      <feMerge>
+        <feMergeNode in="glow" />
+        <feMergeNode in="SourceGraphic" />
+      </feMerge>
+    </filter>
+  </defs>
+  <rect x="0" y="0" width="350" height="80" fill="#313244" rx="10" stroke="#45475a" stroke-width="1" />
+  <rect x="0" y="0" width="4" height="80" fill="#1DB954" rx="10" />
+  <g>
+    <text x="22" y="40.0" fill="#1DB954" font-family="'Inter', 'Segoe UI', system-ui, sans-serif" font-size="28" font-weight="normal" text-anchor="middle" dominant-baseline="middle" opacity="1.0">♫<animate attributeName="opacity" begin="0s" dur="1.8s" fill="freeze" keyTimes="0;0.5;1" values="1;0.4;1" repeatCount="indefinite" calcMode="ease-in-out" />
+    </text>
+  </g>
+  <text x="42" y="30.4" fill="#cdd6f4" font-family="'Inter', 'Segoe UI', system-ui, sans-serif" font-size="13" font-weight="bold" text-anchor="start" dominant-baseline="middle" opacity="1.0">Spotify — Not Connected</text>
+  <text x="42" y="54.400000000000006" fill="#a6adc8" font-family="'JetBrains Mono', 'Fira Code', 'Cascadia Code', 'Courier New', monospace" font-size="10" font-weight="normal" text-anchor="start" dominant-baseline="middle" opacity="1.0">Set spotify.vercel_url in config.yaml</text>
+</svg>

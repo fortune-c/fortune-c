@@ -29,6 +29,8 @@ info_rows:
     value: "Compilers · Kernel Internals"
   - label: "Currently"
     value: "BSc Software Engineering @ Miva"
+  - label: "Reading"
+    value: "CS:APP · Crafting Interpreters"
   - label: "GitHub"
     value: "github.com/fortune-c"
   - label: "Twitter"
@@ -142,3 +144,29 @@ actions:
   commit_message: "chore: regenerate profile art [skip ci]"
   committer_name: "github-actions[bot]"
   committer_email: "github-actions[bot]@users.noreply.github.com"
+
+# ── Animated banner SVG ───────────────────────────────────────────────────────
+banner:
+  width:              860
+  height:             120
+  greeting:           "Hi, I'm Fortunate"
+  subtitle:           "Software Engineering Student  ·  Systems & Low-level Programmer"
+  font_size_greeting: 34
+  font_size_subtitle: 15
+  corner_radius:      10
+  typing_delay_ms:    55    # ms per character for the greeting line
+  subtitle_fade_ms:   700   # duration of the subtitle fade-in
+  subtitle_delay_ms:  300   # extra pause after greeting finishes before subtitle appears
+  glow_blur:          10
+
+# ── Spotify ───────────────────────────────────────────────────────────────────
+# To enable the live "Now Playing" widget:
+#   1. Go to https://github.com/novatorem/novatorem and deploy to Vercel.
+#   2. Set your Spotify credentials in the Vercel env vars as described in
+#      the novatorem README.
+#   3. Paste your deployed Vercel URL below (without trailing slash).
+#
+# Leave vercel_url empty to show the placeholder card instead.
+spotify:
+  vercel_url: ""          # e.g. "https://novatorem-fortune-c.vercel.app"
+  theme: "novatorem"
