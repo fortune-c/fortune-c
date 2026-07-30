@@ -2,26 +2,12 @@
   README.md – fortune-c GitHub Profile
   
   Layout:
-    1. Heatmap (full width, centred)
-    2. ASCII portrait | Info card  (side by side, centred via HTML table)
-  
+    ASCII portrait | Info card  (side by side, centred via HTML table)
+    Badges
+
   All SVGs are embedded as <img> tags so GitHub renders them without
-  stripping scripts or styles.  SMIL animations run natively in browsers.
-  
-  Do NOT add inline CSS with properties GitHub does not allowlist.
-  Allowed attributes: align, width, height, src, alt, href, target.
+  stripping scripts or styles. SMIL animations run natively in browsers.
 -->
-
-<!-- ── Animated heatmap ──────────────────────────────────────────────────── -->
-<div align="center">
-  <img
-    src="generated/contrib-heatmap.svg"
-    alt="Contribution heatmap – animated diagonal reveal of Fortunate's GitHub activity over the past 53 weeks"
-    width="820"
-  />
-</div>
-
-<br/>
 
 <!-- ── Portrait + Info card side-by-side ─────────────────────────────────── -->
 <div align="center">
