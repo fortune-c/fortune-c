@@ -1,0 +1,116 @@
+name: Update Profile Art
+
+# ─── Triggers ────────────────────────────────────────────────────────────────
+on:
+  # Daily at 04:00 UTC (configurable via config.yaml actions.schedule_cron)
+  schedule:
+    - cron: "0 4 * * *"
+
+  # Manual trigger from GitHub Actions UI
+  workflow_dispatch:
+    inputs:
+      skip_photo_prep:
+        description: "Skip photo pre-processing (faster, uses cached profile_clean.png)"
+        required: false
+        default: "true"
+        type: choice
+        options:
+          - "true"
+          - "false"
+
+# ─── Permissions ─────────────────────────────────────────────────────────────
+permissions:
+  contents: write   # needed to push the auto-commit
+
+# ─── Jobs ────────────────────────────────────────────────────────────────────
+jobs:
+  regenerate:
+    name: Fetch & Regenerate Profile Art
+    runs-on: ubuntu-latest
+
+    steps:
+      # ── 1. Checkout ─────────────────────────────────────────────────────────
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          # Fetch the full history so the auto-commit doesn't flatten it
+          fetch-depth: 0
+
+      # ── 2. Set up Python ────────────────────────────────────────────────────
+      - name: Set up Python 3.11
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+          cache: "pip"
+          cache-dependency-path: scripts/requirements.txt
+
+      # ── 3. Install dependencies ─────────────────────────────────────────────
+      - name: Install Python dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r scripts/requirements.txt
+
+      # ── 4. (Optional) Pre-process portrait ─────────────────────────────────
+      #
+      # This step runs rembg which downloads a ~170 MB U²-Net model on first
+      # run.  It is skipped by default when the workflow is triggered manually
+      # so that the daily run is fast.  Set skip_photo_prep = "false" to force
+      # a fresh background removal (useful after updating assets/profile.png).
+      - name: Pre-process portrait photo
+        if: >-
+          github.event_name == 'schedule' ||
+          github.event.inputs.skip_photo_prep == 'false'
+        run: python scripts/prep_photo.py
+        env:
+          # rembg downloads model weights to ~/.u2net/ by default; cache it.
+          U2NET_HOME: ${{ runner.temp }}/.u2net
+
+      # Cache the rembg model between runs to avoid re-downloading 170 MB
+      - name: Cache rembg model weights
+        uses: actions/cache@v4
+        with:
+          path: ${{ runner.temp }}/.u2net
+          key: u2net-model-v1
+
+      # ── 5. Fetch contribution data ──────────────────────────────────────────
+      - name: Fetch GitHub contribution data
+        run: python scripts/fetch_contributions.py
+
+      # ── 6. Regenerate heatmap SVG ───────────────────────────────────────────
+      - name: Render contribution heatmap SVG
+        run: python scripts/render_heatmap_svg.py
+
+      # ── 7. Regenerate ASCII portrait SVG ────────────────────────────────────
+      #
+      # This step requires assets/profile_clean.png to exist.
+      # If prep_photo.py was skipped, the cached file from the repository is used.
+      - name: Render ASCII portrait SVG
+        run: python scripts/make_ascii_svg.py
+
+      # ── 8. Regenerate info card SVG ─────────────────────────────────────────
+      - name: Render info card SVG
+        run: python scripts/make_info_card.py
+
+      # ── 9. Commit & push ────────────────────────────────────────────────────
+      #
+      # Uses [skip ci] in the commit message so this auto-commit does not
+      # trigger another workflow run, preventing an infinite loop.
+      - name: Commit generated files
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+
+          git add \
+            data/contributions.json \
+            generated/avi-ascii.svg \
+            generated/info-card.svg \
+            generated/contrib-heatmap.svg \
+            assets/profile_clean.png || true
+
+          # Only commit if there are staged changes
+          if git diff --cached --quiet; then
+            echo "No changes to commit – skipping."
+          else
+            git commit -m "chore: regenerate profile art [skip ci]"
+            git push
+          fi

@@ -1,0 +1,31 @@
+# ─────────────────────────────────────────────────────────────────────────────
+# requirements.txt – Python dependencies for the profile art pipeline
+#
+# Install with:
+#   pip install -r scripts/requirements.txt
+#
+# For environment isolation (recommended):
+#   python -m venv .venv && source .venv/bin/activate
+#   pip install -r scripts/requirements.txt
+# ─────────────────────────────────────────────────────────────────────────────
+
+# ── Config parsing ────────────────────────────────────────────────────────────
+PyYAML>=6.0.1
+
+# ── Image processing ──────────────────────────────────────────────────────────
+Pillow>=10.2.0
+numpy>=1.26.0
+opencv-python-headless>=4.9.0.80   # headless = no GUI dependency needed in CI
+
+# ── Background removal (U²-Net via rembg) ────────────────────────────────────
+rembg[cpu]>=2.0.56
+
+# ── HTTP + HTML scraping ──────────────────────────────────────────────────────
+requests>=2.31.0
+beautifulsoup4>=4.12.3
+lxml>=5.1.0                         # faster BS4 parser (optional but recommended)
+
+# ── Type stubs (optional – for IDE support) ───────────────────────────────────
+# types-PyYAML
+# types-requests
+# types-beautifulsoup4

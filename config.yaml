@@ -1,0 +1,144 @@
+# ─────────────────────────────────────────────────────────────────────────────
+# config.yaml  –  Single source of truth for the animated GitHub profile.
+#
+# Edit this file to personalise the generated SVGs without touching any script.
+# All Python generators read their settings exclusively from here.
+# ─────────────────────────────────────────────────────────────────────────────
+
+# ── Identity ────────────────────────────────────────────────────────────────
+github_username: "fortune-c"
+display_name:    "Fortunate Adesina"
+title:           "Software Engineering Student"
+location:        "Nigeria 🇳🇬"
+bio:             "Building systems, writing C, exploring the edges of software."
+pronouns:        "she/her"
+
+# ── Info-card rows (label: value, rendered inside the terminal card) ─────────
+info_rows:
+  - label: "OS"
+    value: "Arch Linux (btw)"
+  - label: "Shell"
+    value: "zsh + starship"
+  - label: "Editor"
+    value: "Neovim"
+  - label: "Stack"
+    value: "C · C++ · Python · Bash"
+  - label: "Focus"
+    value: "Systems & Low-level Programming"
+  - label: "Learning"
+    value: "Compilers · Kernel Internals"
+  - label: "Currently"
+    value: "BSc Software Engineering @ Miva"
+  - label: "GitHub"
+    value: "github.com/fortune-c"
+  - label: "Twitter"
+    value: "@fortunevm"
+  - label: "LinkedIn"
+    value: "linkedin.com/in/fortune-c"
+
+# ── Terminal prompt shown at the top of the info card ───────────────────────
+terminal_prompt: "fortune@github:~$"
+
+# ── Links (used in README.md generation) ────────────────────────────────────
+links:
+  linkedin: "https://www.linkedin.com/in/fortune-c/"
+  twitter:  "https://x.com/fortunevm"
+  github:   "https://github.com/fortune-c"
+
+# ── Catppuccin Mocha palette ────────────────────────────────────────────────
+theme:
+  background:    "#1e1e2e"
+  surface:       "#313244"
+  surface_alt:   "#45475a"
+  overlay:       "#6c7086"
+  muted:         "#585b70"
+  text:          "#cdd6f4"
+  subtext:       "#a6adc8"
+  blue:          "#89b4fa"
+  green:         "#a6e3a1"
+  pink:          "#f5c2e7"
+  lavender:      "#b4befe"
+  peach:         "#fab387"
+  red:           "#f38ba8"
+  yellow:        "#f9e2af"
+  teal:          "#94e2d5"
+  sky:           "#89dceb"
+  mauve:         "#cba6f7"
+  sapphire:      "#74c7ec"
+
+# ── Heatmap contribution-level colours (index 0 = no contributions) ──────────
+heatmap_colors:
+  - "#313244"   # level 0 – surface (empty day)
+  - "#45475a"   # level 1 – surface_alt (very few)
+  - "#a6e3a1"   # level 2 – green (some)
+  - "#40a02b"   # level 3 – darker green (many)  [closest dark green to palette]
+  - "#2d8b48"   # level 4 – deepest green (max)
+
+# ── Typography ───────────────────────────────────────────────────────────────
+fonts:
+  mono:    "'JetBrains Mono', 'Fira Code', 'Cascadia Code', 'Courier New', monospace"
+  sans:    "'Inter', 'Segoe UI', system-ui, sans-serif"
+
+# ── Portrait / ASCII settings ────────────────────────────────────────────────
+portrait:
+  source_path:       "assets/profile.png"   # relative to project root
+  cleaned_path:      "assets/profile_clean.png"
+  ascii_width_chars: 72           # number of character columns in ASCII art
+  char_height_ratio: 0.55         # height-to-width ratio of one character cell
+  brightness_ramp:   " .`:-=+*cs#%@"
+  svg_font_size_px:  8            # font-size for each ASCII character
+  svg_line_height:   1.2          # multiplier on font-size for row height
+  # SVG canvas dimensions (auto-computed if 0, but you can override)
+  svg_width:         0
+  svg_height:        0
+
+# ── Info-card SVG settings ───────────────────────────────────────────────────
+info_card:
+  width:             520
+  padding:           20
+  row_height:        28
+  header_height:     44
+  corner_radius:     10
+  border_width:      1.5
+  font_size_body:    13
+  font_size_header:  14
+  font_size_prompt:  13
+  label_width:       90   # px reserved for the label column
+  glow_blur:         8
+
+# ── Heatmap SVG settings ─────────────────────────────────────────────────────
+heatmap:
+  cell_size:         12    # px width & height of each day square
+  cell_gap:          3     # px gap between squares
+  corner_radius:     2     # px border-radius of each square
+  padding_top:       60    # space above grid for title
+  padding_bottom:    50    # space below grid for legend / stats
+  padding_left:      36    # space left of grid for day labels
+  padding_right:     20
+  font_size_label:   10
+  font_size_title:   16
+  font_size_stats:   11
+  title:             "Contribution Activity"
+  # diagonal reveal animation
+  stagger_ms:        6     # ms per diagonal step
+  reveal_duration_ms: 300  # ms per square's fade-in
+  glow_blur:         4
+
+# ── Animation timing (all values in milliseconds unless noted) ───────────────
+animation:
+  # ASCII portrait
+  ascii_char_delay_ms:   12    # time between each character appearing
+  ascii_cursor_blink_ms: 530   # cursor blink period
+  # Info card
+  card_row_stagger_ms:   120   # delay between rows sliding in
+  card_row_duration_ms:  400   # each row's slide+fade duration
+  card_initial_delay_ms: 200   # pause before first row
+  # Heatmap already controlled by heatmap.stagger_ms / reveal_duration_ms
+
+# ── GitHub Actions ────────────────────────────────────────────────────────────
+actions:
+  schedule_cron:  "0 4 * * *"   # UTC time for daily regeneration
+  python_version: "3.11"
+  commit_message: "chore: regenerate profile art [skip ci]"
+  committer_name: "github-actions[bot]"
+  committer_email: "github-actions[bot]@users.noreply.github.com"
