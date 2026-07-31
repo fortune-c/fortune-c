@@ -49,9 +49,9 @@
 
 <!-- ── 3. Language & tool icon badges ────────────────────────────────────── -->
 <div align="center">
-  <table>
+  <table width="860">
     <tr>
-      <td align="center" valign="top">
+      <td align="center" valign="top" width="50%">
         <h4>🔧 Languages</h4>
         <a href="https://en.wikipedia.org/wiki/C_(programming_language)">
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"
@@ -73,7 +73,7 @@
                height="44" title="Rust" alt="Rust" />
         </a>
       </td>
-      <td align="center" valign="top">
+      <td align="center" valign="top" width="50%">
         <h4>⚙️ Tools & Environment</h4>
         <a href="https://code.visualstudio.com/">
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"
