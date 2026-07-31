@@ -72,9 +72,10 @@
 <!-- ── 5. GitHub stats ────────────────────────────────────────────────────── -->
 <!--
   Streak stats use demolab.com which is stable and free.
-  Top languages uses github-readme-stats – if the image breaks, self-deploy:
+  Top languages uses a community mirror of github-readme-stats.
+  If the image breaks, deploy your own:
   https://vercel.com/new/clone?repository-url=https://github.com/anuraghazra/github-readme-stats&env=PAT_1
-  Then replace "github-readme-stats.vercel.app" with your own Vercel URL.
+  Then replace the mirror URL with your own Vercel URL.
 -->
 <div align="center">
   <table>
@@ -91,7 +92,7 @@
       <td align="center">
         <picture>
           <img
-            src="https://github-readme-stats.vercel.app/api/top-langs/?username=fortune-c&theme=catppuccin_mocha&hide_border=true&layout=compact&langs_count=6&cache_seconds=86400"
+            src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=fortune-c&theme=catppuccin_mocha&hide_border=true&layout=compact&langs_count=6&cache_seconds=86400"
             height="180"
             alt="Top languages"
           />
