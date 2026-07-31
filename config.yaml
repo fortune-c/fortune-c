@@ -47,6 +47,35 @@ links:
   twitter:  "https://x.com/fortunevm"
   github:   "https://github.com/fortune-c"
 
+# ── Tech stack (rendered as an animated SVG card) ────────────────────────────
+tech_stack:
+  languages:
+    - "C"
+    - "C++"
+    - "Python"
+    - "Rust"
+  tools:
+    - "VS Code"
+    - "Zed"
+    - "Neovim"
+    - "Git"
+    - "Linux / Ubuntu"
+    - "Bash / Zsh"
+  # SVG card settings
+  width:              860
+  padding:            24
+  row_height:         30
+  corner_radius:      10
+  border_width:       1.5
+  font_size_heading:  15
+  font_size_item:     13
+  dot_radius:         4
+  glow_blur:          8
+  # Animation
+  stagger_ms:         100
+  duration_ms:        400
+  initial_delay_ms:   200
+
 # ── Catppuccin Mocha palette ────────────────────────────────────────────────
 theme:
   background:    "#1e1e2e"

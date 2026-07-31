@@ -5,7 +5,7 @@
   ──────
   1. Animated typing banner (full width)
   2. ASCII portrait  |  Info card  (side by side)
-  3. Languages       |  Tools & Environment  (side by side)
+  3. Tech stack SVG card  (Languages | Tools, full width)
   4. Contribution heatmap (full width)
   5. Streak stats    |  Top languages  (side by side)
   6. Spotify         |  Social badges  (side by side)
@@ -47,66 +47,13 @@
 
 <br/>
 
-<!-- ── 3. Language & tool icon badges ────────────────────────────────────── -->
+<!-- ── 3. Tech stack (generated SVG card) ─────────────────────────────────── -->
 <div align="center">
-  <table width="860">
-    <tr>
-      <td align="center" valign="top" width="50%">
-        <h4>🔧 Languages</h4>
-        <a href="https://en.wikipedia.org/wiki/C_(programming_language)">
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"
-               height="44" title="C" alt="C" />
-        </a>
-        &nbsp;&nbsp;
-        <a href="https://isocpp.org/">
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg"
-               height="44" title="C++" alt="C++" />
-        </a>
-        &nbsp;&nbsp;
-        <a href="https://www.python.org/">
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"
-               height="44" title="Python" alt="Python" />
-        </a>
-        &nbsp;&nbsp;
-        <a href="https://www.rust-lang.org/">
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rust/rust-original.svg"
-               height="44" title="Rust" alt="Rust" />
-        </a>
-      </td>
-      <td align="center" valign="top" width="50%">
-        <h4>⚙️ Tools & Environment</h4>
-        <a href="https://code.visualstudio.com/">
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"
-               height="44" title="VS Code" alt="VS Code" />
-        </a>
-        &nbsp;&nbsp;
-        <a href="https://neovim.io/">
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/neovim/neovim-original.svg"
-               height="44" title="Neovim" alt="Neovim" />
-        </a>
-        &nbsp;&nbsp;
-        <a href="https://git-scm.com/">
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"
-               height="44" title="Git" alt="Git" />
-        </a>
-        &nbsp;&nbsp;
-        <a href="https://www.linux.org/">
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"
-               height="44" title="Linux" alt="Linux" />
-        </a>
-        &nbsp;&nbsp;
-        <a href="https://ubuntu.com/">
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-original.svg"
-               height="44" title="Ubuntu" alt="Ubuntu" />
-        </a>
-        &nbsp;&nbsp;
-        <a href="https://www.gnu.org/software/bash/">
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg"
-               height="44" title="Bash" alt="Bash" />
-        </a>
-      </td>
-    </tr>
-  </table>
+  <img
+    src="generated/tech-stack.svg"
+    alt="Tech stack – Languages: C, C++, Python, Rust · Tools: VS Code, Zed, Neovim, Git, Linux, Bash"
+    width="860"
+  />
 </div>
 
 <br/>
