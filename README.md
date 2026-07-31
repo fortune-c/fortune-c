@@ -92,7 +92,7 @@
       <td align="center">
         <picture>
           <img
-            src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=fortune-c&theme=catppuccin_mocha&hide_border=true&layout=compact&langs_count=6&cache_seconds=86400"
+            src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=fortune-c&hide_border=true&layout=compact&langs_count=6&cache_seconds=86400&bg_color=1e1e2e&title_color=cdd6f4&text_color=a6adc8&icon_color=89b4fa"
             height="180"
             alt="Top languages"
           />
