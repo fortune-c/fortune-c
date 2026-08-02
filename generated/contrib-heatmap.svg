@@ -13,1136 +13,1118 @@
   </defs>
   <rect x="0" y="0" width="848" height="212" fill="#1e1e2e" rx="10" />
   <text x="424.0" y="27.0" fill="#cdd6f4" font-family="'Inter', 'Segoe UI', system-ui, sans-serif" font-size="16.0" font-weight="bold" text-anchor="middle" dominant-baseline="middle" opacity="1.0">Contribution Activity</text>
-  <text x="36.0" y="46.0" fill="#a6adc8" font-family="'Inter', 'Segoe UI', system-ui, sans-serif" font-size="10.0" font-weight="normal" text-anchor="start" dominant-baseline="auto" opacity="1.0">Jul</text>
-  <text x="51.0" y="46.0" fill="#a6adc8" font-family="'Inter', 'Segoe UI', system-ui, sans-serif" font-size="10.0" font-weight="normal" text-anchor="start" dominant-baseline="auto" opacity="1.0">Aug</text>
-  <text x="126.0" y="46.0" fill="#a6adc8" font-family="'Inter', 'Segoe UI', system-ui, sans-serif" font-size="10.0" font-weight="normal" text-anchor="start" dominant-baseline="auto" opacity="1.0">Sep</text>
-  <text x="186.0" y="46.0" fill="#a6adc8" font-family="'Inter', 'Segoe UI', system-ui, sans-serif" font-size="10.0" font-weight="normal" text-anchor="start" dominant-baseline="auto" opacity="1.0">Oct</text>
-  <text x="246.0" y="46.0" fill="#a6adc8" font-family="'Inter', 'Segoe UI', system-ui, sans-serif" font-size="10.0" font-weight="normal" text-anchor="start" dominant-baseline="auto" opacity="1.0">Nov</text>
-  <text x="321.0" y="46.0" fill="#a6adc8" font-family="'Inter', 'Segoe UI', system-ui, sans-serif" font-size="10.0" font-weight="normal" text-anchor="start" dominant-baseline="auto" opacity="1.0">Dec</text>
-  <text x="381.0" y="46.0" fill="#a6adc8" font-family="'Inter', 'Segoe UI', system-ui, sans-serif" font-size="10.0" font-weight="normal" text-anchor="start" dominant-baseline="auto" opacity="1.0">Jan</text>
-  <text x="441.0" y="46.0" fill="#a6adc8" font-family="'Inter', 'Segoe UI', system-ui, sans-serif" font-size="10.0" font-weight="normal" text-anchor="start" dominant-baseline="auto" opacity="1.0">Feb</text>
-  <text x="501.0" y="46.0" fill="#a6adc8" font-family="'Inter', 'Segoe UI', system-ui, sans-serif" font-size="10.0" font-weight="normal" text-anchor="start" dominant-baseline="auto" opacity="1.0">Mar</text>
-  <text x="576.0" y="46.0" fill="#a6adc8" font-family="'Inter', 'Segoe UI', system-ui, sans-serif" font-size="10.0" font-weight="normal" text-anchor="start" dominant-baseline="auto" opacity="1.0">Apr</text>
-  <text x="636.0" y="46.0" fill="#a6adc8" font-family="'Inter', 'Segoe UI', system-ui, sans-serif" font-size="10.0" font-weight="normal" text-anchor="start" dominant-baseline="auto" opacity="1.0">May</text>
-  <text x="711.0" y="46.0" fill="#a6adc8" font-family="'Inter', 'Segoe UI', system-ui, sans-serif" font-size="10.0" font-weight="normal" text-anchor="start" dominant-baseline="auto" opacity="1.0">Jun</text>
-  <text x="771.0" y="46.0" fill="#a6adc8" font-family="'Inter', 'Segoe UI', system-ui, sans-serif" font-size="10.0" font-weight="normal" text-anchor="start" dominant-baseline="auto" opacity="1.0">Jul</text>
+  <text x="36.0" y="46.0" fill="#a6adc8" font-family="'Inter', 'Segoe UI', system-ui, sans-serif" font-size="10.0" font-weight="normal" text-anchor="start" dominant-baseline="auto" opacity="1.0">Aug</text>
+  <text x="111.0" y="46.0" fill="#a6adc8" font-family="'Inter', 'Segoe UI', system-ui, sans-serif" font-size="10.0" font-weight="normal" text-anchor="start" dominant-baseline="auto" opacity="1.0">Sep</text>
+  <text x="171.0" y="46.0" fill="#a6adc8" font-family="'Inter', 'Segoe UI', system-ui, sans-serif" font-size="10.0" font-weight="normal" text-anchor="start" dominant-baseline="auto" opacity="1.0">Oct</text>
+  <text x="231.0" y="46.0" fill="#a6adc8" font-family="'Inter', 'Segoe UI', system-ui, sans-serif" font-size="10.0" font-weight="normal" text-anchor="start" dominant-baseline="auto" opacity="1.0">Nov</text>
+  <text x="306.0" y="46.0" fill="#a6adc8" font-family="'Inter', 'Segoe UI', system-ui, sans-serif" font-size="10.0" font-weight="normal" text-anchor="start" dominant-baseline="auto" opacity="1.0">Dec</text>
+  <text x="366.0" y="46.0" fill="#a6adc8" font-family="'Inter', 'Segoe UI', system-ui, sans-serif" font-size="10.0" font-weight="normal" text-anchor="start" dominant-baseline="auto" opacity="1.0">Jan</text>
+  <text x="426.0" y="46.0" fill="#a6adc8" font-family="'Inter', 'Segoe UI', system-ui, sans-serif" font-size="10.0" font-weight="normal" text-anchor="start" dominant-baseline="auto" opacity="1.0">Feb</text>
+  <text x="486.0" y="46.0" fill="#a6adc8" font-family="'Inter', 'Segoe UI', system-ui, sans-serif" font-size="10.0" font-weight="normal" text-anchor="start" dominant-baseline="auto" opacity="1.0">Mar</text>
+  <text x="561.0" y="46.0" fill="#a6adc8" font-family="'Inter', 'Segoe UI', system-ui, sans-serif" font-size="10.0" font-weight="normal" text-anchor="start" dominant-baseline="auto" opacity="1.0">Apr</text>
+  <text x="621.0" y="46.0" fill="#a6adc8" font-family="'Inter', 'Segoe UI', system-ui, sans-serif" font-size="10.0" font-weight="normal" text-anchor="start" dominant-baseline="auto" opacity="1.0">May</text>
+  <text x="696.0" y="46.0" fill="#a6adc8" font-family="'Inter', 'Segoe UI', system-ui, sans-serif" font-size="10.0" font-weight="normal" text-anchor="start" dominant-baseline="auto" opacity="1.0">Jun</text>
+  <text x="756.0" y="46.0" fill="#a6adc8" font-family="'Inter', 'Segoe UI', system-ui, sans-serif" font-size="10.0" font-weight="normal" text-anchor="start" dominant-baseline="auto" opacity="1.0">Jul</text>
+  <text x="816.0" y="46.0" fill="#a6adc8" font-family="'Inter', 'Segoe UI', system-ui, sans-serif" font-size="10.0" font-weight="normal" text-anchor="start" dominant-baseline="auto" opacity="1.0">Aug</text>
   <text x="32.0" y="66.0" fill="#a6adc8" font-family="'Inter', 'Segoe UI', system-ui, sans-serif" font-size="10.0" font-weight="normal" text-anchor="end" dominant-baseline="middle" opacity="1.0">Sun</text>
   <text x="32.0" y="96.0" fill="#a6adc8" font-family="'Inter', 'Segoe UI', system-ui, sans-serif" font-size="10.0" font-weight="normal" text-anchor="end" dominant-baseline="middle" opacity="1.0">Tue</text>
   <text x="32.0" y="126.0" fill="#a6adc8" font-family="'Inter', 'Segoe UI', system-ui, sans-serif" font-size="10.0" font-weight="normal" text-anchor="end" dominant-baseline="middle" opacity="1.0">Thu</text>
   <text x="32.0" y="156.0" fill="#a6adc8" font-family="'Inter', 'Segoe UI', system-ui, sans-serif" font-size="10.0" font-weight="normal" text-anchor="end" dominant-baseline="middle" opacity="1.0">Sat</text>
   <g>
-    <rect x="36.0" y="60.0" width="12.0" height="12.0" fill="#313244" rx="2.0" opacity="0" aria-label="0 contributions on 2025-07-27">
+    <rect x="36.0" y="60.0" width="12.0" height="12.0" fill="#313244" rx="2.0" opacity="0" aria-label="0 contributions on 2025-08-03">
       <animate attributeName="opacity" from="0" to="1" begin="0.000s" dur="0.300s" fill="freeze" />
     </rect>
-    <rect x="36.0" y="75.0" width="12.0" height="12.0" fill="#313244" rx="2.0" opacity="0" aria-label="0 contributions on 2025-07-28">
+    <rect x="36.0" y="75.0" width="12.0" height="12.0" fill="#313244" rx="2.0" opacity="0" aria-label="0 contributions on 2025-08-04">
       <animate attributeName="opacity" from="0" to="1" begin="0.006s" dur="0.300s" fill="freeze" />
     </rect>
-    <rect x="36.0" y="90.0" width="12.0" height="12.0" fill="#313244" rx="2.0" opacity="0" aria-label="0 contributions on 2025-07-29">
+    <rect x="36.0" y="90.0" width="12.0" height="12.0" fill="#313244" rx="2.0" opacity="0" aria-label="0 contributions on 2025-08-05">
       <animate attributeName="opacity" from="0" to="1" begin="0.012s" dur="0.300s" fill="freeze" />
     </rect>
-    <rect x="36.0" y="105.0" width="12.0" height="12.0" fill="#313244" rx="2.0" opacity="0" aria-label="0 contributions on 2025-07-30">
+    <rect x="36.0" y="105.0" width="12.0" height="12.0" fill="#313244" rx="2.0" opacity="0" aria-label="0 contributions on 2025-08-06">
       <animate attributeName="opacity" from="0" to="1" begin="0.018s" dur="0.300s" fill="freeze" />
     </rect>
-    <rect x="36.0" y="120.0" width="12.0" height="12.0" fill="#313244" rx="2.0" opacity="0" aria-label="0 contributions on 2025-07-31">
+    <rect x="36.0" y="120.0" width="12.0" height="12.0" fill="#313244" rx="2.0" opacity="0" aria-label="0 contributions on 2025-08-07">
       <animate attributeName="opacity" from="0" to="1" begin="0.024s" dur="0.300s" fill="freeze" />
     </rect>
-    <rect x="36.0" y="135.0" width="12.0" height="12.0" fill="#313244" rx="2.0" opacity="0" aria-label="0 contributions on 2025-08-01">
+    <rect x="36.0" y="135.0" width="12.0" height="12.0" fill="#313244" rx="2.0" opacity="0" aria-label="0 contributions on 2025-08-08">
       <animate attributeName="opacity" from="0" to="1" begin="0.030s" dur="0.300s" fill="freeze" />
     </rect>
-    <rect x="36.0" y="150.0" width="12.0" height="12.0" fill="#313244" rx="2.0" opacity="0" aria-label="0 contributions on 2025-08-02">
+    <rect x="36.0" y="150.0" width="12.0" height="12.0" fill="#313244" rx="2.0" opacity="0" aria-label="0 contributions on 2025-08-09">
       <animate attributeName="opacity" from="0" to="1" begin="0.036s" dur="0.300s" fill="freeze" />
     </rect>
-    <rect x="51.0" y="60.0" width="12.0" height="12.0" fill="#313244" rx="2.0" opacity="0" aria-label="0 contributions on 2025-08-03">
+    <rect x="51.0" y="60.0" width="12.0" height="12.0" fill="#313244" rx="2.0" opacity="0" aria-label="0 contributions on 2025-08-10">
       <animate attributeName="opacity" from="0" to="1" begin="0.006s" dur="0.300s" fill="freeze" />
     </rect>
-    <rect x="51.0" y="75.0" width="12.0" height="12.0" fill="#313244" rx="2.0" opacity="0" aria-label="0 contributions on 2025-08-04">
+    <rect x="51.0" y="75.0" width="12.0" height="12.0" fill="#313244" rx="2.0" opacity="0" aria-label="0 contributions on 2025-08-11">
       <animate attributeName="opacity" from="0" to="1" begin="0.012s" dur="0.300s" fill="freeze" />
     </rect>
-    <rect x="51.0" y="90.0" width="12.0" height="12.0" fill="#313244" rx="2.0" opacity="0" aria-label="0 contributions on 2025-08-05">
+    <rect x="51.0" y="90.0" width="12.0" height="12.0" fill="#313244" rx="2.0" opacity="0" aria-label="0 contributions on 2025-08-12">
       <animate attributeName="opacity" from="0" to="1" begin="0.018s" dur="0.300s" fill="freeze" />
     </rect>
-    <rect x="51.0" y="105.0" width="12.0" height="12.0" fill="#313244" rx="2.0" opacity="0" aria-label="0 contributions on 2025-08-06">
+    <rect x="51.0" y="105.0" width="12.0" height="12.0" fill="#313244" rx="2.0" opacity="0" aria-label="0 contributions on 2025-08-13">
       <animate attributeName="opacity" from="0" to="1" begin="0.024s" dur="0.300s" fill="freeze" />
     </rect>
-    <rect x="51.0" y="120.0" width="12.0" height="12.0" fill="#313244" rx="2.0" opacity="0" aria-label="0 contributions on 2025-08-07">
+    <rect x="51.0" y="120.0" width="12.0" height="12.0" fill="#313244" rx="2.0" opacity="0" aria-label="0 contributions on 2025-08-14">
       <animate attributeName="opacity" from="0" to="1" begin="0.030s" dur="0.300s" fill="freeze" />
     </rect>
-    <rect x="51.0" y="135.0" width="12.0" height="12.0" fill="#313244" rx="2.0" opacity="0" aria-label="0 contributions on 2025-08-08">
+    <rect x="51.0" y="135.0" width="12.0" height="12.0" fill="#313244" rx="2.0" opacity="0" aria-label="0 contributions on 2025-08-15">
       <animate attributeName="opacity" from="0" to="1" begin="0.036s" dur="0.300s" fill="freeze" />
     </rect>
-    <rect x="51.0" y="150.0" width="12.0" height="12.0" fill="#313244" rx="2.0" opacity="0" aria-label="0 contributions on 2025-08-09">
+    <rect x="51.0" y="150.0" width="12.0" height="12.0" fill="#313244" rx="2.0" opacity="0" aria-label="0 contributions on 2025-08-16">
       <animate attributeName="opacity" from="0" to="1" begin="0.042s" dur="0.300s" fill="freeze" />
     </rect>
-    <rect x="66.0" y="60.0" width="12.0" height="12.0" fill="#313244" rx="2.0" opacity="0" aria-label="0 contributions on 2025-08-10">
+    <rect x="66.0" y="60.0" width="12.0" height="12.0" fill="#313244" rx="2.0" opacity="0" aria-label="0 contributions on 2025-08-17">
       <animate attributeName="opacity" from="0" to="1" begin="0.012s" dur="0.300s" fill="freeze" />
     </rect>
-    <rect x="66.0" y="75.0" width="12.0" height="12.0" fill="#313244" rx="2.0" opacity="0" aria-label="0 contributions on 2025-08-11">
+    <rect x="66.0" y="75.0" width="12.0" height="12.0" fill="#313244" rx="2.0" opacity="0" aria-label="0 contributions on 2025-08-18">
       <animate attributeName="opacity" from="0" to="1" begin="0.018s" dur="0.300s" fill="freeze" />
     </rect>
-    <rect x="66.0" y="90.0" width="12.0" height="12.0" fill="#313244" rx="2.0" opacity="0" aria-label="0 contributions on 2025-08-12">
+    <rect x="66.0" y="90.0" width="12.0" height="12.0" fill="#313244" rx="2.0" opacity="0" aria-label="0 contributions on 2025-08-19">
       <animate attributeName="opacity" from="0" to="1" begin="0.024s" dur="0.300s" fill="freeze" />
     </rect>
-    <rect x="66.0" y="105.0" width="12.0" height="12.0" fill="#313244" rx="2.0" opacity="0" aria-label="0 contributions on 2025-08-13">
+    <rect x="66.0" y="105.0" width="12.0" height="12.0" fill="#313244" rx="2.0" opacity="0" aria-label="0 contributions on 2025-08-20">
       <animate attributeName="opacity" from="0" to="1" begin="0.030s" dur="0.300s" fill="freeze" />
     </rect>
-    <rect x="66.0" y="120.0" width="12.0" height="12.0" fill="#313244" rx="2.0" opacity="0" aria-label="0 contributions on 2025-08-14">
+    <rect x="66.0" y="120.0" width="12.0" height="12.0" fill="#313244" rx="2.0" opacity="0" aria-label="0 contributions on 2025-08-21">
       <animate attributeName="opacity" from="0" to="1" begin="0.036s" dur="0.300s" fill="freeze" />
     </rect>
-    <rect x="66.0" y="135.0" width="12.0" height="12.0" fill="#313244" rx="2.0" opacity="0" aria-label="0 contributions on 2025-08-15">
+    <rect x="66.0" y="135.0" width="12.0" height="12.0" fill="#313244" rx="2.0" opacity="0" aria-label="0 contributions on 2025-08-22">
       <animate attributeName="opacity" from="0" to="1" begin="0.042s" dur="0.300s" fill="freeze" />
     </rect>
-    <rect x="66.0" y="150.0" width="12.0" height="12.0" fill="#313244" rx="2.0" opacity="0" aria-label="0 contributions on 2025-08-16">
+    <rect x="66.0" y="150.0" width="12.0" height="12.0" fill="#313244" rx="2.0" opacity="0" aria-label="0 contributions on 2025-08-23">
       <animate attributeName="opacity" from="0" to="1" begin="0.048s" dur="0.300s" fill="freeze" />
     </rect>
-    <rect x="81.0" y="60.0" width="12.0" height="12.0" fill="#313244" rx="2.0" opacity="0" aria-label="0 contributions on 2025-08-17">
+    <rect x="81.0" y="60.0" width="12.0" height="12.0" fill="#313244" rx="2.0" opacity="0" aria-label="0 contributions on 2025-08-24">
       <animate attributeName="opacity" from="0" to="1" begin="0.018s" dur="0.300s" fill="freeze" />
     </rect>
-    <rect x="81.0" y="75.0" width="12.0" height="12.0" fill="#313244" rx="2.0" opacity="0" aria-label="0 contributions on 2025-08-18">
+    <rect x="81.0" y="75.0" width="12.0" height="12.0" fill="#313244" rx="2.0" opacity="0" aria-label="0 contributions on 2025-08-25">
       <animate attributeName="opacity" from="0" to="1" begin="0.024s" dur="0.300s" fill="freeze" />
     </rect>
-    <rect x="81.0" y="90.0" width="12.0" height="12.0" fill="#313244" rx="2.0" opacity="0" aria-label="0 contributions on 2025-08-19">
+    <rect x="81.0" y="90.0" width="12.0" height="12.0" fill="#313244" rx="2.0" opacity="0" aria-label="0 contributions on 2025-08-26">
       <animate attributeName="opacity" from="0" to="1" begin="0.030s" dur="0.300s" fill="freeze" />
     </rect>
-    <rect x="81.0" y="105.0" width="12.0" height="12.0" fill="#313244" rx="2.0" opacity="0" aria-label="0 contributions on 2025-08-20">
+    <rect x="81.0" y="105.0" width="12.0" height="12.0" fill="#313244" rx="2.0" opacity="0" aria-label="0 contributions on 2025-08-27">
       <animate attributeName="opacity" from="0" to="1" begin="0.036s" dur="0.300s" fill="freeze" />
     </rect>
-    <rect x="81.0" y="120.0" width="12.0" height="12.0" fill="#313244" rx="2.0" opacity="0" aria-label="0 contributions on 2025-08-21">
+    <rect x="81.0" y="120.0" width="12.0" height="12.0" fill="#313244" rx="2.0" opacity="0" aria-label="0 contributions on 2025-08-28">
       <animate attributeName="opacity" from="0" to="1" begin="0.042s" dur="0.300s" fill="freeze" />
     </rect>
-    <rect x="81.0" y="135.0" width="12.0" height="12.0" fill="#313244" rx="2.0" opacity="0" aria-label="0 contributions on 2025-08-22">
+    <rect x="81.0" y="135.0" width="12.0" height="12.0" fill="#313244" rx="2.0" opacity="0" aria-label="0 contributions on 2025-08-29">
       <animate attributeName="opacity" from="0" to="1" begin="0.048s" dur="0.300s" fill="freeze" />
     </rect>
-    <rect x="81.0" y="150.0" width="12.0" height="12.0" fill="#313244" rx="2.0" opacity="0" aria-label="0 contributions on 2025-08-23">
+    <rect x="81.0" y="150.0" width="12.0" height="12.0" fill="#313244" rx="2.0" opacity="0" aria-label="0 contributions on 2025-08-30">
       <animate attributeName="opacity" from="0" to="1" begin="0.054s" dur="0.300s" fill="freeze" />
     </rect>
-    <rect x="96.0" y="60.0" width="12.0" height="12.0" fill="#313244" rx="2.0" opacity="0" aria-label="0 contributions on 2025-08-24">
+    <rect x="96.0" y="60.0" width="12.0" height="12.0" fill="#313244" rx="2.0" opacity="0" aria-label="0 contributions on 2025-08-31">
       <animate attributeName="opacity" from="0" to="1" begin="0.024s" dur="0.300s" fill="freeze" />
     </rect>
-    <rect x="96.0" y="75.0" width="12.0" height="12.0" fill="#313244" rx="2.0" opacity="0" aria-label="0 contributions on 2025-08-25">
+    <rect x="96.0" y="75.0" width="12.0" height="12.0" fill="#313244" rx="2.0" opacity="0" aria-label="0 contributions on 2025-09-01">
       <animate attributeName="opacity" from="0" to="1" begin="0.030s" dur="0.300s" fill="freeze" />
     </rect>
-    <rect x="96.0" y="90.0" width="12.0" height="12.0" fill="#313244" rx="2.0" opacity="0" aria-label="0 contributions on 2025-08-26">
+    <rect x="96.0" y="90.0" width="12.0" height="12.0" fill="#313244" rx="2.0" opacity="0" aria-label="0 contributions on 2025-09-02">
       <animate attributeName="opacity" from="0" to="1" begin="0.036s" dur="0.300s" fill="freeze" />
     </rect>
-    <rect x="96.0" y="105.0" width="12.0" height="12.0" fill="#313244" rx="2.0" opacity="0" aria-label="0 contributions on 2025-08-27">
+    <rect x="96.0" y="105.0" width="12.0" height="12.0" fill="#313244" rx="2.0" opacity="0" aria-label="0 contributions on 2025-09-03">
       <animate attributeName="opacity" from="0" to="1" begin="0.042s" dur="0.300s" fill="freeze" />
     </rect>
-    <rect x="96.0" y="120.0" width="12.0" height="12.0" fill="#313244" rx="2.0" opacity="0" aria-label="0 contributions on 2025-08-28">
+    <rect x="96.0" y="120.0" width="12.0" height="12.0" fill="#313244" rx="2.0" opacity="0" aria-label="0 contributions on 2025-09-04">
       <animate attributeName="opacity" from="0" to="1" begin="0.048s" dur="0.300s" fill="freeze" />
     </rect>
-    <rect x="96.0" y="135.0" width="12.0" height="12.0" fill="#313244" rx="2.0" opacity="0" aria-label="0 contributions on 2025-08-29">
+    <rect x="96.0" y="135.0" width="12.0" height="12.0" fill="#313244" rx="2.0" opacity="0" aria-label="0 contributions on 2025-09-05">
       <animate attributeName="opacity" from="0" to="1" begin="0.054s" dur="0.300s" fill="freeze" />
     </rect>
-    <rect x="96.0" y="150.0" width="12.0" height="12.0" fill="#313244" rx="2.0" opacity="0" aria-label="0 contributions on 2025-08-30">
+    <rect x="96.0" y="150.0" width="12.0" height="12.0" fill="#313244" rx="2.0" opacity="0" aria-label="0 contributions on 2025-09-06">
       <animate attributeName="opacity" from="0" to="1" begin="0.060s" dur="0.300s" fill="freeze" />
     </rect>
-    <rect x="111.0" y="60.0" width="12.0" height="12.0" fill="#313244" rx="2.0" opacity="0" aria-label="0 contributions on 2025-08-31">
+    <rect x="111.0" y="60.0" width="12.0" height="12.0" fill="#313244" rx="2.0" opacity="0" aria-label="0 contributions on 2025-09-07">
       <animate attributeName="opacity" from="0" to="1" begin="0.030s" dur="0.300s" fill="freeze" />
     </rect>
-    <rect x="111.0" y="75.0" width="12.0" height="12.0" fill="#313244" rx="2.0" opacity="0" aria-label="0 contributions on 2025-09-01">
+    <rect x="111.0" y="75.0" width="12.0" height="12.0" fill="#313244" rx="2.0" opacity="0" aria-label="0 contributions on 2025-09-08">
       <animate attributeName="opacity" from="0" to="1" begin="0.036s" dur="0.300s" fill="freeze" />
     </rect>
-    <rect x="111.0" y="90.0" width="12.0" height="12.0" fill="#313244" rx="2.0" opacity="0" aria-label="0 contributions on 2025-09-02">
+    <rect x="111.0" y="90.0" width="12.0" height="12.0" fill="#313244" rx="2.0" opacity="0" aria-label="0 contributions on 2025-09-09">
       <animate attributeName="opacity" from="0" to="1" begin="0.042s" dur="0.300s" fill="freeze" />
     </rect>
-    <rect x="111.0" y="105.0" width="12.0" height="12.0" fill="#313244" rx="2.0" opacity="0" aria-label="0 contributions on 2025-09-03">
+    <rect x="111.0" y="105.0" width="12.0" height="12.0" fill="#313244" rx="2.0" opacity="0" aria-label="0 contributions on 2025-09-10">
       <animate attributeName="opacity" from="0" to="1" begin="0.048s" dur="0.300s" fill="freeze" />
     </rect>
-    <rect x="111.0" y="120.0" width="12.0" height="12.0" fill="#313244" rx="2.0" opacity="0" aria-label="0 contributions on 2025-09-04">
+    <rect x="111.0" y="120.0" width="12.0" height="12.0" fill="#313244" rx="2.0" opacity="0" aria-label="0 contributions on 2025-09-11">
       <animate attributeName="opacity" from="0" to="1" begin="0.054s" dur="0.300s" fill="freeze" />
     </rect>
-    <rect x="111.0" y="135.0" width="12.0" height="12.0" fill="#313244" rx="2.0" opacity="0" aria-label="0 contributions on 2025-09-05">
+    <rect x="111.0" y="135.0" width="12.0" height="12.0" fill="#313244" rx="2.0" opacity="0" aria-label="0 contributions on 2025-09-12">
       <animate attributeName="opacity" from="0" to="1" begin="0.060s" dur="0.300s" fill="freeze" />
     </rect>
-    <rect x="111.0" y="150.0" width="12.0" height="12.0" fill="#313244" rx="2.0" opacity="0" aria-label="0 contributions on 2025-09-06">
+    <rect x="111.0" y="150.0" width="12.0" height="12.0" fill="#313244" rx="2.0" opacity="0" aria-label="0 contributions on 2025-09-13">
       <animate attributeName="opacity" from="0" to="1" begin="0.066s" dur="0.300s" fill="freeze" />
     </rect>
-    <rect x="126.0" y="60.0" width="12.0" height="12.0" fill="#313244" rx="2.0" opacity="0" aria-label="0 contributions on 2025-09-07">
+    <rect x="126.0" y="60.0" width="12.0" height="12.0" fill="#313244" rx="2.0" opacity="0" aria-label="0 contributions on 2025-09-14">
       <animate attributeName="opacity" from="0" to="1" begin="0.036s" dur="0.300s" fill="freeze" />
     </rect>
-    <rect x="126.0" y="75.0" width="12.0" height="12.0" fill="#313244" rx="2.0" opacity="0" aria-label="0 contributions on 2025-09-08">
+    <rect x="126.0" y="75.0" width="12.0" height="12.0" fill="#313244" rx="2.0" opacity="0" aria-label="0 contributions on 2025-09-15">
       <animate attributeName="opacity" from="0" to="1" begin="0.042s" dur="0.300s" fill="freeze" />
     </rect>
-    <rect x="126.0" y="90.0" width="12.0" height="12.0" fill="#313244" rx="2.0" opacity="0" aria-label="0 contributions on 2025-09-09">
+    <rect x="126.0" y="90.0" width="12.0" height="12.0" fill="#313244" rx="2.0" opacity="0" aria-label="0 contributions on 2025-09-16">
       <animate attributeName="opacity" from="0" to="1" begin="0.048s" dur="0.300s" fill="freeze" />
     </rect>
-    <rect x="126.0" y="105.0" width="12.0" height="12.0" fill="#313244" rx="2.0" opacity="0" aria-label="0 contributions on 2025-09-10">
+    <rect x="126.0" y="105.0" width="12.0" height="12.0" fill="#313244" rx="2.0" opacity="0" aria-label="0 contributions on 2025-09-17">
       <animate attributeName="opacity" from="0" to="1" begin="0.054s" dur="0.300s" fill="freeze" />
     </rect>
-    <rect x="126.0" y="120.0" width="12.0" height="12.0" fill="#313244" rx="2.0" opacity="0" aria-label="0 contributions on 2025-09-11">
+    <rect x="126.0" y="120.0" width="12.0" height="12.0" fill="#313244" rx="2.0" opacity="0" aria-label="0 contributions on 2025-09-18">
       <animate attributeName="opacity" from="0" to="1" begin="0.060s" dur="0.300s" fill="freeze" />
     </rect>
-    <rect x="126.0" y="135.0" width="12.0" height="12.0" fill="#313244" rx="2.0" opacity="0" aria-label="0 contributions on 2025-09-12">
+    <rect x="126.0" y="135.0" width="12.0" height="12.0" fill="#313244" rx="2.0" opacity="0" aria-label="0 contributions on 2025-09-19">
       <animate attributeName="opacity" from="0" to="1" begin="0.066s" dur="0.300s" fill="freeze" />
     </rect>
-    <rect x="126.0" y="150.0" width="12.0" height="12.0" fill="#313244" rx="2.0" opacity="0" aria-label="0 contributions on 2025-09-13">
+    <rect x="126.0" y="150.0" width="12.0" height="12.0" fill="#313244" rx="2.0" opacity="0" aria-label="0 contributions on 2025-09-20">
       <animate attributeName="opacity" from="0" to="1" begin="0.072s" dur="0.300s" fill="freeze" />
     </rect>
-    <rect x="141.0" y="60.0" width="12.0" height="12.0" fill="#313244" rx="2.0" opacity="0" aria-label="0 contributions on 2025-09-14">
+    <rect x="141.0" y="60.0" width="12.0" height="12.0" fill="#313244" rx="2.0" opacity="0" aria-label="0 contributions on 2025-09-21">
       <animate attributeName="opacity" from="0" to="1" begin="0.042s" dur="0.300s" fill="freeze" />
     </rect>
-    <rect x="141.0" y="75.0" width="12.0" height="12.0" fill="#313244" rx="2.0" opacity="0" aria-label="0 contributions on 2025-09-15">
+    <rect x="141.0" y="75.0" width="12.0" height="12.0" fill="#313244" rx="2.0" opacity="0" aria-label="0 contributions on 2025-09-22">
       <animate attributeName="opacity" from="0" to="1" begin="0.048s" dur="0.300s" fill="freeze" />
     </rect>
-    <rect x="141.0" y="90.0" width="12.0" height="12.0" fill="#313244" rx="2.0" opacity="0" aria-label="0 contributions on 2025-09-16">
+    <rect x="141.0" y="90.0" width="12.0" height="12.0" fill="#45475a" rx="2.0" opacity="0" aria-label="0 contributions on 2025-09-23">
       <animate attributeName="opacity" from="0" to="1" begin="0.054s" dur="0.300s" fill="freeze" />
     </rect>
-    <rect x="141.0" y="105.0" width="12.0" height="12.0" fill="#313244" rx="2.0" opacity="0" aria-label="0 contributions on 2025-09-17">
+    <rect x="141.0" y="105.0" width="12.0" height="12.0" fill="#313244" rx="2.0" opacity="0" aria-label="0 contributions on 2025-09-24">
       <animate attributeName="opacity" from="0" to="1" begin="0.060s" dur="0.300s" fill="freeze" />
     </rect>
-    <rect x="141.0" y="120.0" width="12.0" height="12.0" fill="#313244" rx="2.0" opacity="0" aria-label="0 contributions on 2025-09-18">
+    <rect x="141.0" y="120.0" width="12.0" height="12.0" fill="#313244" rx="2.0" opacity="0" aria-label="0 contributions on 2025-09-25">
       <animate attributeName="opacity" from="0" to="1" begin="0.066s" dur="0.300s" fill="freeze" />
     </rect>
-    <rect x="141.0" y="135.0" width="12.0" height="12.0" fill="#313244" rx="2.0" opacity="0" aria-label="0 contributions on 2025-09-19">
+    <rect x="141.0" y="135.0" width="12.0" height="12.0" fill="#313244" rx="2.0" opacity="0" aria-label="0 contributions on 2025-09-26">
       <animate attributeName="opacity" from="0" to="1" begin="0.072s" dur="0.300s" fill="freeze" />
     </rect>
-    <rect x="141.0" y="150.0" width="12.0" height="12.0" fill="#313244" rx="2.0" opacity="0" aria-label="0 contributions on 2025-09-20">
+    <rect x="141.0" y="150.0" width="12.0" height="12.0" fill="#313244" rx="2.0" opacity="0" aria-label="0 contributions on 2025-09-27">
       <animate attributeName="opacity" from="0" to="1" begin="0.078s" dur="0.300s" fill="freeze" />
     </rect>
-    <rect x="156.0" y="60.0" width="12.0" height="12.0" fill="#313244" rx="2.0" opacity="0" aria-label="0 contributions on 2025-09-21">
+    <rect x="156.0" y="60.0" width="12.0" height="12.0" fill="#313244" rx="2.0" opacity="0" aria-label="0 contributions on 2025-09-28">
       <animate attributeName="opacity" from="0" to="1" begin="0.048s" dur="0.300s" fill="freeze" />
     </rect>
-    <rect x="156.0" y="75.0" width="12.0" height="12.0" fill="#313244" rx="2.0" opacity="0" aria-label="0 contributions on 2025-09-22">
+    <rect x="156.0" y="75.0" width="12.0" height="12.0" fill="#313244" rx="2.0" opacity="0" aria-label="0 contributions on 2025-09-29">
       <animate attributeName="opacity" from="0" to="1" begin="0.054s" dur="0.300s" fill="freeze" />
     </rect>
-    <rect x="156.0" y="90.0" width="12.0" height="12.0" fill="#45475a" rx="2.0" opacity="0" aria-label="0 contributions on 2025-09-23">
+    <rect x="156.0" y="90.0" width="12.0" height="12.0" fill="#313244" rx="2.0" opacity="0" aria-label="0 contributions on 2025-09-30">
       <animate attributeName="opacity" from="0" to="1" begin="0.060s" dur="0.300s" fill="freeze" />
     </rect>
-    <rect x="156.0" y="105.0" width="12.0" height="12.0" fill="#313244" rx="2.0" opacity="0" aria-label="0 contributions on 2025-09-24">
+    <rect x="156.0" y="105.0" width="12.0" height="12.0" fill="#313244" rx="2.0" opacity="0" aria-label="0 contributions on 2025-10-01">
       <animate attributeName="opacity" from="0" to="1" begin="0.066s" dur="0.300s" fill="freeze" />
     </rect>
-    <rect x="156.0" y="120.0" width="12.0" height="12.0" fill="#313244" rx="2.0" opacity="0" aria-label="0 contributions on 2025-09-25">
+    <rect x="156.0" y="120.0" width="12.0" height="12.0" fill="#313244" rx="2.0" opacity="0" aria-label="0 contributions on 2025-10-02">
       <animate attributeName="opacity" from="0" to="1" begin="0.072s" dur="0.300s" fill="freeze" />
     </rect>
-    <rect x="156.0" y="135.0" width="12.0" height="12.0" fill="#313244" rx="2.0" opacity="0" aria-label="0 contributions on 2025-09-26">
+    <rect x="156.0" y="135.0" width="12.0" height="12.0" fill="#313244" rx="2.0" opacity="0" aria-label="0 contributions on 2025-10-03">
       <animate attributeName="opacity" from="0" to="1" begin="0.078s" dur="0.300s" fill="freeze" />
     </rect>
-    <rect x="156.0" y="150.0" width="12.0" height="12.0" fill="#313244" rx="2.0" opacity="0" aria-label="0 contributions on 2025-09-27">
+    <rect x="156.0" y="150.0" width="12.0" height="12.0" fill="#313244" rx="2.0" opacity="0" aria-label="0 contributions on 2025-10-04">
       <animate attributeName="opacity" from="0" to="1" begin="0.084s" dur="0.300s" fill="freeze" />
     </rect>
-    <rect x="171.0" y="60.0" width="12.0" height="12.0" fill="#313244" rx="2.0" opacity="0" aria-label="0 contributions on 2025-09-28">
+    <rect x="171.0" y="60.0" width="12.0" height="12.0" fill="#313244" rx="2.0" opacity="0" aria-label="0 contributions on 2025-10-05">
       <animate attributeName="opacity" from="0" to="1" begin="0.054s" dur="0.300s" fill="freeze" />
     </rect>
-    <rect x="171.0" y="75.0" width="12.0" height="12.0" fill="#313244" rx="2.0" opacity="0" aria-label="0 contributions on 2025-09-29">
+    <rect x="171.0" y="75.0" width="12.0" height="12.0" fill="#313244" rx="2.0" opacity="0" aria-label="0 contributions on 2025-10-06">
       <animate attributeName="opacity" from="0" to="1" begin="0.060s" dur="0.300s" fill="freeze" />
     </rect>
-    <rect x="171.0" y="90.0" width="12.0" height="12.0" fill="#313244" rx="2.0" opacity="0" aria-label="0 contributions on 2025-09-30">
+    <rect x="171.0" y="90.0" width="12.0" height="12.0" fill="#313244" rx="2.0" opacity="0" aria-label="0 contributions on 2025-10-07">
       <animate attributeName="opacity" from="0" to="1" begin="0.066s" dur="0.300s" fill="freeze" />
     </rect>
-    <rect x="171.0" y="105.0" width="12.0" height="12.0" fill="#313244" rx="2.0" opacity="0" aria-label="0 contributions on 2025-10-01">
+    <rect x="171.0" y="105.0" width="12.0" height="12.0" fill="#313244" rx="2.0" opacity="0" aria-label="0 contributions on 2025-10-08">
       <animate attributeName="opacity" from="0" to="1" begin="0.072s" dur="0.300s" fill="freeze" />
     </rect>
-    <rect x="171.0" y="120.0" width="12.0" height="12.0" fill="#313244" rx="2.0" opacity="0" aria-label="0 contributions on 2025-10-02">
+    <rect x="171.0" y="120.0" width="12.0" height="12.0" fill="#313244" rx="2.0" opacity="0" aria-label="0 contributions on 2025-10-09">
       <animate attributeName="opacity" from="0" to="1" begin="0.078s" dur="0.300s" fill="freeze" />
     </rect>
-    <rect x="171.0" y="135.0" width="12.0" height="12.0" fill="#313244" rx="2.0" opacity="0" aria-label="0 contributions on 2025-10-03">
+    <rect x="171.0" y="135.0" width="12.0" height="12.0" fill="#313244" rx="2.0" opacity="0" aria-label="0 contributions on 2025-10-10">
       <animate attributeName="opacity" from="0" to="1" begin="0.084s" dur="0.300s" fill="freeze" />
     </rect>
-    <rect x="171.0" y="150.0" width="12.0" height="12.0" fill="#313244" rx="2.0" opacity="0" aria-label="0 contributions on 2025-10-04">
+    <rect x="171.0" y="150.0" width="12.0" height="12.0" fill="#313244" rx="2.0" opacity="0" aria-label="0 contributions on 2025-10-11">
       <animate attributeName="opacity" from="0" to="1" begin="0.090s" dur="0.300s" fill="freeze" />
     </rect>
-    <rect x="186.0" y="60.0" width="12.0" height="12.0" fill="#313244" rx="2.0" opacity="0" aria-label="0 contributions on 2025-10-05">
+    <rect x="186.0" y="60.0" width="12.0" height="12.0" fill="#313244" rx="2.0" opacity="0" aria-label="0 contributions on 2025-10-12">
       <animate attributeName="opacity" from="0" to="1" begin="0.060s" dur="0.300s" fill="freeze" />
     </rect>
-    <rect x="186.0" y="75.0" width="12.0" height="12.0" fill="#313244" rx="2.0" opacity="0" aria-label="0 contributions on 2025-10-06">
+    <rect x="186.0" y="75.0" width="12.0" height="12.0" fill="#313244" rx="2.0" opacity="0" aria-label="0 contributions on 2025-10-13">
       <animate attributeName="opacity" from="0" to="1" begin="0.066s" dur="0.300s" fill="freeze" />
     </rect>
-    <rect x="186.0" y="90.0" width="12.0" height="12.0" fill="#313244" rx="2.0" opacity="0" aria-label="0 contributions on 2025-10-07">
+    <rect x="186.0" y="90.0" width="12.0" height="12.0" fill="#313244" rx="2.0" opacity="0" aria-label="0 contributions on 2025-10-14">
       <animate attributeName="opacity" from="0" to="1" begin="0.072s" dur="0.300s" fill="freeze" />
     </rect>
-    <rect x="186.0" y="105.0" width="12.0" height="12.0" fill="#313244" rx="2.0" opacity="0" aria-label="0 contributions on 2025-10-08">
+    <rect x="186.0" y="105.0" width="12.0" height="12.0" fill="#313244" rx="2.0" opacity="0" aria-label="0 contributions on 2025-10-15">
       <animate attributeName="opacity" from="0" to="1" begin="0.078s" dur="0.300s" fill="freeze" />
     </rect>
-    <rect x="186.0" y="120.0" width="12.0" height="12.0" fill="#313244" rx="2.0" opacity="0" aria-label="0 contributions on 2025-10-09">
+    <rect x="186.0" y="120.0" width="12.0" height="12.0" fill="#313244" rx="2.0" opacity="0" aria-label="0 contributions on 2025-10-16">
       <animate attributeName="opacity" from="0" to="1" begin="0.084s" dur="0.300s" fill="freeze" />
     </rect>
-    <rect x="186.0" y="135.0" width="12.0" height="12.0" fill="#313244" rx="2.0" opacity="0" aria-label="0 contributions on 2025-10-10">
+    <rect x="186.0" y="135.0" width="12.0" height="12.0" fill="#313244" rx="2.0" opacity="0" aria-label="0 contributions on 2025-10-17">
       <animate attributeName="opacity" from="0" to="1" begin="0.090s" dur="0.300s" fill="freeze" />
     </rect>
-    <rect x="186.0" y="150.0" width="12.0" height="12.0" fill="#313244" rx="2.0" opacity="0" aria-label="0 contributions on 2025-10-11">
+    <rect x="186.0" y="150.0" width="12.0" height="12.0" fill="#313244" rx="2.0" opacity="0" aria-label="0 contributions on 2025-10-18">
       <animate attributeName="opacity" from="0" to="1" begin="0.096s" dur="0.300s" fill="freeze" />
     </rect>
-    <rect x="201.0" y="60.0" width="12.0" height="12.0" fill="#313244" rx="2.0" opacity="0" aria-label="0 contributions on 2025-10-12">
+    <rect x="201.0" y="60.0" width="12.0" height="12.0" fill="#313244" rx="2.0" opacity="0" aria-label="0 contributions on 2025-10-19">
       <animate attributeName="opacity" from="0" to="1" begin="0.066s" dur="0.300s" fill="freeze" />
     </rect>
-    <rect x="201.0" y="75.0" width="12.0" height="12.0" fill="#313244" rx="2.0" opacity="0" aria-label="0 contributions on 2025-10-13">
+    <rect x="201.0" y="75.0" width="12.0" height="12.0" fill="#313244" rx="2.0" opacity="0" aria-label="0 contributions on 2025-10-20">
       <animate attributeName="opacity" from="0" to="1" begin="0.072s" dur="0.300s" fill="freeze" />
     </rect>
-    <rect x="201.0" y="90.0" width="12.0" height="12.0" fill="#313244" rx="2.0" opacity="0" aria-label="0 contributions on 2025-10-14">
+    <rect x="201.0" y="90.0" width="12.0" height="12.0" fill="#313244" rx="2.0" opacity="0" aria-label="0 contributions on 2025-10-21">
       <animate attributeName="opacity" from="0" to="1" begin="0.078s" dur="0.300s" fill="freeze" />
     </rect>
-    <rect x="201.0" y="105.0" width="12.0" height="12.0" fill="#313244" rx="2.0" opacity="0" aria-label="0 contributions on 2025-10-15">
+    <rect x="201.0" y="105.0" width="12.0" height="12.0" fill="#313244" rx="2.0" opacity="0" aria-label="0 contributions on 2025-10-22">
       <animate attributeName="opacity" from="0" to="1" begin="0.084s" dur="0.300s" fill="freeze" />
     </rect>
-    <rect x="201.0" y="120.0" width="12.0" height="12.0" fill="#313244" rx="2.0" opacity="0" aria-label="0 contributions on 2025-10-16">
+    <rect x="201.0" y="120.0" width="12.0" height="12.0" fill="#313244" rx="2.0" opacity="0" aria-label="0 contributions on 2025-10-23">
       <animate attributeName="opacity" from="0" to="1" begin="0.090s" dur="0.300s" fill="freeze" />
     </rect>
-    <rect x="201.0" y="135.0" width="12.0" height="12.0" fill="#313244" rx="2.0" opacity="0" aria-label="0 contributions on 2025-10-17">
+    <rect x="201.0" y="135.0" width="12.0" height="12.0" fill="#313244" rx="2.0" opacity="0" aria-label="0 contributions on 2025-10-24">
       <animate attributeName="opacity" from="0" to="1" begin="0.096s" dur="0.300s" fill="freeze" />
     </rect>
-    <rect x="201.0" y="150.0" width="12.0" height="12.0" fill="#313244" rx="2.0" opacity="0" aria-label="0 contributions on 2025-10-18">
+    <rect x="201.0" y="150.0" width="12.0" height="12.0" fill="#313244" rx="2.0" opacity="0" aria-label="0 contributions on 2025-10-25">
       <animate attributeName="opacity" from="0" to="1" begin="0.102s" dur="0.300s" fill="freeze" />
     </rect>
-    <rect x="216.0" y="60.0" width="12.0" height="12.0" fill="#313244" rx="2.0" opacity="0" aria-label="0 contributions on 2025-10-19">
+    <rect x="216.0" y="60.0" width="12.0" height="12.0" fill="#313244" rx="2.0" opacity="0" aria-label="0 contributions on 2025-10-26">
       <animate attributeName="opacity" from="0" to="1" begin="0.072s" dur="0.300s" fill="freeze" />
     </rect>
-    <rect x="216.0" y="75.0" width="12.0" height="12.0" fill="#313244" rx="2.0" opacity="0" aria-label="0 contributions on 2025-10-20">
+    <rect x="216.0" y="75.0" width="12.0" height="12.0" fill="#313244" rx="2.0" opacity="0" aria-label="0 contributions on 2025-10-27">
       <animate attributeName="opacity" from="0" to="1" begin="0.078s" dur="0.300s" fill="freeze" />
     </rect>
-    <rect x="216.0" y="90.0" width="12.0" height="12.0" fill="#313244" rx="2.0" opacity="0" aria-label="0 contributions on 2025-10-21">
+    <rect x="216.0" y="90.0" width="12.0" height="12.0" fill="#313244" rx="2.0" opacity="0" aria-label="0 contributions on 2025-10-28">
       <animate attributeName="opacity" from="0" to="1" begin="0.084s" dur="0.300s" fill="freeze" />
     </rect>
-    <rect x="216.0" y="105.0" width="12.0" height="12.0" fill="#313244" rx="2.0" opacity="0" aria-label="0 contributions on 2025-10-22">
+    <rect x="216.0" y="105.0" width="12.0" height="12.0" fill="#313244" rx="2.0" opacity="0" aria-label="0 contributions on 2025-10-29">
       <animate attributeName="opacity" from="0" to="1" begin="0.090s" dur="0.300s" fill="freeze" />
     </rect>
-    <rect x="216.0" y="120.0" width="12.0" height="12.0" fill="#313244" rx="2.0" opacity="0" aria-label="0 contributions on 2025-10-23">
+    <rect x="216.0" y="120.0" width="12.0" height="12.0" fill="#313244" rx="2.0" opacity="0" aria-label="0 contributions on 2025-10-30">
       <animate attributeName="opacity" from="0" to="1" begin="0.096s" dur="0.300s" fill="freeze" />
     </rect>
-    <rect x="216.0" y="135.0" width="12.0" height="12.0" fill="#313244" rx="2.0" opacity="0" aria-label="0 contributions on 2025-10-24">
+    <rect x="216.0" y="135.0" width="12.0" height="12.0" fill="#313244" rx="2.0" opacity="0" aria-label="0 contributions on 2025-10-31">
       <animate attributeName="opacity" from="0" to="1" begin="0.102s" dur="0.300s" fill="freeze" />
     </rect>
-    <rect x="216.0" y="150.0" width="12.0" height="12.0" fill="#313244" rx="2.0" opacity="0" aria-label="0 contributions on 2025-10-25">
+    <rect x="216.0" y="150.0" width="12.0" height="12.0" fill="#313244" rx="2.0" opacity="0" aria-label="0 contributions on 2025-11-01">
       <animate attributeName="opacity" from="0" to="1" begin="0.108s" dur="0.300s" fill="freeze" />
     </rect>
-    <rect x="231.0" y="60.0" width="12.0" height="12.0" fill="#313244" rx="2.0" opacity="0" aria-label="0 contributions on 2025-10-26">
+    <rect x="231.0" y="60.0" width="12.0" height="12.0" fill="#313244" rx="2.0" opacity="0" aria-label="0 contributions on 2025-11-02">
       <animate attributeName="opacity" from="0" to="1" begin="0.078s" dur="0.300s" fill="freeze" />
     </rect>
-    <rect x="231.0" y="75.0" width="12.0" height="12.0" fill="#313244" rx="2.0" opacity="0" aria-label="0 contributions on 2025-10-27">
+    <rect x="231.0" y="75.0" width="12.0" height="12.0" fill="#313244" rx="2.0" opacity="0" aria-label="0 contributions on 2025-11-03">
       <animate attributeName="opacity" from="0" to="1" begin="0.084s" dur="0.300s" fill="freeze" />
     </rect>
-    <rect x="231.0" y="90.0" width="12.0" height="12.0" fill="#313244" rx="2.0" opacity="0" aria-label="0 contributions on 2025-10-28">
+    <rect x="231.0" y="90.0" width="12.0" height="12.0" fill="#313244" rx="2.0" opacity="0" aria-label="0 contributions on 2025-11-04">
       <animate attributeName="opacity" from="0" to="1" begin="0.090s" dur="0.300s" fill="freeze" />
     </rect>
-    <rect x="231.0" y="105.0" width="12.0" height="12.0" fill="#313244" rx="2.0" opacity="0" aria-label="0 contributions on 2025-10-29">
+    <rect x="231.0" y="105.0" width="12.0" height="12.0" fill="#313244" rx="2.0" opacity="0" aria-label="0 contributions on 2025-11-05">
       <animate attributeName="opacity" from="0" to="1" begin="0.096s" dur="0.300s" fill="freeze" />
     </rect>
-    <rect x="231.0" y="120.0" width="12.0" height="12.0" fill="#313244" rx="2.0" opacity="0" aria-label="0 contributions on 2025-10-30">
+    <rect x="231.0" y="120.0" width="12.0" height="12.0" fill="#313244" rx="2.0" opacity="0" aria-label="0 contributions on 2025-11-06">
       <animate attributeName="opacity" from="0" to="1" begin="0.102s" dur="0.300s" fill="freeze" />
     </rect>
-    <rect x="231.0" y="135.0" width="12.0" height="12.0" fill="#313244" rx="2.0" opacity="0" aria-label="0 contributions on 2025-10-31">
+    <rect x="231.0" y="135.0" width="12.0" height="12.0" fill="#313244" rx="2.0" opacity="0" aria-label="0 contributions on 2025-11-07">
       <animate attributeName="opacity" from="0" to="1" begin="0.108s" dur="0.300s" fill="freeze" />
     </rect>
-    <rect x="231.0" y="150.0" width="12.0" height="12.0" fill="#313244" rx="2.0" opacity="0" aria-label="0 contributions on 2025-11-01">
+    <rect x="231.0" y="150.0" width="12.0" height="12.0" fill="#313244" rx="2.0" opacity="0" aria-label="0 contributions on 2025-11-08">
       <animate attributeName="opacity" from="0" to="1" begin="0.114s" dur="0.300s" fill="freeze" />
     </rect>
-    <rect x="246.0" y="60.0" width="12.0" height="12.0" fill="#313244" rx="2.0" opacity="0" aria-label="0 contributions on 2025-11-02">
+    <rect x="246.0" y="60.0" width="12.0" height="12.0" fill="#313244" rx="2.0" opacity="0" aria-label="0 contributions on 2025-11-09">
       <animate attributeName="opacity" from="0" to="1" begin="0.084s" dur="0.300s" fill="freeze" />
     </rect>
-    <rect x="246.0" y="75.0" width="12.0" height="12.0" fill="#313244" rx="2.0" opacity="0" aria-label="0 contributions on 2025-11-03">
+    <rect x="246.0" y="75.0" width="12.0" height="12.0" fill="#313244" rx="2.0" opacity="0" aria-label="0 contributions on 2025-11-10">
       <animate attributeName="opacity" from="0" to="1" begin="0.090s" dur="0.300s" fill="freeze" />
     </rect>
-    <rect x="246.0" y="90.0" width="12.0" height="12.0" fill="#313244" rx="2.0" opacity="0" aria-label="0 contributions on 2025-11-04">
+    <rect x="246.0" y="90.0" width="12.0" height="12.0" fill="#313244" rx="2.0" opacity="0" aria-label="0 contributions on 2025-11-11">
       <animate attributeName="opacity" from="0" to="1" begin="0.096s" dur="0.300s" fill="freeze" />
     </rect>
-    <rect x="246.0" y="105.0" width="12.0" height="12.0" fill="#313244" rx="2.0" opacity="0" aria-label="0 contributions on 2025-11-05">
+    <rect x="246.0" y="105.0" width="12.0" height="12.0" fill="#313244" rx="2.0" opacity="0" aria-label="0 contributions on 2025-11-12">
       <animate attributeName="opacity" from="0" to="1" begin="0.102s" dur="0.300s" fill="freeze" />
     </rect>
-    <rect x="246.0" y="120.0" width="12.0" height="12.0" fill="#313244" rx="2.0" opacity="0" aria-label="0 contributions on 2025-11-06">
+    <rect x="246.0" y="120.0" width="12.0" height="12.0" fill="#313244" rx="2.0" opacity="0" aria-label="0 contributions on 2025-11-13">
       <animate attributeName="opacity" from="0" to="1" begin="0.108s" dur="0.300s" fill="freeze" />
     </rect>
-    <rect x="246.0" y="135.0" width="12.0" height="12.0" fill="#313244" rx="2.0" opacity="0" aria-label="0 contributions on 2025-11-07">
+    <rect x="246.0" y="135.0" width="12.0" height="12.0" fill="#313244" rx="2.0" opacity="0" aria-label="0 contributions on 2025-11-14">
       <animate attributeName="opacity" from="0" to="1" begin="0.114s" dur="0.300s" fill="freeze" />
     </rect>
-    <rect x="246.0" y="150.0" width="12.0" height="12.0" fill="#313244" rx="2.0" opacity="0" aria-label="0 contributions on 2025-11-08">
+    <rect x="246.0" y="150.0" width="12.0" height="12.0" fill="#313244" rx="2.0" opacity="0" aria-label="0 contributions on 2025-11-15">
       <animate attributeName="opacity" from="0" to="1" begin="0.120s" dur="0.300s" fill="freeze" />
     </rect>
-    <rect x="261.0" y="60.0" width="12.0" height="12.0" fill="#313244" rx="2.0" opacity="0" aria-label="0 contributions on 2025-11-09">
+    <rect x="261.0" y="60.0" width="12.0" height="12.0" fill="#313244" rx="2.0" opacity="0" aria-label="0 contributions on 2025-11-16">
       <animate attributeName="opacity" from="0" to="1" begin="0.090s" dur="0.300s" fill="freeze" />
     </rect>
-    <rect x="261.0" y="75.0" width="12.0" height="12.0" fill="#313244" rx="2.0" opacity="0" aria-label="0 contributions on 2025-11-10">
+    <rect x="261.0" y="75.0" width="12.0" height="12.0" fill="#313244" rx="2.0" opacity="0" aria-label="0 contributions on 2025-11-17">
       <animate attributeName="opacity" from="0" to="1" begin="0.096s" dur="0.300s" fill="freeze" />
     </rect>
-    <rect x="261.0" y="90.0" width="12.0" height="12.0" fill="#313244" rx="2.0" opacity="0" aria-label="0 contributions on 2025-11-11">
+    <rect x="261.0" y="90.0" width="12.0" height="12.0" fill="#313244" rx="2.0" opacity="0" aria-label="0 contributions on 2025-11-18">
       <animate attributeName="opacity" from="0" to="1" begin="0.102s" dur="0.300s" fill="freeze" />
     </rect>
-    <rect x="261.0" y="105.0" width="12.0" height="12.0" fill="#313244" rx="2.0" opacity="0" aria-label="0 contributions on 2025-11-12">
+    <rect x="261.0" y="105.0" width="12.0" height="12.0" fill="#313244" rx="2.0" opacity="0" aria-label="0 contributions on 2025-11-19">
       <animate attributeName="opacity" from="0" to="1" begin="0.108s" dur="0.300s" fill="freeze" />
     </rect>
-    <rect x="261.0" y="120.0" width="12.0" height="12.0" fill="#313244" rx="2.0" opacity="0" aria-label="0 contributions on 2025-11-13">
+    <rect x="261.0" y="120.0" width="12.0" height="12.0" fill="#313244" rx="2.0" opacity="0" aria-label="0 contributions on 2025-11-20">
       <animate attributeName="opacity" from="0" to="1" begin="0.114s" dur="0.300s" fill="freeze" />
     </rect>
-    <rect x="261.0" y="135.0" width="12.0" height="12.0" fill="#313244" rx="2.0" opacity="0" aria-label="0 contributions on 2025-11-14">
+    <rect x="261.0" y="135.0" width="12.0" height="12.0" fill="#313244" rx="2.0" opacity="0" aria-label="0 contributions on 2025-11-21">
       <animate attributeName="opacity" from="0" to="1" begin="0.120s" dur="0.300s" fill="freeze" />
     </rect>
-    <rect x="261.0" y="150.0" width="12.0" height="12.0" fill="#313244" rx="2.0" opacity="0" aria-label="0 contributions on 2025-11-15">
+    <rect x="261.0" y="150.0" width="12.0" height="12.0" fill="#313244" rx="2.0" opacity="0" aria-label="0 contributions on 2025-11-22">
       <animate attributeName="opacity" from="0" to="1" begin="0.126s" dur="0.300s" fill="freeze" />
     </rect>
-    <rect x="276.0" y="60.0" width="12.0" height="12.0" fill="#313244" rx="2.0" opacity="0" aria-label="0 contributions on 2025-11-16">
+    <rect x="276.0" y="60.0" width="12.0" height="12.0" fill="#313244" rx="2.0" opacity="0" aria-label="0 contributions on 2025-11-23">
       <animate attributeName="opacity" from="0" to="1" begin="0.096s" dur="0.300s" fill="freeze" />
     </rect>
-    <rect x="276.0" y="75.0" width="12.0" height="12.0" fill="#313244" rx="2.0" opacity="0" aria-label="0 contributions on 2025-11-17">
+    <rect x="276.0" y="75.0" width="12.0" height="12.0" fill="#313244" rx="2.0" opacity="0" aria-label="0 contributions on 2025-11-24">
       <animate attributeName="opacity" from="0" to="1" begin="0.102s" dur="0.300s" fill="freeze" />
     </rect>
-    <rect x="276.0" y="90.0" width="12.0" height="12.0" fill="#313244" rx="2.0" opacity="0" aria-label="0 contributions on 2025-11-18">
+    <rect x="276.0" y="90.0" width="12.0" height="12.0" fill="#313244" rx="2.0" opacity="0" aria-label="0 contributions on 2025-11-25">
       <animate attributeName="opacity" from="0" to="1" begin="0.108s" dur="0.300s" fill="freeze" />
     </rect>
-    <rect x="276.0" y="105.0" width="12.0" height="12.0" fill="#313244" rx="2.0" opacity="0" aria-label="0 contributions on 2025-11-19">
+    <rect x="276.0" y="105.0" width="12.0" height="12.0" fill="#313244" rx="2.0" opacity="0" aria-label="0 contributions on 2025-11-26">
       <animate attributeName="opacity" from="0" to="1" begin="0.114s" dur="0.300s" fill="freeze" />
     </rect>
-    <rect x="276.0" y="120.0" width="12.0" height="12.0" fill="#313244" rx="2.0" opacity="0" aria-label="0 contributions on 2025-11-20">
+    <rect x="276.0" y="120.0" width="12.0" height="12.0" fill="#313244" rx="2.0" opacity="0" aria-label="0 contributions on 2025-11-27">
       <animate attributeName="opacity" from="0" to="1" begin="0.120s" dur="0.300s" fill="freeze" />
     </rect>
-    <rect x="276.0" y="135.0" width="12.0" height="12.0" fill="#313244" rx="2.0" opacity="0" aria-label="0 contributions on 2025-11-21">
+    <rect x="276.0" y="135.0" width="12.0" height="12.0" fill="#313244" rx="2.0" opacity="0" aria-label="0 contributions on 2025-11-28">
       <animate attributeName="opacity" from="0" to="1" begin="0.126s" dur="0.300s" fill="freeze" />
     </rect>
-    <rect x="276.0" y="150.0" width="12.0" height="12.0" fill="#313244" rx="2.0" opacity="0" aria-label="0 contributions on 2025-11-22">
+    <rect x="276.0" y="150.0" width="12.0" height="12.0" fill="#313244" rx="2.0" opacity="0" aria-label="0 contributions on 2025-11-29">
       <animate attributeName="opacity" from="0" to="1" begin="0.132s" dur="0.300s" fill="freeze" />
     </rect>
-    <rect x="291.0" y="60.0" width="12.0" height="12.0" fill="#313244" rx="2.0" opacity="0" aria-label="0 contributions on 2025-11-23">
+    <rect x="291.0" y="60.0" width="12.0" height="12.0" fill="#313244" rx="2.0" opacity="0" aria-label="0 contributions on 2025-11-30">
       <animate attributeName="opacity" from="0" to="1" begin="0.102s" dur="0.300s" fill="freeze" />
     </rect>
-    <rect x="291.0" y="75.0" width="12.0" height="12.0" fill="#313244" rx="2.0" opacity="0" aria-label="0 contributions on 2025-11-24">
+    <rect x="291.0" y="75.0" width="12.0" height="12.0" fill="#313244" rx="2.0" opacity="0" aria-label="0 contributions on 2025-12-01">
       <animate attributeName="opacity" from="0" to="1" begin="0.108s" dur="0.300s" fill="freeze" />
     </rect>
-    <rect x="291.0" y="90.0" width="12.0" height="12.0" fill="#313244" rx="2.0" opacity="0" aria-label="0 contributions on 2025-11-25">
+    <rect x="291.0" y="90.0" width="12.0" height="12.0" fill="#313244" rx="2.0" opacity="0" aria-label="0 contributions on 2025-12-02">
       <animate attributeName="opacity" from="0" to="1" begin="0.114s" dur="0.300s" fill="freeze" />
     </rect>
-    <rect x="291.0" y="105.0" width="12.0" height="12.0" fill="#313244" rx="2.0" opacity="0" aria-label="0 contributions on 2025-11-26">
+    <rect x="291.0" y="105.0" width="12.0" height="12.0" fill="#313244" rx="2.0" opacity="0" aria-label="0 contributions on 2025-12-03">
       <animate attributeName="opacity" from="0" to="1" begin="0.120s" dur="0.300s" fill="freeze" />
     </rect>
-    <rect x="291.0" y="120.0" width="12.0" height="12.0" fill="#313244" rx="2.0" opacity="0" aria-label="0 contributions on 2025-11-27">
+    <rect x="291.0" y="120.0" width="12.0" height="12.0" fill="#313244" rx="2.0" opacity="0" aria-label="0 contributions on 2025-12-04">
       <animate attributeName="opacity" from="0" to="1" begin="0.126s" dur="0.300s" fill="freeze" />
     </rect>
-    <rect x="291.0" y="135.0" width="12.0" height="12.0" fill="#313244" rx="2.0" opacity="0" aria-label="0 contributions on 2025-11-28">
+    <rect x="291.0" y="135.0" width="12.0" height="12.0" fill="#313244" rx="2.0" opacity="0" aria-label="0 contributions on 2025-12-05">
       <animate attributeName="opacity" from="0" to="1" begin="0.132s" dur="0.300s" fill="freeze" />
     </rect>
-    <rect x="291.0" y="150.0" width="12.0" height="12.0" fill="#313244" rx="2.0" opacity="0" aria-label="0 contributions on 2025-11-29">
+    <rect x="291.0" y="150.0" width="12.0" height="12.0" fill="#313244" rx="2.0" opacity="0" aria-label="0 contributions on 2025-12-06">
       <animate attributeName="opacity" from="0" to="1" begin="0.138s" dur="0.300s" fill="freeze" />
     </rect>
-    <rect x="306.0" y="60.0" width="12.0" height="12.0" fill="#313244" rx="2.0" opacity="0" aria-label="0 contributions on 2025-11-30">
+    <rect x="306.0" y="60.0" width="12.0" height="12.0" fill="#313244" rx="2.0" opacity="0" aria-label="0 contributions on 2025-12-07">
       <animate attributeName="opacity" from="0" to="1" begin="0.108s" dur="0.300s" fill="freeze" />
     </rect>
-    <rect x="306.0" y="75.0" width="12.0" height="12.0" fill="#313244" rx="2.0" opacity="0" aria-label="0 contributions on 2025-12-01">
+    <rect x="306.0" y="75.0" width="12.0" height="12.0" fill="#313244" rx="2.0" opacity="0" aria-label="0 contributions on 2025-12-08">
       <animate attributeName="opacity" from="0" to="1" begin="0.114s" dur="0.300s" fill="freeze" />
     </rect>
-    <rect x="306.0" y="90.0" width="12.0" height="12.0" fill="#313244" rx="2.0" opacity="0" aria-label="0 contributions on 2025-12-02">
+    <rect x="306.0" y="90.0" width="12.0" height="12.0" fill="#313244" rx="2.0" opacity="0" aria-label="0 contributions on 2025-12-09">
       <animate attributeName="opacity" from="0" to="1" begin="0.120s" dur="0.300s" fill="freeze" />
     </rect>
-    <rect x="306.0" y="105.0" width="12.0" height="12.0" fill="#313244" rx="2.0" opacity="0" aria-label="0 contributions on 2025-12-03">
+    <rect x="306.0" y="105.0" width="12.0" height="12.0" fill="#313244" rx="2.0" opacity="0" aria-label="0 contributions on 2025-12-10">
       <animate attributeName="opacity" from="0" to="1" begin="0.126s" dur="0.300s" fill="freeze" />
     </rect>
-    <rect x="306.0" y="120.0" width="12.0" height="12.0" fill="#313244" rx="2.0" opacity="0" aria-label="0 contributions on 2025-12-04">
+    <rect x="306.0" y="120.0" width="12.0" height="12.0" fill="#313244" rx="2.0" opacity="0" aria-label="0 contributions on 2025-12-11">
       <animate attributeName="opacity" from="0" to="1" begin="0.132s" dur="0.300s" fill="freeze" />
     </rect>
-    <rect x="306.0" y="135.0" width="12.0" height="12.0" fill="#313244" rx="2.0" opacity="0" aria-label="0 contributions on 2025-12-05">
+    <rect x="306.0" y="135.0" width="12.0" height="12.0" fill="#313244" rx="2.0" opacity="0" aria-label="0 contributions on 2025-12-12">
       <animate attributeName="opacity" from="0" to="1" begin="0.138s" dur="0.300s" fill="freeze" />
     </rect>
-    <rect x="306.0" y="150.0" width="12.0" height="12.0" fill="#313244" rx="2.0" opacity="0" aria-label="0 contributions on 2025-12-06">
+    <rect x="306.0" y="150.0" width="12.0" height="12.0" fill="#313244" rx="2.0" opacity="0" aria-label="0 contributions on 2025-12-13">
       <animate attributeName="opacity" from="0" to="1" begin="0.144s" dur="0.300s" fill="freeze" />
     </rect>
-    <rect x="321.0" y="60.0" width="12.0" height="12.0" fill="#313244" rx="2.0" opacity="0" aria-label="0 contributions on 2025-12-07">
+    <rect x="321.0" y="60.0" width="12.0" height="12.0" fill="#313244" rx="2.0" opacity="0" aria-label="0 contributions on 2025-12-14">
       <animate attributeName="opacity" from="0" to="1" begin="0.114s" dur="0.300s" fill="freeze" />
     </rect>
-    <rect x="321.0" y="75.0" width="12.0" height="12.0" fill="#313244" rx="2.0" opacity="0" aria-label="0 contributions on 2025-12-08">
+    <rect x="321.0" y="75.0" width="12.0" height="12.0" fill="#313244" rx="2.0" opacity="0" aria-label="0 contributions on 2025-12-15">
       <animate attributeName="opacity" from="0" to="1" begin="0.120s" dur="0.300s" fill="freeze" />
     </rect>
-    <rect x="321.0" y="90.0" width="12.0" height="12.0" fill="#313244" rx="2.0" opacity="0" aria-label="0 contributions on 2025-12-09">
+    <rect x="321.0" y="90.0" width="12.0" height="12.0" fill="#313244" rx="2.0" opacity="0" aria-label="0 contributions on 2025-12-16">
       <animate attributeName="opacity" from="0" to="1" begin="0.126s" dur="0.300s" fill="freeze" />
     </rect>
-    <rect x="321.0" y="105.0" width="12.0" height="12.0" fill="#313244" rx="2.0" opacity="0" aria-label="0 contributions on 2025-12-10">
+    <rect x="321.0" y="105.0" width="12.0" height="12.0" fill="#313244" rx="2.0" opacity="0" aria-label="0 contributions on 2025-12-17">
       <animate attributeName="opacity" from="0" to="1" begin="0.132s" dur="0.300s" fill="freeze" />
     </rect>
-    <rect x="321.0" y="120.0" width="12.0" height="12.0" fill="#313244" rx="2.0" opacity="0" aria-label="0 contributions on 2025-12-11">
+    <rect x="321.0" y="120.0" width="12.0" height="12.0" fill="#313244" rx="2.0" opacity="0" aria-label="0 contributions on 2025-12-18">
       <animate attributeName="opacity" from="0" to="1" begin="0.138s" dur="0.300s" fill="freeze" />
     </rect>
-    <rect x="321.0" y="135.0" width="12.0" height="12.0" fill="#313244" rx="2.0" opacity="0" aria-label="0 contributions on 2025-12-12">
+    <rect x="321.0" y="135.0" width="12.0" height="12.0" fill="#313244" rx="2.0" opacity="0" aria-label="0 contributions on 2025-12-19">
       <animate attributeName="opacity" from="0" to="1" begin="0.144s" dur="0.300s" fill="freeze" />
     </rect>
-    <rect x="321.0" y="150.0" width="12.0" height="12.0" fill="#313244" rx="2.0" opacity="0" aria-label="0 contributions on 2025-12-13">
+    <rect x="321.0" y="150.0" width="12.0" height="12.0" fill="#313244" rx="2.0" opacity="0" aria-label="0 contributions on 2025-12-20">
       <animate attributeName="opacity" from="0" to="1" begin="0.150s" dur="0.300s" fill="freeze" />
     </rect>
-    <rect x="336.0" y="60.0" width="12.0" height="12.0" fill="#313244" rx="2.0" opacity="0" aria-label="0 contributions on 2025-12-14">
+    <rect x="336.0" y="60.0" width="12.0" height="12.0" fill="#313244" rx="2.0" opacity="0" aria-label="0 contributions on 2025-12-21">
       <animate attributeName="opacity" from="0" to="1" begin="0.120s" dur="0.300s" fill="freeze" />
     </rect>
-    <rect x="336.0" y="75.0" width="12.0" height="12.0" fill="#313244" rx="2.0" opacity="0" aria-label="0 contributions on 2025-12-15">
+    <rect x="336.0" y="75.0" width="12.0" height="12.0" fill="#313244" rx="2.0" opacity="0" aria-label="0 contributions on 2025-12-22">
       <animate attributeName="opacity" from="0" to="1" begin="0.126s" dur="0.300s" fill="freeze" />
     </rect>
-    <rect x="336.0" y="90.0" width="12.0" height="12.0" fill="#313244" rx="2.0" opacity="0" aria-label="0 contributions on 2025-12-16">
+    <rect x="336.0" y="90.0" width="12.0" height="12.0" fill="#313244" rx="2.0" opacity="0" aria-label="0 contributions on 2025-12-23">
       <animate attributeName="opacity" from="0" to="1" begin="0.132s" dur="0.300s" fill="freeze" />
     </rect>
-    <rect x="336.0" y="105.0" width="12.0" height="12.0" fill="#313244" rx="2.0" opacity="0" aria-label="0 contributions on 2025-12-17">
+    <rect x="336.0" y="105.0" width="12.0" height="12.0" fill="#313244" rx="2.0" opacity="0" aria-label="0 contributions on 2025-12-24">
       <animate attributeName="opacity" from="0" to="1" begin="0.138s" dur="0.300s" fill="freeze" />
     </rect>
-    <rect x="336.0" y="120.0" width="12.0" height="12.0" fill="#313244" rx="2.0" opacity="0" aria-label="0 contributions on 2025-12-18">
+    <rect x="336.0" y="120.0" width="12.0" height="12.0" fill="#313244" rx="2.0" opacity="0" aria-label="0 contributions on 2025-12-25">
       <animate attributeName="opacity" from="0" to="1" begin="0.144s" dur="0.300s" fill="freeze" />
     </rect>
-    <rect x="336.0" y="135.0" width="12.0" height="12.0" fill="#313244" rx="2.0" opacity="0" aria-label="0 contributions on 2025-12-19">
+    <rect x="336.0" y="135.0" width="12.0" height="12.0" fill="#313244" rx="2.0" opacity="0" aria-label="0 contributions on 2025-12-26">
       <animate attributeName="opacity" from="0" to="1" begin="0.150s" dur="0.300s" fill="freeze" />
     </rect>
-    <rect x="336.0" y="150.0" width="12.0" height="12.0" fill="#313244" rx="2.0" opacity="0" aria-label="0 contributions on 2025-12-20">
+    <rect x="336.0" y="150.0" width="12.0" height="12.0" fill="#313244" rx="2.0" opacity="0" aria-label="0 contributions on 2025-12-27">
       <animate attributeName="opacity" from="0" to="1" begin="0.156s" dur="0.300s" fill="freeze" />
     </rect>
-    <rect x="351.0" y="60.0" width="12.0" height="12.0" fill="#313244" rx="2.0" opacity="0" aria-label="0 contributions on 2025-12-21">
+    <rect x="351.0" y="60.0" width="12.0" height="12.0" fill="#313244" rx="2.0" opacity="0" aria-label="0 contributions on 2025-12-28">
       <animate attributeName="opacity" from="0" to="1" begin="0.126s" dur="0.300s" fill="freeze" />
     </rect>
-    <rect x="351.0" y="75.0" width="12.0" height="12.0" fill="#313244" rx="2.0" opacity="0" aria-label="0 contributions on 2025-12-22">
+    <rect x="351.0" y="75.0" width="12.0" height="12.0" fill="#313244" rx="2.0" opacity="0" aria-label="0 contributions on 2025-12-29">
       <animate attributeName="opacity" from="0" to="1" begin="0.132s" dur="0.300s" fill="freeze" />
     </rect>
-    <rect x="351.0" y="90.0" width="12.0" height="12.0" fill="#313244" rx="2.0" opacity="0" aria-label="0 contributions on 2025-12-23">
+    <rect x="351.0" y="90.0" width="12.0" height="12.0" fill="#313244" rx="2.0" opacity="0" aria-label="0 contributions on 2025-12-30">
       <animate attributeName="opacity" from="0" to="1" begin="0.138s" dur="0.300s" fill="freeze" />
     </rect>
-    <rect x="351.0" y="105.0" width="12.0" height="12.0" fill="#313244" rx="2.0" opacity="0" aria-label="0 contributions on 2025-12-24">
+    <rect x="351.0" y="105.0" width="12.0" height="12.0" fill="#313244" rx="2.0" opacity="0" aria-label="0 contributions on 2025-12-31">
       <animate attributeName="opacity" from="0" to="1" begin="0.144s" dur="0.300s" fill="freeze" />
     </rect>
-    <rect x="351.0" y="120.0" width="12.0" height="12.0" fill="#313244" rx="2.0" opacity="0" aria-label="0 contributions on 2025-12-25">
+    <rect x="351.0" y="120.0" width="12.0" height="12.0" fill="#313244" rx="2.0" opacity="0" aria-label="0 contributions on 2026-01-01">
       <animate attributeName="opacity" from="0" to="1" begin="0.150s" dur="0.300s" fill="freeze" />
     </rect>
-    <rect x="351.0" y="135.0" width="12.0" height="12.0" fill="#313244" rx="2.0" opacity="0" aria-label="0 contributions on 2025-12-26">
+    <rect x="351.0" y="135.0" width="12.0" height="12.0" fill="#313244" rx="2.0" opacity="0" aria-label="0 contributions on 2026-01-02">
       <animate attributeName="opacity" from="0" to="1" begin="0.156s" dur="0.300s" fill="freeze" />
     </rect>
-    <rect x="351.0" y="150.0" width="12.0" height="12.0" fill="#313244" rx="2.0" opacity="0" aria-label="0 contributions on 2025-12-27">
+    <rect x="351.0" y="150.0" width="12.0" height="12.0" fill="#313244" rx="2.0" opacity="0" aria-label="0 contributions on 2026-01-03">
       <animate attributeName="opacity" from="0" to="1" begin="0.162s" dur="0.300s" fill="freeze" />
     </rect>
-    <rect x="366.0" y="60.0" width="12.0" height="12.0" fill="#313244" rx="2.0" opacity="0" aria-label="0 contributions on 2025-12-28">
+    <rect x="366.0" y="60.0" width="12.0" height="12.0" fill="#313244" rx="2.0" opacity="0" aria-label="0 contributions on 2026-01-04">
       <animate attributeName="opacity" from="0" to="1" begin="0.132s" dur="0.300s" fill="freeze" />
     </rect>
-    <rect x="366.0" y="75.0" width="12.0" height="12.0" fill="#313244" rx="2.0" opacity="0" aria-label="0 contributions on 2025-12-29">
+    <rect x="366.0" y="75.0" width="12.0" height="12.0" fill="#313244" rx="2.0" opacity="0" aria-label="0 contributions on 2026-01-05">
       <animate attributeName="opacity" from="0" to="1" begin="0.138s" dur="0.300s" fill="freeze" />
     </rect>
-    <rect x="366.0" y="90.0" width="12.0" height="12.0" fill="#313244" rx="2.0" opacity="0" aria-label="0 contributions on 2025-12-30">
+    <rect x="366.0" y="90.0" width="12.0" height="12.0" fill="#313244" rx="2.0" opacity="0" aria-label="0 contributions on 2026-01-06">
       <animate attributeName="opacity" from="0" to="1" begin="0.144s" dur="0.300s" fill="freeze" />
     </rect>
-    <rect x="366.0" y="105.0" width="12.0" height="12.0" fill="#313244" rx="2.0" opacity="0" aria-label="0 contributions on 2025-12-31">
+    <rect x="366.0" y="105.0" width="12.0" height="12.0" fill="#313244" rx="2.0" opacity="0" aria-label="0 contributions on 2026-01-07">
       <animate attributeName="opacity" from="0" to="1" begin="0.150s" dur="0.300s" fill="freeze" />
     </rect>
-    <rect x="366.0" y="120.0" width="12.0" height="12.0" fill="#313244" rx="2.0" opacity="0" aria-label="0 contributions on 2026-01-01">
+    <rect x="366.0" y="120.0" width="12.0" height="12.0" fill="#313244" rx="2.0" opacity="0" aria-label="0 contributions on 2026-01-08">
       <animate attributeName="opacity" from="0" to="1" begin="0.156s" dur="0.300s" fill="freeze" />
     </rect>
-    <rect x="366.0" y="135.0" width="12.0" height="12.0" fill="#313244" rx="2.0" opacity="0" aria-label="0 contributions on 2026-01-02">
+    <rect x="366.0" y="135.0" width="12.0" height="12.0" fill="#313244" rx="2.0" opacity="0" aria-label="0 contributions on 2026-01-09">
       <animate attributeName="opacity" from="0" to="1" begin="0.162s" dur="0.300s" fill="freeze" />
     </rect>
-    <rect x="366.0" y="150.0" width="12.0" height="12.0" fill="#313244" rx="2.0" opacity="0" aria-label="0 contributions on 2026-01-03">
+    <rect x="366.0" y="150.0" width="12.0" height="12.0" fill="#313244" rx="2.0" opacity="0" aria-label="0 contributions on 2026-01-10">
       <animate attributeName="opacity" from="0" to="1" begin="0.168s" dur="0.300s" fill="freeze" />
     </rect>
-    <rect x="381.0" y="60.0" width="12.0" height="12.0" fill="#313244" rx="2.0" opacity="0" aria-label="0 contributions on 2026-01-04">
+    <rect x="381.0" y="60.0" width="12.0" height="12.0" fill="#313244" rx="2.0" opacity="0" aria-label="0 contributions on 2026-01-11">
       <animate attributeName="opacity" from="0" to="1" begin="0.138s" dur="0.300s" fill="freeze" />
     </rect>
-    <rect x="381.0" y="75.0" width="12.0" height="12.0" fill="#313244" rx="2.0" opacity="0" aria-label="0 contributions on 2026-01-05">
+    <rect x="381.0" y="75.0" width="12.0" height="12.0" fill="#313244" rx="2.0" opacity="0" aria-label="0 contributions on 2026-01-12">
       <animate attributeName="opacity" from="0" to="1" begin="0.144s" dur="0.300s" fill="freeze" />
     </rect>
-    <rect x="381.0" y="90.0" width="12.0" height="12.0" fill="#313244" rx="2.0" opacity="0" aria-label="0 contributions on 2026-01-06">
+    <rect x="381.0" y="90.0" width="12.0" height="12.0" fill="#313244" rx="2.0" opacity="0" aria-label="0 contributions on 2026-01-13">
       <animate attributeName="opacity" from="0" to="1" begin="0.150s" dur="0.300s" fill="freeze" />
     </rect>
-    <rect x="381.0" y="105.0" width="12.0" height="12.0" fill="#313244" rx="2.0" opacity="0" aria-label="0 contributions on 2026-01-07">
+    <rect x="381.0" y="105.0" width="12.0" height="12.0" fill="#313244" rx="2.0" opacity="0" aria-label="0 contributions on 2026-01-14">
       <animate attributeName="opacity" from="0" to="1" begin="0.156s" dur="0.300s" fill="freeze" />
     </rect>
-    <rect x="381.0" y="120.0" width="12.0" height="12.0" fill="#313244" rx="2.0" opacity="0" aria-label="0 contributions on 2026-01-08">
+    <rect x="381.0" y="120.0" width="12.0" height="12.0" fill="#313244" rx="2.0" opacity="0" aria-label="0 contributions on 2026-01-15">
       <animate attributeName="opacity" from="0" to="1" begin="0.162s" dur="0.300s" fill="freeze" />
     </rect>
-    <rect x="381.0" y="135.0" width="12.0" height="12.0" fill="#313244" rx="2.0" opacity="0" aria-label="0 contributions on 2026-01-09">
+    <rect x="381.0" y="135.0" width="12.0" height="12.0" fill="#313244" rx="2.0" opacity="0" aria-label="0 contributions on 2026-01-16">
       <animate attributeName="opacity" from="0" to="1" begin="0.168s" dur="0.300s" fill="freeze" />
     </rect>
-    <rect x="381.0" y="150.0" width="12.0" height="12.0" fill="#313244" rx="2.0" opacity="0" aria-label="0 contributions on 2026-01-10">
+    <rect x="381.0" y="150.0" width="12.0" height="12.0" fill="#313244" rx="2.0" opacity="0" aria-label="0 contributions on 2026-01-17">
       <animate attributeName="opacity" from="0" to="1" begin="0.174s" dur="0.300s" fill="freeze" />
     </rect>
-    <rect x="396.0" y="60.0" width="12.0" height="12.0" fill="#313244" rx="2.0" opacity="0" aria-label="0 contributions on 2026-01-11">
+    <rect x="396.0" y="60.0" width="12.0" height="12.0" fill="#313244" rx="2.0" opacity="0" aria-label="0 contributions on 2026-01-18">
       <animate attributeName="opacity" from="0" to="1" begin="0.144s" dur="0.300s" fill="freeze" />
     </rect>
-    <rect x="396.0" y="75.0" width="12.0" height="12.0" fill="#313244" rx="2.0" opacity="0" aria-label="0 contributions on 2026-01-12">
+    <rect x="396.0" y="75.0" width="12.0" height="12.0" fill="#313244" rx="2.0" opacity="0" aria-label="0 contributions on 2026-01-19">
       <animate attributeName="opacity" from="0" to="1" begin="0.150s" dur="0.300s" fill="freeze" />
     </rect>
-    <rect x="396.0" y="90.0" width="12.0" height="12.0" fill="#313244" rx="2.0" opacity="0" aria-label="0 contributions on 2026-01-13">
+    <rect x="396.0" y="90.0" width="12.0" height="12.0" fill="#313244" rx="2.0" opacity="0" aria-label="0 contributions on 2026-01-20">
       <animate attributeName="opacity" from="0" to="1" begin="0.156s" dur="0.300s" fill="freeze" />
     </rect>
-    <rect x="396.0" y="105.0" width="12.0" height="12.0" fill="#313244" rx="2.0" opacity="0" aria-label="0 contributions on 2026-01-14">
+    <rect x="396.0" y="105.0" width="12.0" height="12.0" fill="#313244" rx="2.0" opacity="0" aria-label="0 contributions on 2026-01-21">
       <animate attributeName="opacity" from="0" to="1" begin="0.162s" dur="0.300s" fill="freeze" />
     </rect>
-    <rect x="396.0" y="120.0" width="12.0" height="12.0" fill="#313244" rx="2.0" opacity="0" aria-label="0 contributions on 2026-01-15">
+    <rect x="396.0" y="120.0" width="12.0" height="12.0" fill="#313244" rx="2.0" opacity="0" aria-label="0 contributions on 2026-01-22">
       <animate attributeName="opacity" from="0" to="1" begin="0.168s" dur="0.300s" fill="freeze" />
     </rect>
-    <rect x="396.0" y="135.0" width="12.0" height="12.0" fill="#313244" rx="2.0" opacity="0" aria-label="0 contributions on 2026-01-16">
+    <rect x="396.0" y="135.0" width="12.0" height="12.0" fill="#313244" rx="2.0" opacity="0" aria-label="0 contributions on 2026-01-23">
       <animate attributeName="opacity" from="0" to="1" begin="0.174s" dur="0.300s" fill="freeze" />
     </rect>
-    <rect x="396.0" y="150.0" width="12.0" height="12.0" fill="#313244" rx="2.0" opacity="0" aria-label="0 contributions on 2026-01-17">
+    <rect x="396.0" y="150.0" width="12.0" height="12.0" fill="#313244" rx="2.0" opacity="0" aria-label="0 contributions on 2026-01-24">
       <animate attributeName="opacity" from="0" to="1" begin="0.180s" dur="0.300s" fill="freeze" />
     </rect>
-    <rect x="411.0" y="60.0" width="12.0" height="12.0" fill="#313244" rx="2.0" opacity="0" aria-label="0 contributions on 2026-01-18">
+    <rect x="411.0" y="60.0" width="12.0" height="12.0" fill="#313244" rx="2.0" opacity="0" aria-label="0 contributions on 2026-01-25">
       <animate attributeName="opacity" from="0" to="1" begin="0.150s" dur="0.300s" fill="freeze" />
     </rect>
-    <rect x="411.0" y="75.0" width="12.0" height="12.0" fill="#313244" rx="2.0" opacity="0" aria-label="0 contributions on 2026-01-19">
+    <rect x="411.0" y="75.0" width="12.0" height="12.0" fill="#313244" rx="2.0" opacity="0" aria-label="0 contributions on 2026-01-26">
       <animate attributeName="opacity" from="0" to="1" begin="0.156s" dur="0.300s" fill="freeze" />
     </rect>
-    <rect x="411.0" y="90.0" width="12.0" height="12.0" fill="#313244" rx="2.0" opacity="0" aria-label="0 contributions on 2026-01-20">
+    <rect x="411.0" y="90.0" width="12.0" height="12.0" fill="#313244" rx="2.0" opacity="0" aria-label="0 contributions on 2026-01-27">
       <animate attributeName="opacity" from="0" to="1" begin="0.162s" dur="0.300s" fill="freeze" />
     </rect>
-    <rect x="411.0" y="105.0" width="12.0" height="12.0" fill="#313244" rx="2.0" opacity="0" aria-label="0 contributions on 2026-01-21">
+    <rect x="411.0" y="105.0" width="12.0" height="12.0" fill="#313244" rx="2.0" opacity="0" aria-label="0 contributions on 2026-01-28">
       <animate attributeName="opacity" from="0" to="1" begin="0.168s" dur="0.300s" fill="freeze" />
     </rect>
-    <rect x="411.0" y="120.0" width="12.0" height="12.0" fill="#313244" rx="2.0" opacity="0" aria-label="0 contributions on 2026-01-22">
+    <rect x="411.0" y="120.0" width="12.0" height="12.0" fill="#313244" rx="2.0" opacity="0" aria-label="0 contributions on 2026-01-29">
       <animate attributeName="opacity" from="0" to="1" begin="0.174s" dur="0.300s" fill="freeze" />
     </rect>
-    <rect x="411.0" y="135.0" width="12.0" height="12.0" fill="#313244" rx="2.0" opacity="0" aria-label="0 contributions on 2026-01-23">
+    <rect x="411.0" y="135.0" width="12.0" height="12.0" fill="#313244" rx="2.0" opacity="0" aria-label="0 contributions on 2026-01-30">
       <animate attributeName="opacity" from="0" to="1" begin="0.180s" dur="0.300s" fill="freeze" />
     </rect>
-    <rect x="411.0" y="150.0" width="12.0" height="12.0" fill="#313244" rx="2.0" opacity="0" aria-label="0 contributions on 2026-01-24">
+    <rect x="411.0" y="150.0" width="12.0" height="12.0" fill="#313244" rx="2.0" opacity="0" aria-label="0 contributions on 2026-01-31">
       <animate attributeName="opacity" from="0" to="1" begin="0.186s" dur="0.300s" fill="freeze" />
     </rect>
-    <rect x="426.0" y="60.0" width="12.0" height="12.0" fill="#313244" rx="2.0" opacity="0" aria-label="0 contributions on 2026-01-25">
+    <rect x="426.0" y="60.0" width="12.0" height="12.0" fill="#313244" rx="2.0" opacity="0" aria-label="0 contributions on 2026-02-01">
       <animate attributeName="opacity" from="0" to="1" begin="0.156s" dur="0.300s" fill="freeze" />
     </rect>
-    <rect x="426.0" y="75.0" width="12.0" height="12.0" fill="#313244" rx="2.0" opacity="0" aria-label="0 contributions on 2026-01-26">
+    <rect x="426.0" y="75.0" width="12.0" height="12.0" fill="#313244" rx="2.0" opacity="0" aria-label="0 contributions on 2026-02-02">
       <animate attributeName="opacity" from="0" to="1" begin="0.162s" dur="0.300s" fill="freeze" />
     </rect>
-    <rect x="426.0" y="90.0" width="12.0" height="12.0" fill="#313244" rx="2.0" opacity="0" aria-label="0 contributions on 2026-01-27">
+    <rect x="426.0" y="90.0" width="12.0" height="12.0" fill="#313244" rx="2.0" opacity="0" aria-label="0 contributions on 2026-02-03">
       <animate attributeName="opacity" from="0" to="1" begin="0.168s" dur="0.300s" fill="freeze" />
     </rect>
-    <rect x="426.0" y="105.0" width="12.0" height="12.0" fill="#313244" rx="2.0" opacity="0" aria-label="0 contributions on 2026-01-28">
+    <rect x="426.0" y="105.0" width="12.0" height="12.0" fill="#313244" rx="2.0" opacity="0" aria-label="0 contributions on 2026-02-04">
       <animate attributeName="opacity" from="0" to="1" begin="0.174s" dur="0.300s" fill="freeze" />
     </rect>
-    <rect x="426.0" y="120.0" width="12.0" height="12.0" fill="#313244" rx="2.0" opacity="0" aria-label="0 contributions on 2026-01-29">
+    <rect x="426.0" y="120.0" width="12.0" height="12.0" fill="#313244" rx="2.0" opacity="0" aria-label="0 contributions on 2026-02-05">
       <animate attributeName="opacity" from="0" to="1" begin="0.180s" dur="0.300s" fill="freeze" />
     </rect>
-    <rect x="426.0" y="135.0" width="12.0" height="12.0" fill="#313244" rx="2.0" opacity="0" aria-label="0 contributions on 2026-01-30">
+    <rect x="426.0" y="135.0" width="12.0" height="12.0" fill="#313244" rx="2.0" opacity="0" aria-label="0 contributions on 2026-02-06">
       <animate attributeName="opacity" from="0" to="1" begin="0.186s" dur="0.300s" fill="freeze" />
     </rect>
-    <rect x="426.0" y="150.0" width="12.0" height="12.0" fill="#313244" rx="2.0" opacity="0" aria-label="0 contributions on 2026-01-31">
+    <rect x="426.0" y="150.0" width="12.0" height="12.0" fill="#313244" rx="2.0" opacity="0" aria-label="0 contributions on 2026-02-07">
       <animate attributeName="opacity" from="0" to="1" begin="0.192s" dur="0.300s" fill="freeze" />
     </rect>
-    <rect x="441.0" y="60.0" width="12.0" height="12.0" fill="#313244" rx="2.0" opacity="0" aria-label="0 contributions on 2026-02-01">
+    <rect x="441.0" y="60.0" width="12.0" height="12.0" fill="#313244" rx="2.0" opacity="0" aria-label="0 contributions on 2026-02-08">
       <animate attributeName="opacity" from="0" to="1" begin="0.162s" dur="0.300s" fill="freeze" />
     </rect>
-    <rect x="441.0" y="75.0" width="12.0" height="12.0" fill="#313244" rx="2.0" opacity="0" aria-label="0 contributions on 2026-02-02">
+    <rect x="441.0" y="75.0" width="12.0" height="12.0" fill="#313244" rx="2.0" opacity="0" aria-label="0 contributions on 2026-02-09">
       <animate attributeName="opacity" from="0" to="1" begin="0.168s" dur="0.300s" fill="freeze" />
     </rect>
-    <rect x="441.0" y="90.0" width="12.0" height="12.0" fill="#313244" rx="2.0" opacity="0" aria-label="0 contributions on 2026-02-03">
+    <rect x="441.0" y="90.0" width="12.0" height="12.0" fill="#313244" rx="2.0" opacity="0" aria-label="0 contributions on 2026-02-10">
       <animate attributeName="opacity" from="0" to="1" begin="0.174s" dur="0.300s" fill="freeze" />
     </rect>
-    <rect x="441.0" y="105.0" width="12.0" height="12.0" fill="#313244" rx="2.0" opacity="0" aria-label="0 contributions on 2026-02-04">
+    <rect x="441.0" y="105.0" width="12.0" height="12.0" fill="#313244" rx="2.0" opacity="0" aria-label="0 contributions on 2026-02-11">
       <animate attributeName="opacity" from="0" to="1" begin="0.180s" dur="0.300s" fill="freeze" />
     </rect>
-    <rect x="441.0" y="120.0" width="12.0" height="12.0" fill="#313244" rx="2.0" opacity="0" aria-label="0 contributions on 2026-02-05">
+    <rect x="441.0" y="120.0" width="12.0" height="12.0" fill="#313244" rx="2.0" opacity="0" aria-label="0 contributions on 2026-02-12">
       <animate attributeName="opacity" from="0" to="1" begin="0.186s" dur="0.300s" fill="freeze" />
     </rect>
-    <rect x="441.0" y="135.0" width="12.0" height="12.0" fill="#313244" rx="2.0" opacity="0" aria-label="0 contributions on 2026-02-06">
+    <rect x="441.0" y="135.0" width="12.0" height="12.0" fill="#313244" rx="2.0" opacity="0" aria-label="0 contributions on 2026-02-13">
       <animate attributeName="opacity" from="0" to="1" begin="0.192s" dur="0.300s" fill="freeze" />
     </rect>
-    <rect x="441.0" y="150.0" width="12.0" height="12.0" fill="#313244" rx="2.0" opacity="0" aria-label="0 contributions on 2026-02-07">
+    <rect x="441.0" y="150.0" width="12.0" height="12.0" fill="#313244" rx="2.0" opacity="0" aria-label="0 contributions on 2026-02-14">
       <animate attributeName="opacity" from="0" to="1" begin="0.198s" dur="0.300s" fill="freeze" />
     </rect>
-    <rect x="456.0" y="60.0" width="12.0" height="12.0" fill="#313244" rx="2.0" opacity="0" aria-label="0 contributions on 2026-02-08">
+    <rect x="456.0" y="60.0" width="12.0" height="12.0" fill="#313244" rx="2.0" opacity="0" aria-label="0 contributions on 2026-02-15">
       <animate attributeName="opacity" from="0" to="1" begin="0.168s" dur="0.300s" fill="freeze" />
     </rect>
-    <rect x="456.0" y="75.0" width="12.0" height="12.0" fill="#313244" rx="2.0" opacity="0" aria-label="0 contributions on 2026-02-09">
+    <rect x="456.0" y="75.0" width="12.0" height="12.0" fill="#313244" rx="2.0" opacity="0" aria-label="0 contributions on 2026-02-16">
       <animate attributeName="opacity" from="0" to="1" begin="0.174s" dur="0.300s" fill="freeze" />
     </rect>
-    <rect x="456.0" y="90.0" width="12.0" height="12.0" fill="#313244" rx="2.0" opacity="0" aria-label="0 contributions on 2026-02-10">
+    <rect x="456.0" y="90.0" width="12.0" height="12.0" fill="#313244" rx="2.0" opacity="0" aria-label="0 contributions on 2026-02-17">
       <animate attributeName="opacity" from="0" to="1" begin="0.180s" dur="0.300s" fill="freeze" />
     </rect>
-    <rect x="456.0" y="105.0" width="12.0" height="12.0" fill="#313244" rx="2.0" opacity="0" aria-label="0 contributions on 2026-02-11">
+    <rect x="456.0" y="105.0" width="12.0" height="12.0" fill="#313244" rx="2.0" opacity="0" aria-label="0 contributions on 2026-02-18">
       <animate attributeName="opacity" from="0" to="1" begin="0.186s" dur="0.300s" fill="freeze" />
     </rect>
-    <rect x="456.0" y="120.0" width="12.0" height="12.0" fill="#313244" rx="2.0" opacity="0" aria-label="0 contributions on 2026-02-12">
+    <rect x="456.0" y="120.0" width="12.0" height="12.0" fill="#313244" rx="2.0" opacity="0" aria-label="0 contributions on 2026-02-19">
       <animate attributeName="opacity" from="0" to="1" begin="0.192s" dur="0.300s" fill="freeze" />
     </rect>
-    <rect x="456.0" y="135.0" width="12.0" height="12.0" fill="#313244" rx="2.0" opacity="0" aria-label="0 contributions on 2026-02-13">
+    <rect x="456.0" y="135.0" width="12.0" height="12.0" fill="#313244" rx="2.0" opacity="0" aria-label="0 contributions on 2026-02-20">
       <animate attributeName="opacity" from="0" to="1" begin="0.198s" dur="0.300s" fill="freeze" />
     </rect>
-    <rect x="456.0" y="150.0" width="12.0" height="12.0" fill="#313244" rx="2.0" opacity="0" aria-label="0 contributions on 2026-02-14">
+    <rect x="456.0" y="150.0" width="12.0" height="12.0" fill="#313244" rx="2.0" opacity="0" aria-label="0 contributions on 2026-02-21">
       <animate attributeName="opacity" from="0" to="1" begin="0.204s" dur="0.300s" fill="freeze" />
     </rect>
-    <rect x="471.0" y="60.0" width="12.0" height="12.0" fill="#313244" rx="2.0" opacity="0" aria-label="0 contributions on 2026-02-15">
+    <rect x="471.0" y="60.0" width="12.0" height="12.0" fill="#45475a" rx="2.0" opacity="0" aria-label="0 contributions on 2026-02-22">
       <animate attributeName="opacity" from="0" to="1" begin="0.174s" dur="0.300s" fill="freeze" />
     </rect>
-    <rect x="471.0" y="75.0" width="12.0" height="12.0" fill="#313244" rx="2.0" opacity="0" aria-label="0 contributions on 2026-02-16">
+    <rect x="471.0" y="75.0" width="12.0" height="12.0" fill="#313244" rx="2.0" opacity="0" aria-label="0 contributions on 2026-02-23">
       <animate attributeName="opacity" from="0" to="1" begin="0.180s" dur="0.300s" fill="freeze" />
     </rect>
-    <rect x="471.0" y="90.0" width="12.0" height="12.0" fill="#313244" rx="2.0" opacity="0" aria-label="0 contributions on 2026-02-17">
+    <rect x="471.0" y="90.0" width="12.0" height="12.0" fill="#a6e3a1" rx="2.0" opacity="0" aria-label="0 contributions on 2026-02-24">
       <animate attributeName="opacity" from="0" to="1" begin="0.186s" dur="0.300s" fill="freeze" />
     </rect>
-    <rect x="471.0" y="105.0" width="12.0" height="12.0" fill="#313244" rx="2.0" opacity="0" aria-label="0 contributions on 2026-02-18">
+    <rect x="471.0" y="105.0" width="12.0" height="12.0" fill="#313244" rx="2.0" opacity="0" aria-label="0 contributions on 2026-02-25">
       <animate attributeName="opacity" from="0" to="1" begin="0.192s" dur="0.300s" fill="freeze" />
     </rect>
-    <rect x="471.0" y="120.0" width="12.0" height="12.0" fill="#313244" rx="2.0" opacity="0" aria-label="0 contributions on 2026-02-19">
+    <rect x="471.0" y="120.0" width="12.0" height="12.0" fill="#313244" rx="2.0" opacity="0" aria-label="0 contributions on 2026-02-26">
       <animate attributeName="opacity" from="0" to="1" begin="0.198s" dur="0.300s" fill="freeze" />
     </rect>
-    <rect x="471.0" y="135.0" width="12.0" height="12.0" fill="#313244" rx="2.0" opacity="0" aria-label="0 contributions on 2026-02-20">
+    <rect x="471.0" y="135.0" width="12.0" height="12.0" fill="#313244" rx="2.0" opacity="0" aria-label="0 contributions on 2026-02-27">
       <animate attributeName="opacity" from="0" to="1" begin="0.204s" dur="0.300s" fill="freeze" />
     </rect>
-    <rect x="471.0" y="150.0" width="12.0" height="12.0" fill="#313244" rx="2.0" opacity="0" aria-label="0 contributions on 2026-02-21">
+    <rect x="471.0" y="150.0" width="12.0" height="12.0" fill="#a6e3a1" rx="2.0" opacity="0" aria-label="0 contributions on 2026-02-28">
       <animate attributeName="opacity" from="0" to="1" begin="0.210s" dur="0.300s" fill="freeze" />
     </rect>
-    <rect x="486.0" y="60.0" width="12.0" height="12.0" fill="#45475a" rx="2.0" opacity="0" aria-label="0 contributions on 2026-02-22">
+    <rect x="486.0" y="60.0" width="12.0" height="12.0" fill="#45475a" rx="2.0" opacity="0" aria-label="0 contributions on 2026-03-01">
       <animate attributeName="opacity" from="0" to="1" begin="0.180s" dur="0.300s" fill="freeze" />
     </rect>
-    <rect x="486.0" y="75.0" width="12.0" height="12.0" fill="#313244" rx="2.0" opacity="0" aria-label="0 contributions on 2026-02-23">
+    <rect x="486.0" y="75.0" width="12.0" height="12.0" fill="#313244" rx="2.0" opacity="0" aria-label="0 contributions on 2026-03-02">
       <animate attributeName="opacity" from="0" to="1" begin="0.186s" dur="0.300s" fill="freeze" />
     </rect>
-    <rect x="486.0" y="90.0" width="12.0" height="12.0" fill="#a6e3a1" rx="2.0" opacity="0" aria-label="0 contributions on 2026-02-24">
+    <rect x="486.0" y="90.0" width="12.0" height="12.0" fill="#40a02b" rx="2.0" opacity="0" aria-label="0 contributions on 2026-03-03" filter="url(#heatmap-glow)">
       <animate attributeName="opacity" from="0" to="1" begin="0.192s" dur="0.300s" fill="freeze" />
     </rect>
-    <rect x="486.0" y="105.0" width="12.0" height="12.0" fill="#313244" rx="2.0" opacity="0" aria-label="0 contributions on 2026-02-25">
+    <rect x="486.0" y="105.0" width="12.0" height="12.0" fill="#313244" rx="2.0" opacity="0" aria-label="0 contributions on 2026-03-04">
       <animate attributeName="opacity" from="0" to="1" begin="0.198s" dur="0.300s" fill="freeze" />
     </rect>
-    <rect x="486.0" y="120.0" width="12.0" height="12.0" fill="#313244" rx="2.0" opacity="0" aria-label="0 contributions on 2026-02-26">
+    <rect x="486.0" y="120.0" width="12.0" height="12.0" fill="#313244" rx="2.0" opacity="0" aria-label="0 contributions on 2026-03-05">
       <animate attributeName="opacity" from="0" to="1" begin="0.204s" dur="0.300s" fill="freeze" />
     </rect>
-    <rect x="486.0" y="135.0" width="12.0" height="12.0" fill="#313244" rx="2.0" opacity="0" aria-label="0 contributions on 2026-02-27">
+    <rect x="486.0" y="135.0" width="12.0" height="12.0" fill="#313244" rx="2.0" opacity="0" aria-label="0 contributions on 2026-03-06">
       <animate attributeName="opacity" from="0" to="1" begin="0.210s" dur="0.300s" fill="freeze" />
     </rect>
-    <rect x="486.0" y="150.0" width="12.0" height="12.0" fill="#a6e3a1" rx="2.0" opacity="0" aria-label="0 contributions on 2026-02-28">
+    <rect x="486.0" y="150.0" width="12.0" height="12.0" fill="#313244" rx="2.0" opacity="0" aria-label="0 contributions on 2026-03-07">
       <animate attributeName="opacity" from="0" to="1" begin="0.216s" dur="0.300s" fill="freeze" />
     </rect>
-    <rect x="501.0" y="60.0" width="12.0" height="12.0" fill="#45475a" rx="2.0" opacity="0" aria-label="0 contributions on 2026-03-01">
+    <rect x="501.0" y="60.0" width="12.0" height="12.0" fill="#313244" rx="2.0" opacity="0" aria-label="0 contributions on 2026-03-08">
       <animate attributeName="opacity" from="0" to="1" begin="0.186s" dur="0.300s" fill="freeze" />
     </rect>
-    <rect x="501.0" y="75.0" width="12.0" height="12.0" fill="#313244" rx="2.0" opacity="0" aria-label="0 contributions on 2026-03-02">
+    <rect x="501.0" y="75.0" width="12.0" height="12.0" fill="#313244" rx="2.0" opacity="0" aria-label="0 contributions on 2026-03-09">
       <animate attributeName="opacity" from="0" to="1" begin="0.192s" dur="0.300s" fill="freeze" />
     </rect>
-    <rect x="501.0" y="90.0" width="12.0" height="12.0" fill="#40a02b" rx="2.0" opacity="0" aria-label="0 contributions on 2026-03-03" filter="url(#heatmap-glow)">
+    <rect x="501.0" y="90.0" width="12.0" height="12.0" fill="#313244" rx="2.0" opacity="0" aria-label="0 contributions on 2026-03-10">
       <animate attributeName="opacity" from="0" to="1" begin="0.198s" dur="0.300s" fill="freeze" />
     </rect>
-    <rect x="501.0" y="105.0" width="12.0" height="12.0" fill="#313244" rx="2.0" opacity="0" aria-label="0 contributions on 2026-03-04">
+    <rect x="501.0" y="105.0" width="12.0" height="12.0" fill="#45475a" rx="2.0" opacity="0" aria-label="0 contributions on 2026-03-11">
       <animate attributeName="opacity" from="0" to="1" begin="0.204s" dur="0.300s" fill="freeze" />
     </rect>
-    <rect x="501.0" y="120.0" width="12.0" height="12.0" fill="#313244" rx="2.0" opacity="0" aria-label="0 contributions on 2026-03-05">
+    <rect x="501.0" y="120.0" width="12.0" height="12.0" fill="#313244" rx="2.0" opacity="0" aria-label="0 contributions on 2026-03-12">
       <animate attributeName="opacity" from="0" to="1" begin="0.210s" dur="0.300s" fill="freeze" />
     </rect>
-    <rect x="501.0" y="135.0" width="12.0" height="12.0" fill="#313244" rx="2.0" opacity="0" aria-label="0 contributions on 2026-03-06">
+    <rect x="501.0" y="135.0" width="12.0" height="12.0" fill="#313244" rx="2.0" opacity="0" aria-label="0 contributions on 2026-03-13">
       <animate attributeName="opacity" from="0" to="1" begin="0.216s" dur="0.300s" fill="freeze" />
     </rect>
-    <rect x="501.0" y="150.0" width="12.0" height="12.0" fill="#313244" rx="2.0" opacity="0" aria-label="0 contributions on 2026-03-07">
+    <rect x="501.0" y="150.0" width="12.0" height="12.0" fill="#313244" rx="2.0" opacity="0" aria-label="0 contributions on 2026-03-14">
       <animate attributeName="opacity" from="0" to="1" begin="0.222s" dur="0.300s" fill="freeze" />
     </rect>
-    <rect x="516.0" y="60.0" width="12.0" height="12.0" fill="#313244" rx="2.0" opacity="0" aria-label="0 contributions on 2026-03-08">
+    <rect x="516.0" y="60.0" width="12.0" height="12.0" fill="#313244" rx="2.0" opacity="0" aria-label="0 contributions on 2026-03-15">
       <animate attributeName="opacity" from="0" to="1" begin="0.192s" dur="0.300s" fill="freeze" />
     </rect>
-    <rect x="516.0" y="75.0" width="12.0" height="12.0" fill="#313244" rx="2.0" opacity="0" aria-label="0 contributions on 2026-03-09">
+    <rect x="516.0" y="75.0" width="12.0" height="12.0" fill="#313244" rx="2.0" opacity="0" aria-label="0 contributions on 2026-03-16">
       <animate attributeName="opacity" from="0" to="1" begin="0.198s" dur="0.300s" fill="freeze" />
     </rect>
-    <rect x="516.0" y="90.0" width="12.0" height="12.0" fill="#313244" rx="2.0" opacity="0" aria-label="0 contributions on 2026-03-10">
+    <rect x="516.0" y="90.0" width="12.0" height="12.0" fill="#313244" rx="2.0" opacity="0" aria-label="0 contributions on 2026-03-17">
       <animate attributeName="opacity" from="0" to="1" begin="0.204s" dur="0.300s" fill="freeze" />
     </rect>
-    <rect x="516.0" y="105.0" width="12.0" height="12.0" fill="#45475a" rx="2.0" opacity="0" aria-label="0 contributions on 2026-03-11">
+    <rect x="516.0" y="105.0" width="12.0" height="12.0" fill="#313244" rx="2.0" opacity="0" aria-label="0 contributions on 2026-03-18">
       <animate attributeName="opacity" from="0" to="1" begin="0.210s" dur="0.300s" fill="freeze" />
     </rect>
-    <rect x="516.0" y="120.0" width="12.0" height="12.0" fill="#313244" rx="2.0" opacity="0" aria-label="0 contributions on 2026-03-12">
+    <rect x="516.0" y="120.0" width="12.0" height="12.0" fill="#313244" rx="2.0" opacity="0" aria-label="0 contributions on 2026-03-19">
       <animate attributeName="opacity" from="0" to="1" begin="0.216s" dur="0.300s" fill="freeze" />
     </rect>
-    <rect x="516.0" y="135.0" width="12.0" height="12.0" fill="#313244" rx="2.0" opacity="0" aria-label="0 contributions on 2026-03-13">
+    <rect x="516.0" y="135.0" width="12.0" height="12.0" fill="#45475a" rx="2.0" opacity="0" aria-label="0 contributions on 2026-03-20">
       <animate attributeName="opacity" from="0" to="1" begin="0.222s" dur="0.300s" fill="freeze" />
     </rect>
-    <rect x="516.0" y="150.0" width="12.0" height="12.0" fill="#313244" rx="2.0" opacity="0" aria-label="0 contributions on 2026-03-14">
+    <rect x="516.0" y="150.0" width="12.0" height="12.0" fill="#45475a" rx="2.0" opacity="0" aria-label="0 contributions on 2026-03-21">
       <animate attributeName="opacity" from="0" to="1" begin="0.228s" dur="0.300s" fill="freeze" />
     </rect>
-    <rect x="531.0" y="60.0" width="12.0" height="12.0" fill="#313244" rx="2.0" opacity="0" aria-label="0 contributions on 2026-03-15">
+    <rect x="531.0" y="60.0" width="12.0" height="12.0" fill="#313244" rx="2.0" opacity="0" aria-label="0 contributions on 2026-03-22">
       <animate attributeName="opacity" from="0" to="1" begin="0.198s" dur="0.300s" fill="freeze" />
     </rect>
-    <rect x="531.0" y="75.0" width="12.0" height="12.0" fill="#313244" rx="2.0" opacity="0" aria-label="0 contributions on 2026-03-16">
+    <rect x="531.0" y="75.0" width="12.0" height="12.0" fill="#313244" rx="2.0" opacity="0" aria-label="0 contributions on 2026-03-23">
       <animate attributeName="opacity" from="0" to="1" begin="0.204s" dur="0.300s" fill="freeze" />
     </rect>
-    <rect x="531.0" y="90.0" width="12.0" height="12.0" fill="#313244" rx="2.0" opacity="0" aria-label="0 contributions on 2026-03-17">
+    <rect x="531.0" y="90.0" width="12.0" height="12.0" fill="#45475a" rx="2.0" opacity="0" aria-label="0 contributions on 2026-03-24">
       <animate attributeName="opacity" from="0" to="1" begin="0.210s" dur="0.300s" fill="freeze" />
     </rect>
-    <rect x="531.0" y="105.0" width="12.0" height="12.0" fill="#313244" rx="2.0" opacity="0" aria-label="0 contributions on 2026-03-18">
+    <rect x="531.0" y="105.0" width="12.0" height="12.0" fill="#45475a" rx="2.0" opacity="0" aria-label="0 contributions on 2026-03-25">
       <animate attributeName="opacity" from="0" to="1" begin="0.216s" dur="0.300s" fill="freeze" />
     </rect>
-    <rect x="531.0" y="120.0" width="12.0" height="12.0" fill="#313244" rx="2.0" opacity="0" aria-label="0 contributions on 2026-03-19">
+    <rect x="531.0" y="120.0" width="12.0" height="12.0" fill="#313244" rx="2.0" opacity="0" aria-label="0 contributions on 2026-03-26">
       <animate attributeName="opacity" from="0" to="1" begin="0.222s" dur="0.300s" fill="freeze" />
     </rect>
-    <rect x="531.0" y="135.0" width="12.0" height="12.0" fill="#45475a" rx="2.0" opacity="0" aria-label="0 contributions on 2026-03-20">
+    <rect x="531.0" y="135.0" width="12.0" height="12.0" fill="#313244" rx="2.0" opacity="0" aria-label="0 contributions on 2026-03-27">
       <animate attributeName="opacity" from="0" to="1" begin="0.228s" dur="0.300s" fill="freeze" />
     </rect>
-    <rect x="531.0" y="150.0" width="12.0" height="12.0" fill="#45475a" rx="2.0" opacity="0" aria-label="0 contributions on 2026-03-21">
+    <rect x="531.0" y="150.0" width="12.0" height="12.0" fill="#313244" rx="2.0" opacity="0" aria-label="0 contributions on 2026-03-28">
       <animate attributeName="opacity" from="0" to="1" begin="0.234s" dur="0.300s" fill="freeze" />
     </rect>
-    <rect x="546.0" y="60.0" width="12.0" height="12.0" fill="#313244" rx="2.0" opacity="0" aria-label="0 contributions on 2026-03-22">
+    <rect x="546.0" y="60.0" width="12.0" height="12.0" fill="#313244" rx="2.0" opacity="0" aria-label="0 contributions on 2026-03-29">
       <animate attributeName="opacity" from="0" to="1" begin="0.204s" dur="0.300s" fill="freeze" />
     </rect>
-    <rect x="546.0" y="75.0" width="12.0" height="12.0" fill="#313244" rx="2.0" opacity="0" aria-label="0 contributions on 2026-03-23">
+    <rect x="546.0" y="75.0" width="12.0" height="12.0" fill="#313244" rx="2.0" opacity="0" aria-label="0 contributions on 2026-03-30">
       <animate attributeName="opacity" from="0" to="1" begin="0.210s" dur="0.300s" fill="freeze" />
     </rect>
-    <rect x="546.0" y="90.0" width="12.0" height="12.0" fill="#45475a" rx="2.0" opacity="0" aria-label="0 contributions on 2026-03-24">
+    <rect x="546.0" y="90.0" width="12.0" height="12.0" fill="#313244" rx="2.0" opacity="0" aria-label="0 contributions on 2026-03-31">
       <animate attributeName="opacity" from="0" to="1" begin="0.216s" dur="0.300s" fill="freeze" />
     </rect>
-    <rect x="546.0" y="105.0" width="12.0" height="12.0" fill="#45475a" rx="2.0" opacity="0" aria-label="0 contributions on 2026-03-25">
+    <rect x="546.0" y="105.0" width="12.0" height="12.0" fill="#313244" rx="2.0" opacity="0" aria-label="0 contributions on 2026-04-01">
       <animate attributeName="opacity" from="0" to="1" begin="0.222s" dur="0.300s" fill="freeze" />
     </rect>
-    <rect x="546.0" y="120.0" width="12.0" height="12.0" fill="#313244" rx="2.0" opacity="0" aria-label="0 contributions on 2026-03-26">
+    <rect x="546.0" y="120.0" width="12.0" height="12.0" fill="#313244" rx="2.0" opacity="0" aria-label="0 contributions on 2026-04-02">
       <animate attributeName="opacity" from="0" to="1" begin="0.228s" dur="0.300s" fill="freeze" />
     </rect>
-    <rect x="546.0" y="135.0" width="12.0" height="12.0" fill="#313244" rx="2.0" opacity="0" aria-label="0 contributions on 2026-03-27">
+    <rect x="546.0" y="135.0" width="12.0" height="12.0" fill="#313244" rx="2.0" opacity="0" aria-label="0 contributions on 2026-04-03">
       <animate attributeName="opacity" from="0" to="1" begin="0.234s" dur="0.300s" fill="freeze" />
     </rect>
-    <rect x="546.0" y="150.0" width="12.0" height="12.0" fill="#313244" rx="2.0" opacity="0" aria-label="0 contributions on 2026-03-28">
+    <rect x="546.0" y="150.0" width="12.0" height="12.0" fill="#313244" rx="2.0" opacity="0" aria-label="0 contributions on 2026-04-04">
       <animate attributeName="opacity" from="0" to="1" begin="0.240s" dur="0.300s" fill="freeze" />
     </rect>
-    <rect x="561.0" y="60.0" width="12.0" height="12.0" fill="#313244" rx="2.0" opacity="0" aria-label="0 contributions on 2026-03-29">
+    <rect x="561.0" y="60.0" width="12.0" height="12.0" fill="#313244" rx="2.0" opacity="0" aria-label="0 contributions on 2026-04-05">
       <animate attributeName="opacity" from="0" to="1" begin="0.210s" dur="0.300s" fill="freeze" />
     </rect>
-    <rect x="561.0" y="75.0" width="12.0" height="12.0" fill="#313244" rx="2.0" opacity="0" aria-label="0 contributions on 2026-03-30">
+    <rect x="561.0" y="75.0" width="12.0" height="12.0" fill="#313244" rx="2.0" opacity="0" aria-label="0 contributions on 2026-04-06">
       <animate attributeName="opacity" from="0" to="1" begin="0.216s" dur="0.300s" fill="freeze" />
     </rect>
-    <rect x="561.0" y="90.0" width="12.0" height="12.0" fill="#313244" rx="2.0" opacity="0" aria-label="0 contributions on 2026-03-31">
+    <rect x="561.0" y="90.0" width="12.0" height="12.0" fill="#313244" rx="2.0" opacity="0" aria-label="0 contributions on 2026-04-07">
       <animate attributeName="opacity" from="0" to="1" begin="0.222s" dur="0.300s" fill="freeze" />
     </rect>
-    <rect x="561.0" y="105.0" width="12.0" height="12.0" fill="#313244" rx="2.0" opacity="0" aria-label="0 contributions on 2026-04-01">
+    <rect x="561.0" y="105.0" width="12.0" height="12.0" fill="#313244" rx="2.0" opacity="0" aria-label="0 contributions on 2026-04-08">
       <animate attributeName="opacity" from="0" to="1" begin="0.228s" dur="0.300s" fill="freeze" />
     </rect>
-    <rect x="561.0" y="120.0" width="12.0" height="12.0" fill="#313244" rx="2.0" opacity="0" aria-label="0 contributions on 2026-04-02">
+    <rect x="561.0" y="120.0" width="12.0" height="12.0" fill="#313244" rx="2.0" opacity="0" aria-label="0 contributions on 2026-04-09">
       <animate attributeName="opacity" from="0" to="1" begin="0.234s" dur="0.300s" fill="freeze" />
     </rect>
-    <rect x="561.0" y="135.0" width="12.0" height="12.0" fill="#313244" rx="2.0" opacity="0" aria-label="0 contributions on 2026-04-03">
+    <rect x="561.0" y="135.0" width="12.0" height="12.0" fill="#313244" rx="2.0" opacity="0" aria-label="0 contributions on 2026-04-10">
       <animate attributeName="opacity" from="0" to="1" begin="0.240s" dur="0.300s" fill="freeze" />
     </rect>
-    <rect x="561.0" y="150.0" width="12.0" height="12.0" fill="#313244" rx="2.0" opacity="0" aria-label="0 contributions on 2026-04-04">
+    <rect x="561.0" y="150.0" width="12.0" height="12.0" fill="#313244" rx="2.0" opacity="0" aria-label="0 contributions on 2026-04-11">
       <animate attributeName="opacity" from="0" to="1" begin="0.246s" dur="0.300s" fill="freeze" />
     </rect>
-    <rect x="576.0" y="60.0" width="12.0" height="12.0" fill="#313244" rx="2.0" opacity="0" aria-label="0 contributions on 2026-04-05">
+    <rect x="576.0" y="60.0" width="12.0" height="12.0" fill="#a6e3a1" rx="2.0" opacity="0" aria-label="0 contributions on 2026-04-12">
       <animate attributeName="opacity" from="0" to="1" begin="0.216s" dur="0.300s" fill="freeze" />
     </rect>
-    <rect x="576.0" y="75.0" width="12.0" height="12.0" fill="#313244" rx="2.0" opacity="0" aria-label="0 contributions on 2026-04-06">
+    <rect x="576.0" y="75.0" width="12.0" height="12.0" fill="#313244" rx="2.0" opacity="0" aria-label="0 contributions on 2026-04-13">
       <animate attributeName="opacity" from="0" to="1" begin="0.222s" dur="0.300s" fill="freeze" />
     </rect>
-    <rect x="576.0" y="90.0" width="12.0" height="12.0" fill="#313244" rx="2.0" opacity="0" aria-label="0 contributions on 2026-04-07">
+    <rect x="576.0" y="90.0" width="12.0" height="12.0" fill="#45475a" rx="2.0" opacity="0" aria-label="0 contributions on 2026-04-14">
       <animate attributeName="opacity" from="0" to="1" begin="0.228s" dur="0.300s" fill="freeze" />
     </rect>
-    <rect x="576.0" y="105.0" width="12.0" height="12.0" fill="#313244" rx="2.0" opacity="0" aria-label="0 contributions on 2026-04-08">
+    <rect x="576.0" y="105.0" width="12.0" height="12.0" fill="#313244" rx="2.0" opacity="0" aria-label="0 contributions on 2026-04-15">
       <animate attributeName="opacity" from="0" to="1" begin="0.234s" dur="0.300s" fill="freeze" />
     </rect>
-    <rect x="576.0" y="120.0" width="12.0" height="12.0" fill="#313244" rx="2.0" opacity="0" aria-label="0 contributions on 2026-04-09">
+    <rect x="576.0" y="120.0" width="12.0" height="12.0" fill="#45475a" rx="2.0" opacity="0" aria-label="0 contributions on 2026-04-16">
       <animate attributeName="opacity" from="0" to="1" begin="0.240s" dur="0.300s" fill="freeze" />
     </rect>
-    <rect x="576.0" y="135.0" width="12.0" height="12.0" fill="#313244" rx="2.0" opacity="0" aria-label="0 contributions on 2026-04-10">
+    <rect x="576.0" y="135.0" width="12.0" height="12.0" fill="#313244" rx="2.0" opacity="0" aria-label="0 contributions on 2026-04-17">
       <animate attributeName="opacity" from="0" to="1" begin="0.246s" dur="0.300s" fill="freeze" />
     </rect>
-    <rect x="576.0" y="150.0" width="12.0" height="12.0" fill="#313244" rx="2.0" opacity="0" aria-label="0 contributions on 2026-04-11">
+    <rect x="576.0" y="150.0" width="12.0" height="12.0" fill="#45475a" rx="2.0" opacity="0" aria-label="0 contributions on 2026-04-18">
       <animate attributeName="opacity" from="0" to="1" begin="0.252s" dur="0.300s" fill="freeze" />
     </rect>
-    <rect x="591.0" y="60.0" width="12.0" height="12.0" fill="#a6e3a1" rx="2.0" opacity="0" aria-label="0 contributions on 2026-04-12">
+    <rect x="591.0" y="60.0" width="12.0" height="12.0" fill="#313244" rx="2.0" opacity="0" aria-label="0 contributions on 2026-04-19">
       <animate attributeName="opacity" from="0" to="1" begin="0.222s" dur="0.300s" fill="freeze" />
     </rect>
-    <rect x="591.0" y="75.0" width="12.0" height="12.0" fill="#313244" rx="2.0" opacity="0" aria-label="0 contributions on 2026-04-13">
+    <rect x="591.0" y="75.0" width="12.0" height="12.0" fill="#313244" rx="2.0" opacity="0" aria-label="0 contributions on 2026-04-20">
       <animate attributeName="opacity" from="0" to="1" begin="0.228s" dur="0.300s" fill="freeze" />
     </rect>
-    <rect x="591.0" y="90.0" width="12.0" height="12.0" fill="#45475a" rx="2.0" opacity="0" aria-label="0 contributions on 2026-04-14">
+    <rect x="591.0" y="90.0" width="12.0" height="12.0" fill="#313244" rx="2.0" opacity="0" aria-label="0 contributions on 2026-04-21">
       <animate attributeName="opacity" from="0" to="1" begin="0.234s" dur="0.300s" fill="freeze" />
     </rect>
-    <rect x="591.0" y="105.0" width="12.0" height="12.0" fill="#313244" rx="2.0" opacity="0" aria-label="0 contributions on 2026-04-15">
+    <rect x="591.0" y="105.0" width="12.0" height="12.0" fill="#313244" rx="2.0" opacity="0" aria-label="0 contributions on 2026-04-22">
       <animate attributeName="opacity" from="0" to="1" begin="0.240s" dur="0.300s" fill="freeze" />
     </rect>
-    <rect x="591.0" y="120.0" width="12.0" height="12.0" fill="#45475a" rx="2.0" opacity="0" aria-label="0 contributions on 2026-04-16">
+    <rect x="591.0" y="120.0" width="12.0" height="12.0" fill="#313244" rx="2.0" opacity="0" aria-label="0 contributions on 2026-04-23">
       <animate attributeName="opacity" from="0" to="1" begin="0.246s" dur="0.300s" fill="freeze" />
     </rect>
-    <rect x="591.0" y="135.0" width="12.0" height="12.0" fill="#313244" rx="2.0" opacity="0" aria-label="0 contributions on 2026-04-17">
+    <rect x="591.0" y="135.0" width="12.0" height="12.0" fill="#313244" rx="2.0" opacity="0" aria-label="0 contributions on 2026-04-24">
       <animate attributeName="opacity" from="0" to="1" begin="0.252s" dur="0.300s" fill="freeze" />
     </rect>
-    <rect x="591.0" y="150.0" width="12.0" height="12.0" fill="#45475a" rx="2.0" opacity="0" aria-label="0 contributions on 2026-04-18">
+    <rect x="591.0" y="150.0" width="12.0" height="12.0" fill="#313244" rx="2.0" opacity="0" aria-label="0 contributions on 2026-04-25">
       <animate attributeName="opacity" from="0" to="1" begin="0.258s" dur="0.300s" fill="freeze" />
     </rect>
-    <rect x="606.0" y="60.0" width="12.0" height="12.0" fill="#313244" rx="2.0" opacity="0" aria-label="0 contributions on 2026-04-19">
+    <rect x="606.0" y="60.0" width="12.0" height="12.0" fill="#313244" rx="2.0" opacity="0" aria-label="0 contributions on 2026-04-26">
       <animate attributeName="opacity" from="0" to="1" begin="0.228s" dur="0.300s" fill="freeze" />
     </rect>
-    <rect x="606.0" y="75.0" width="12.0" height="12.0" fill="#313244" rx="2.0" opacity="0" aria-label="0 contributions on 2026-04-20">
+    <rect x="606.0" y="75.0" width="12.0" height="12.0" fill="#313244" rx="2.0" opacity="0" aria-label="0 contributions on 2026-04-27">
       <animate attributeName="opacity" from="0" to="1" begin="0.234s" dur="0.300s" fill="freeze" />
     </rect>
-    <rect x="606.0" y="90.0" width="12.0" height="12.0" fill="#313244" rx="2.0" opacity="0" aria-label="0 contributions on 2026-04-21">
+    <rect x="606.0" y="90.0" width="12.0" height="12.0" fill="#313244" rx="2.0" opacity="0" aria-label="0 contributions on 2026-04-28">
       <animate attributeName="opacity" from="0" to="1" begin="0.240s" dur="0.300s" fill="freeze" />
     </rect>
-    <rect x="606.0" y="105.0" width="12.0" height="12.0" fill="#313244" rx="2.0" opacity="0" aria-label="0 contributions on 2026-04-22">
+    <rect x="606.0" y="105.0" width="12.0" height="12.0" fill="#45475a" rx="2.0" opacity="0" aria-label="0 contributions on 2026-04-29">
       <animate attributeName="opacity" from="0" to="1" begin="0.246s" dur="0.300s" fill="freeze" />
     </rect>
-    <rect x="606.0" y="120.0" width="12.0" height="12.0" fill="#313244" rx="2.0" opacity="0" aria-label="0 contributions on 2026-04-23">
+    <rect x="606.0" y="120.0" width="12.0" height="12.0" fill="#313244" rx="2.0" opacity="0" aria-label="0 contributions on 2026-04-30">
       <animate attributeName="opacity" from="0" to="1" begin="0.252s" dur="0.300s" fill="freeze" />
     </rect>
-    <rect x="606.0" y="135.0" width="12.0" height="12.0" fill="#313244" rx="2.0" opacity="0" aria-label="0 contributions on 2026-04-24">
+    <rect x="606.0" y="135.0" width="12.0" height="12.0" fill="#313244" rx="2.0" opacity="0" aria-label="0 contributions on 2026-05-01">
       <animate attributeName="opacity" from="0" to="1" begin="0.258s" dur="0.300s" fill="freeze" />
     </rect>
-    <rect x="606.0" y="150.0" width="12.0" height="12.0" fill="#313244" rx="2.0" opacity="0" aria-label="0 contributions on 2026-04-25">
+    <rect x="606.0" y="150.0" width="12.0" height="12.0" fill="#45475a" rx="2.0" opacity="0" aria-label="0 contributions on 2026-05-02">
       <animate attributeName="opacity" from="0" to="1" begin="0.264s" dur="0.300s" fill="freeze" />
     </rect>
-    <rect x="621.0" y="60.0" width="12.0" height="12.0" fill="#313244" rx="2.0" opacity="0" aria-label="0 contributions on 2026-04-26">
+    <rect x="621.0" y="60.0" width="12.0" height="12.0" fill="#45475a" rx="2.0" opacity="0" aria-label="0 contributions on 2026-05-03">
       <animate attributeName="opacity" from="0" to="1" begin="0.234s" dur="0.300s" fill="freeze" />
     </rect>
-    <rect x="621.0" y="75.0" width="12.0" height="12.0" fill="#313244" rx="2.0" opacity="0" aria-label="0 contributions on 2026-04-27">
+    <rect x="621.0" y="75.0" width="12.0" height="12.0" fill="#45475a" rx="2.0" opacity="0" aria-label="0 contributions on 2026-05-04">
       <animate attributeName="opacity" from="0" to="1" begin="0.240s" dur="0.300s" fill="freeze" />
     </rect>
-    <rect x="621.0" y="90.0" width="12.0" height="12.0" fill="#313244" rx="2.0" opacity="0" aria-label="0 contributions on 2026-04-28">
+    <rect x="621.0" y="90.0" width="12.0" height="12.0" fill="#a6e3a1" rx="2.0" opacity="0" aria-label="0 contributions on 2026-05-05">
       <animate attributeName="opacity" from="0" to="1" begin="0.246s" dur="0.300s" fill="freeze" />
     </rect>
-    <rect x="621.0" y="105.0" width="12.0" height="12.0" fill="#45475a" rx="2.0" opacity="0" aria-label="0 contributions on 2026-04-29">
+    <rect x="621.0" y="105.0" width="12.0" height="12.0" fill="#45475a" rx="2.0" opacity="0" aria-label="0 contributions on 2026-05-06">
       <animate attributeName="opacity" from="0" to="1" begin="0.252s" dur="0.300s" fill="freeze" />
     </rect>
-    <rect x="621.0" y="120.0" width="12.0" height="12.0" fill="#313244" rx="2.0" opacity="0" aria-label="0 contributions on 2026-04-30">
+    <rect x="621.0" y="120.0" width="12.0" height="12.0" fill="#40a02b" rx="2.0" opacity="0" aria-label="0 contributions on 2026-05-07" filter="url(#heatmap-glow)">
       <animate attributeName="opacity" from="0" to="1" begin="0.258s" dur="0.300s" fill="freeze" />
     </rect>
-    <rect x="621.0" y="135.0" width="12.0" height="12.0" fill="#313244" rx="2.0" opacity="0" aria-label="0 contributions on 2026-05-01">
+    <rect x="621.0" y="135.0" width="12.0" height="12.0" fill="#313244" rx="2.0" opacity="0" aria-label="0 contributions on 2026-05-08">
       <animate attributeName="opacity" from="0" to="1" begin="0.264s" dur="0.300s" fill="freeze" />
     </rect>
-    <rect x="621.0" y="150.0" width="12.0" height="12.0" fill="#45475a" rx="2.0" opacity="0" aria-label="0 contributions on 2026-05-02">
+    <rect x="621.0" y="150.0" width="12.0" height="12.0" fill="#45475a" rx="2.0" opacity="0" aria-label="0 contributions on 2026-05-09">
       <animate attributeName="opacity" from="0" to="1" begin="0.270s" dur="0.300s" fill="freeze" />
     </rect>
-    <rect x="636.0" y="60.0" width="12.0" height="12.0" fill="#45475a" rx="2.0" opacity="0" aria-label="0 contributions on 2026-05-03">
+    <rect x="636.0" y="60.0" width="12.0" height="12.0" fill="#313244" rx="2.0" opacity="0" aria-label="0 contributions on 2026-05-10">
       <animate attributeName="opacity" from="0" to="1" begin="0.240s" dur="0.300s" fill="freeze" />
     </rect>
-    <rect x="636.0" y="75.0" width="12.0" height="12.0" fill="#45475a" rx="2.0" opacity="0" aria-label="0 contributions on 2026-05-04">
+    <rect x="636.0" y="75.0" width="12.0" height="12.0" fill="#a6e3a1" rx="2.0" opacity="0" aria-label="0 contributions on 2026-05-11">
       <animate attributeName="opacity" from="0" to="1" begin="0.246s" dur="0.300s" fill="freeze" />
     </rect>
-    <rect x="636.0" y="90.0" width="12.0" height="12.0" fill="#a6e3a1" rx="2.0" opacity="0" aria-label="0 contributions on 2026-05-05">
+    <rect x="636.0" y="90.0" width="12.0" height="12.0" fill="#313244" rx="2.0" opacity="0" aria-label="0 contributions on 2026-05-12">
       <animate attributeName="opacity" from="0" to="1" begin="0.252s" dur="0.300s" fill="freeze" />
     </rect>
-    <rect x="636.0" y="105.0" width="12.0" height="12.0" fill="#45475a" rx="2.0" opacity="0" aria-label="0 contributions on 2026-05-06">
+    <rect x="636.0" y="105.0" width="12.0" height="12.0" fill="#313244" rx="2.0" opacity="0" aria-label="0 contributions on 2026-05-13">
       <animate attributeName="opacity" from="0" to="1" begin="0.258s" dur="0.300s" fill="freeze" />
     </rect>
-    <rect x="636.0" y="120.0" width="12.0" height="12.0" fill="#40a02b" rx="2.0" opacity="0" aria-label="0 contributions on 2026-05-07" filter="url(#heatmap-glow)">
+    <rect x="636.0" y="120.0" width="12.0" height="12.0" fill="#313244" rx="2.0" opacity="0" aria-label="0 contributions on 2026-05-14">
       <animate attributeName="opacity" from="0" to="1" begin="0.264s" dur="0.300s" fill="freeze" />
     </rect>
-    <rect x="636.0" y="135.0" width="12.0" height="12.0" fill="#313244" rx="2.0" opacity="0" aria-label="0 contributions on 2026-05-08">
+    <rect x="636.0" y="135.0" width="12.0" height="12.0" fill="#313244" rx="2.0" opacity="0" aria-label="0 contributions on 2026-05-15">
       <animate attributeName="opacity" from="0" to="1" begin="0.270s" dur="0.300s" fill="freeze" />
     </rect>
-    <rect x="636.0" y="150.0" width="12.0" height="12.0" fill="#45475a" rx="2.0" opacity="0" aria-label="0 contributions on 2026-05-09">
+    <rect x="636.0" y="150.0" width="12.0" height="12.0" fill="#313244" rx="2.0" opacity="0" aria-label="0 contributions on 2026-05-16">
       <animate attributeName="opacity" from="0" to="1" begin="0.276s" dur="0.300s" fill="freeze" />
     </rect>
-    <rect x="651.0" y="60.0" width="12.0" height="12.0" fill="#313244" rx="2.0" opacity="0" aria-label="0 contributions on 2026-05-10">
+    <rect x="651.0" y="60.0" width="12.0" height="12.0" fill="#45475a" rx="2.0" opacity="0" aria-label="0 contributions on 2026-05-17">
       <animate attributeName="opacity" from="0" to="1" begin="0.246s" dur="0.300s" fill="freeze" />
     </rect>
-    <rect x="651.0" y="75.0" width="12.0" height="12.0" fill="#a6e3a1" rx="2.0" opacity="0" aria-label="0 contributions on 2026-05-11">
+    <rect x="651.0" y="75.0" width="12.0" height="12.0" fill="#313244" rx="2.0" opacity="0" aria-label="0 contributions on 2026-05-18">
       <animate attributeName="opacity" from="0" to="1" begin="0.252s" dur="0.300s" fill="freeze" />
     </rect>
-    <rect x="651.0" y="90.0" width="12.0" height="12.0" fill="#313244" rx="2.0" opacity="0" aria-label="0 contributions on 2026-05-12">
+    <rect x="651.0" y="90.0" width="12.0" height="12.0" fill="#45475a" rx="2.0" opacity="0" aria-label="0 contributions on 2026-05-19">
       <animate attributeName="opacity" from="0" to="1" begin="0.258s" dur="0.300s" fill="freeze" />
     </rect>
-    <rect x="651.0" y="105.0" width="12.0" height="12.0" fill="#313244" rx="2.0" opacity="0" aria-label="0 contributions on 2026-05-13">
+    <rect x="651.0" y="105.0" width="12.0" height="12.0" fill="#313244" rx="2.0" opacity="0" aria-label="0 contributions on 2026-05-20">
       <animate attributeName="opacity" from="0" to="1" begin="0.264s" dur="0.300s" fill="freeze" />
     </rect>
-    <rect x="651.0" y="120.0" width="12.0" height="12.0" fill="#313244" rx="2.0" opacity="0" aria-label="0 contributions on 2026-05-14">
+    <rect x="651.0" y="120.0" width="12.0" height="12.0" fill="#313244" rx="2.0" opacity="0" aria-label="0 contributions on 2026-05-21">
       <animate attributeName="opacity" from="0" to="1" begin="0.270s" dur="0.300s" fill="freeze" />
     </rect>
-    <rect x="651.0" y="135.0" width="12.0" height="12.0" fill="#313244" rx="2.0" opacity="0" aria-label="0 contributions on 2026-05-15">
+    <rect x="651.0" y="135.0" width="12.0" height="12.0" fill="#313244" rx="2.0" opacity="0" aria-label="0 contributions on 2026-05-22">
       <animate attributeName="opacity" from="0" to="1" begin="0.276s" dur="0.300s" fill="freeze" />
     </rect>
-    <rect x="651.0" y="150.0" width="12.0" height="12.0" fill="#313244" rx="2.0" opacity="0" aria-label="0 contributions on 2026-05-16">
+    <rect x="651.0" y="150.0" width="12.0" height="12.0" fill="#45475a" rx="2.0" opacity="0" aria-label="0 contributions on 2026-05-23">
       <animate attributeName="opacity" from="0" to="1" begin="0.282s" dur="0.300s" fill="freeze" />
     </rect>
-    <rect x="666.0" y="60.0" width="12.0" height="12.0" fill="#45475a" rx="2.0" opacity="0" aria-label="0 contributions on 2026-05-17">
+    <rect x="666.0" y="60.0" width="12.0" height="12.0" fill="#313244" rx="2.0" opacity="0" aria-label="0 contributions on 2026-05-24">
       <animate attributeName="opacity" from="0" to="1" begin="0.252s" dur="0.300s" fill="freeze" />
     </rect>
-    <rect x="666.0" y="75.0" width="12.0" height="12.0" fill="#313244" rx="2.0" opacity="0" aria-label="0 contributions on 2026-05-18">
+    <rect x="666.0" y="75.0" width="12.0" height="12.0" fill="#313244" rx="2.0" opacity="0" aria-label="0 contributions on 2026-05-25">
       <animate attributeName="opacity" from="0" to="1" begin="0.258s" dur="0.300s" fill="freeze" />
     </rect>
-    <rect x="666.0" y="90.0" width="12.0" height="12.0" fill="#45475a" rx="2.0" opacity="0" aria-label="0 contributions on 2026-05-19">
+    <rect x="666.0" y="90.0" width="12.0" height="12.0" fill="#45475a" rx="2.0" opacity="0" aria-label="0 contributions on 2026-05-26">
       <animate attributeName="opacity" from="0" to="1" begin="0.264s" dur="0.300s" fill="freeze" />
     </rect>
-    <rect x="666.0" y="105.0" width="12.0" height="12.0" fill="#313244" rx="2.0" opacity="0" aria-label="0 contributions on 2026-05-20">
+    <rect x="666.0" y="105.0" width="12.0" height="12.0" fill="#313244" rx="2.0" opacity="0" aria-label="0 contributions on 2026-05-27">
       <animate attributeName="opacity" from="0" to="1" begin="0.270s" dur="0.300s" fill="freeze" />
     </rect>
-    <rect x="666.0" y="120.0" width="12.0" height="12.0" fill="#313244" rx="2.0" opacity="0" aria-label="0 contributions on 2026-05-21">
+    <rect x="666.0" y="120.0" width="12.0" height="12.0" fill="#313244" rx="2.0" opacity="0" aria-label="0 contributions on 2026-05-28">
       <animate attributeName="opacity" from="0" to="1" begin="0.276s" dur="0.300s" fill="freeze" />
     </rect>
-    <rect x="666.0" y="135.0" width="12.0" height="12.0" fill="#313244" rx="2.0" opacity="0" aria-label="0 contributions on 2026-05-22">
+    <rect x="666.0" y="135.0" width="12.0" height="12.0" fill="#313244" rx="2.0" opacity="0" aria-label="0 contributions on 2026-05-29">
       <animate attributeName="opacity" from="0" to="1" begin="0.282s" dur="0.300s" fill="freeze" />
     </rect>
-    <rect x="666.0" y="150.0" width="12.0" height="12.0" fill="#45475a" rx="2.0" opacity="0" aria-label="0 contributions on 2026-05-23">
+    <rect x="666.0" y="150.0" width="12.0" height="12.0" fill="#313244" rx="2.0" opacity="0" aria-label="0 contributions on 2026-05-30">
       <animate attributeName="opacity" from="0" to="1" begin="0.288s" dur="0.300s" fill="freeze" />
     </rect>
-    <rect x="681.0" y="60.0" width="12.0" height="12.0" fill="#313244" rx="2.0" opacity="0" aria-label="0 contributions on 2026-05-24">
+    <rect x="681.0" y="60.0" width="12.0" height="12.0" fill="#313244" rx="2.0" opacity="0" aria-label="0 contributions on 2026-05-31">
       <animate attributeName="opacity" from="0" to="1" begin="0.258s" dur="0.300s" fill="freeze" />
     </rect>
-    <rect x="681.0" y="75.0" width="12.0" height="12.0" fill="#313244" rx="2.0" opacity="0" aria-label="0 contributions on 2026-05-25">
+    <rect x="681.0" y="75.0" width="12.0" height="12.0" fill="#45475a" rx="2.0" opacity="0" aria-label="0 contributions on 2026-06-01">
       <animate attributeName="opacity" from="0" to="1" begin="0.264s" dur="0.300s" fill="freeze" />
     </rect>
-    <rect x="681.0" y="90.0" width="12.0" height="12.0" fill="#45475a" rx="2.0" opacity="0" aria-label="0 contributions on 2026-05-26">
+    <rect x="681.0" y="90.0" width="12.0" height="12.0" fill="#313244" rx="2.0" opacity="0" aria-label="0 contributions on 2026-06-02">
       <animate attributeName="opacity" from="0" to="1" begin="0.270s" dur="0.300s" fill="freeze" />
     </rect>
-    <rect x="681.0" y="105.0" width="12.0" height="12.0" fill="#313244" rx="2.0" opacity="0" aria-label="0 contributions on 2026-05-27">
+    <rect x="681.0" y="105.0" width="12.0" height="12.0" fill="#313244" rx="2.0" opacity="0" aria-label="0 contributions on 2026-06-03">
       <animate attributeName="opacity" from="0" to="1" begin="0.276s" dur="0.300s" fill="freeze" />
     </rect>
-    <rect x="681.0" y="120.0" width="12.0" height="12.0" fill="#313244" rx="2.0" opacity="0" aria-label="0 contributions on 2026-05-28">
+    <rect x="681.0" y="120.0" width="12.0" height="12.0" fill="#313244" rx="2.0" opacity="0" aria-label="0 contributions on 2026-06-04">
       <animate attributeName="opacity" from="0" to="1" begin="0.282s" dur="0.300s" fill="freeze" />
     </rect>
-    <rect x="681.0" y="135.0" width="12.0" height="12.0" fill="#313244" rx="2.0" opacity="0" aria-label="0 contributions on 2026-05-29">
+    <rect x="681.0" y="135.0" width="12.0" height="12.0" fill="#313244" rx="2.0" opacity="0" aria-label="0 contributions on 2026-06-05">
       <animate attributeName="opacity" from="0" to="1" begin="0.288s" dur="0.300s" fill="freeze" />
     </rect>
-    <rect x="681.0" y="150.0" width="12.0" height="12.0" fill="#313244" rx="2.0" opacity="0" aria-label="0 contributions on 2026-05-30">
+    <rect x="681.0" y="150.0" width="12.0" height="12.0" fill="#313244" rx="2.0" opacity="0" aria-label="0 contributions on 2026-06-06">
       <animate attributeName="opacity" from="0" to="1" begin="0.294s" dur="0.300s" fill="freeze" />
     </rect>
-    <rect x="696.0" y="60.0" width="12.0" height="12.0" fill="#313244" rx="2.0" opacity="0" aria-label="0 contributions on 2026-05-31">
+    <rect x="696.0" y="60.0" width="12.0" height="12.0" fill="#313244" rx="2.0" opacity="0" aria-label="0 contributions on 2026-06-07">
       <animate attributeName="opacity" from="0" to="1" begin="0.264s" dur="0.300s" fill="freeze" />
     </rect>
-    <rect x="696.0" y="75.0" width="12.0" height="12.0" fill="#45475a" rx="2.0" opacity="0" aria-label="0 contributions on 2026-06-01">
+    <rect x="696.0" y="75.0" width="12.0" height="12.0" fill="#313244" rx="2.0" opacity="0" aria-label="0 contributions on 2026-06-08">
       <animate attributeName="opacity" from="0" to="1" begin="0.270s" dur="0.300s" fill="freeze" />
     </rect>
-    <rect x="696.0" y="90.0" width="12.0" height="12.0" fill="#313244" rx="2.0" opacity="0" aria-label="0 contributions on 2026-06-02">
+    <rect x="696.0" y="90.0" width="12.0" height="12.0" fill="#313244" rx="2.0" opacity="0" aria-label="0 contributions on 2026-06-09">
       <animate attributeName="opacity" from="0" to="1" begin="0.276s" dur="0.300s" fill="freeze" />
     </rect>
-    <rect x="696.0" y="105.0" width="12.0" height="12.0" fill="#313244" rx="2.0" opacity="0" aria-label="0 contributions on 2026-06-03">
+    <rect x="696.0" y="105.0" width="12.0" height="12.0" fill="#313244" rx="2.0" opacity="0" aria-label="0 contributions on 2026-06-10">
       <animate attributeName="opacity" from="0" to="1" begin="0.282s" dur="0.300s" fill="freeze" />
     </rect>
-    <rect x="696.0" y="120.0" width="12.0" height="12.0" fill="#313244" rx="2.0" opacity="0" aria-label="0 contributions on 2026-06-04">
+    <rect x="696.0" y="120.0" width="12.0" height="12.0" fill="#313244" rx="2.0" opacity="0" aria-label="0 contributions on 2026-06-11">
       <animate attributeName="opacity" from="0" to="1" begin="0.288s" dur="0.300s" fill="freeze" />
     </rect>
-    <rect x="696.0" y="135.0" width="12.0" height="12.0" fill="#313244" rx="2.0" opacity="0" aria-label="0 contributions on 2026-06-05">
+    <rect x="696.0" y="135.0" width="12.0" height="12.0" fill="#313244" rx="2.0" opacity="0" aria-label="0 contributions on 2026-06-12">
       <animate attributeName="opacity" from="0" to="1" begin="0.294s" dur="0.300s" fill="freeze" />
     </rect>
-    <rect x="696.0" y="150.0" width="12.0" height="12.0" fill="#313244" rx="2.0" opacity="0" aria-label="0 contributions on 2026-06-06">
+    <rect x="696.0" y="150.0" width="12.0" height="12.0" fill="#313244" rx="2.0" opacity="0" aria-label="0 contributions on 2026-06-13">
       <animate attributeName="opacity" from="0" to="1" begin="0.300s" dur="0.300s" fill="freeze" />
     </rect>
-    <rect x="711.0" y="60.0" width="12.0" height="12.0" fill="#313244" rx="2.0" opacity="0" aria-label="0 contributions on 2026-06-07">
+    <rect x="711.0" y="60.0" width="12.0" height="12.0" fill="#313244" rx="2.0" opacity="0" aria-label="0 contributions on 2026-06-14">
       <animate attributeName="opacity" from="0" to="1" begin="0.270s" dur="0.300s" fill="freeze" />
     </rect>
-    <rect x="711.0" y="75.0" width="12.0" height="12.0" fill="#313244" rx="2.0" opacity="0" aria-label="0 contributions on 2026-06-08">
+    <rect x="711.0" y="75.0" width="12.0" height="12.0" fill="#313244" rx="2.0" opacity="0" aria-label="0 contributions on 2026-06-15">
       <animate attributeName="opacity" from="0" to="1" begin="0.276s" dur="0.300s" fill="freeze" />
     </rect>
-    <rect x="711.0" y="90.0" width="12.0" height="12.0" fill="#313244" rx="2.0" opacity="0" aria-label="0 contributions on 2026-06-09">
+    <rect x="711.0" y="90.0" width="12.0" height="12.0" fill="#313244" rx="2.0" opacity="0" aria-label="0 contributions on 2026-06-16">
       <animate attributeName="opacity" from="0" to="1" begin="0.282s" dur="0.300s" fill="freeze" />
     </rect>
-    <rect x="711.0" y="105.0" width="12.0" height="12.0" fill="#313244" rx="2.0" opacity="0" aria-label="0 contributions on 2026-06-10">
+    <rect x="711.0" y="105.0" width="12.0" height="12.0" fill="#313244" rx="2.0" opacity="0" aria-label="0 contributions on 2026-06-17">
       <animate attributeName="opacity" from="0" to="1" begin="0.288s" dur="0.300s" fill="freeze" />
     </rect>
-    <rect x="711.0" y="120.0" width="12.0" height="12.0" fill="#313244" rx="2.0" opacity="0" aria-label="0 contributions on 2026-06-11">
+    <rect x="711.0" y="120.0" width="12.0" height="12.0" fill="#313244" rx="2.0" opacity="0" aria-label="0 contributions on 2026-06-18">
       <animate attributeName="opacity" from="0" to="1" begin="0.294s" dur="0.300s" fill="freeze" />
     </rect>
-    <rect x="711.0" y="135.0" width="12.0" height="12.0" fill="#313244" rx="2.0" opacity="0" aria-label="0 contributions on 2026-06-12">
+    <rect x="711.0" y="135.0" width="12.0" height="12.0" fill="#313244" rx="2.0" opacity="0" aria-label="0 contributions on 2026-06-19">
       <animate attributeName="opacity" from="0" to="1" begin="0.300s" dur="0.300s" fill="freeze" />
     </rect>
-    <rect x="711.0" y="150.0" width="12.0" height="12.0" fill="#313244" rx="2.0" opacity="0" aria-label="0 contributions on 2026-06-13">
+    <rect x="711.0" y="150.0" width="12.0" height="12.0" fill="#40a02b" rx="2.0" opacity="0" aria-label="0 contributions on 2026-06-20" filter="url(#heatmap-glow)">
       <animate attributeName="opacity" from="0" to="1" begin="0.306s" dur="0.300s" fill="freeze" />
     </rect>
-    <rect x="726.0" y="60.0" width="12.0" height="12.0" fill="#313244" rx="2.0" opacity="0" aria-label="0 contributions on 2026-06-14">
+    <rect x="726.0" y="60.0" width="12.0" height="12.0" fill="#313244" rx="2.0" opacity="0" aria-label="0 contributions on 2026-06-21">
       <animate attributeName="opacity" from="0" to="1" begin="0.276s" dur="0.300s" fill="freeze" />
     </rect>
-    <rect x="726.0" y="75.0" width="12.0" height="12.0" fill="#313244" rx="2.0" opacity="0" aria-label="0 contributions on 2026-06-15">
+    <rect x="726.0" y="75.0" width="12.0" height="12.0" fill="#313244" rx="2.0" opacity="0" aria-label="0 contributions on 2026-06-22">
       <animate attributeName="opacity" from="0" to="1" begin="0.282s" dur="0.300s" fill="freeze" />
     </rect>
-    <rect x="726.0" y="90.0" width="12.0" height="12.0" fill="#313244" rx="2.0" opacity="0" aria-label="0 contributions on 2026-06-16">
+    <rect x="726.0" y="90.0" width="12.0" height="12.0" fill="#313244" rx="2.0" opacity="0" aria-label="0 contributions on 2026-06-23">
       <animate attributeName="opacity" from="0" to="1" begin="0.288s" dur="0.300s" fill="freeze" />
     </rect>
-    <rect x="726.0" y="105.0" width="12.0" height="12.0" fill="#313244" rx="2.0" opacity="0" aria-label="0 contributions on 2026-06-17">
+    <rect x="726.0" y="105.0" width="12.0" height="12.0" fill="#313244" rx="2.0" opacity="0" aria-label="0 contributions on 2026-06-24">
       <animate attributeName="opacity" from="0" to="1" begin="0.294s" dur="0.300s" fill="freeze" />
     </rect>
-    <rect x="726.0" y="120.0" width="12.0" height="12.0" fill="#313244" rx="2.0" opacity="0" aria-label="0 contributions on 2026-06-18">
+    <rect x="726.0" y="120.0" width="12.0" height="12.0" fill="#313244" rx="2.0" opacity="0" aria-label="0 contributions on 2026-06-25">
       <animate attributeName="opacity" from="0" to="1" begin="0.300s" dur="0.300s" fill="freeze" />
     </rect>
-    <rect x="726.0" y="135.0" width="12.0" height="12.0" fill="#313244" rx="2.0" opacity="0" aria-label="0 contributions on 2026-06-19">
+    <rect x="726.0" y="135.0" width="12.0" height="12.0" fill="#313244" rx="2.0" opacity="0" aria-label="0 contributions on 2026-06-26">
       <animate attributeName="opacity" from="0" to="1" begin="0.306s" dur="0.300s" fill="freeze" />
     </rect>
-    <rect x="726.0" y="150.0" width="12.0" height="12.0" fill="#40a02b" rx="2.0" opacity="0" aria-label="0 contributions on 2026-06-20" filter="url(#heatmap-glow)">
+    <rect x="726.0" y="150.0" width="12.0" height="12.0" fill="#313244" rx="2.0" opacity="0" aria-label="0 contributions on 2026-06-27">
       <animate attributeName="opacity" from="0" to="1" begin="0.312s" dur="0.300s" fill="freeze" />
     </rect>
-    <rect x="741.0" y="60.0" width="12.0" height="12.0" fill="#313244" rx="2.0" opacity="0" aria-label="0 contributions on 2026-06-21">
+    <rect x="741.0" y="60.0" width="12.0" height="12.0" fill="#313244" rx="2.0" opacity="0" aria-label="0 contributions on 2026-06-28">
       <animate attributeName="opacity" from="0" to="1" begin="0.282s" dur="0.300s" fill="freeze" />
     </rect>
-    <rect x="741.0" y="75.0" width="12.0" height="12.0" fill="#313244" rx="2.0" opacity="0" aria-label="0 contributions on 2026-06-22">
+    <rect x="741.0" y="75.0" width="12.0" height="12.0" fill="#313244" rx="2.0" opacity="0" aria-label="0 contributions on 2026-06-29">
       <animate attributeName="opacity" from="0" to="1" begin="0.288s" dur="0.300s" fill="freeze" />
     </rect>
-    <rect x="741.0" y="90.0" width="12.0" height="12.0" fill="#313244" rx="2.0" opacity="0" aria-label="0 contributions on 2026-06-23">
+    <rect x="741.0" y="90.0" width="12.0" height="12.0" fill="#313244" rx="2.0" opacity="0" aria-label="0 contributions on 2026-06-30">
       <animate attributeName="opacity" from="0" to="1" begin="0.294s" dur="0.300s" fill="freeze" />
     </rect>
-    <rect x="741.0" y="105.0" width="12.0" height="12.0" fill="#313244" rx="2.0" opacity="0" aria-label="0 contributions on 2026-06-24">
+    <rect x="741.0" y="105.0" width="12.0" height="12.0" fill="#313244" rx="2.0" opacity="0" aria-label="0 contributions on 2026-07-01">
       <animate attributeName="opacity" from="0" to="1" begin="0.300s" dur="0.300s" fill="freeze" />
     </rect>
-    <rect x="741.0" y="120.0" width="12.0" height="12.0" fill="#313244" rx="2.0" opacity="0" aria-label="0 contributions on 2026-06-25">
+    <rect x="741.0" y="120.0" width="12.0" height="12.0" fill="#313244" rx="2.0" opacity="0" aria-label="0 contributions on 2026-07-02">
       <animate attributeName="opacity" from="0" to="1" begin="0.306s" dur="0.300s" fill="freeze" />
     </rect>
-    <rect x="741.0" y="135.0" width="12.0" height="12.0" fill="#313244" rx="2.0" opacity="0" aria-label="0 contributions on 2026-06-26">
+    <rect x="741.0" y="135.0" width="12.0" height="12.0" fill="#313244" rx="2.0" opacity="0" aria-label="0 contributions on 2026-07-03">
       <animate attributeName="opacity" from="0" to="1" begin="0.312s" dur="0.300s" fill="freeze" />
     </rect>
-    <rect x="741.0" y="150.0" width="12.0" height="12.0" fill="#313244" rx="2.0" opacity="0" aria-label="0 contributions on 2026-06-27">
+    <rect x="741.0" y="150.0" width="12.0" height="12.0" fill="#313244" rx="2.0" opacity="0" aria-label="0 contributions on 2026-07-04">
       <animate attributeName="opacity" from="0" to="1" begin="0.318s" dur="0.300s" fill="freeze" />
     </rect>
-    <rect x="756.0" y="60.0" width="12.0" height="12.0" fill="#313244" rx="2.0" opacity="0" aria-label="0 contributions on 2026-06-28">
+    <rect x="756.0" y="60.0" width="12.0" height="12.0" fill="#313244" rx="2.0" opacity="0" aria-label="0 contributions on 2026-07-05">
       <animate attributeName="opacity" from="0" to="1" begin="0.288s" dur="0.300s" fill="freeze" />
     </rect>
-    <rect x="756.0" y="75.0" width="12.0" height="12.0" fill="#313244" rx="2.0" opacity="0" aria-label="0 contributions on 2026-06-29">
+    <rect x="756.0" y="75.0" width="12.0" height="12.0" fill="#313244" rx="2.0" opacity="0" aria-label="0 contributions on 2026-07-06">
       <animate attributeName="opacity" from="0" to="1" begin="0.294s" dur="0.300s" fill="freeze" />
     </rect>
-    <rect x="756.0" y="90.0" width="12.0" height="12.0" fill="#313244" rx="2.0" opacity="0" aria-label="0 contributions on 2026-06-30">
+    <rect x="756.0" y="90.0" width="12.0" height="12.0" fill="#313244" rx="2.0" opacity="0" aria-label="0 contributions on 2026-07-07">
       <animate attributeName="opacity" from="0" to="1" begin="0.300s" dur="0.300s" fill="freeze" />
     </rect>
-    <rect x="756.0" y="105.0" width="12.0" height="12.0" fill="#313244" rx="2.0" opacity="0" aria-label="0 contributions on 2026-07-01">
+    <rect x="756.0" y="105.0" width="12.0" height="12.0" fill="#313244" rx="2.0" opacity="0" aria-label="0 contributions on 2026-07-08">
       <animate attributeName="opacity" from="0" to="1" begin="0.306s" dur="0.300s" fill="freeze" />
     </rect>
-    <rect x="756.0" y="120.0" width="12.0" height="12.0" fill="#313244" rx="2.0" opacity="0" aria-label="0 contributions on 2026-07-02">
+    <rect x="756.0" y="120.0" width="12.0" height="12.0" fill="#313244" rx="2.0" opacity="0" aria-label="0 contributions on 2026-07-09">
       <animate attributeName="opacity" from="0" to="1" begin="0.312s" dur="0.300s" fill="freeze" />
     </rect>
-    <rect x="756.0" y="135.0" width="12.0" height="12.0" fill="#313244" rx="2.0" opacity="0" aria-label="0 contributions on 2026-07-03">
+    <rect x="756.0" y="135.0" width="12.0" height="12.0" fill="#313244" rx="2.0" opacity="0" aria-label="0 contributions on 2026-07-10">
       <animate attributeName="opacity" from="0" to="1" begin="0.318s" dur="0.300s" fill="freeze" />
     </rect>
-    <rect x="756.0" y="150.0" width="12.0" height="12.0" fill="#313244" rx="2.0" opacity="0" aria-label="0 contributions on 2026-07-04">
+    <rect x="756.0" y="150.0" width="12.0" height="12.0" fill="#313244" rx="2.0" opacity="0" aria-label="0 contributions on 2026-07-11">
       <animate attributeName="opacity" from="0" to="1" begin="0.324s" dur="0.300s" fill="freeze" />
     </rect>
-    <rect x="771.0" y="60.0" width="12.0" height="12.0" fill="#313244" rx="2.0" opacity="0" aria-label="0 contributions on 2026-07-05">
+    <rect x="771.0" y="60.0" width="12.0" height="12.0" fill="#313244" rx="2.0" opacity="0" aria-label="0 contributions on 2026-07-12">
       <animate attributeName="opacity" from="0" to="1" begin="0.294s" dur="0.300s" fill="freeze" />
     </rect>
-    <rect x="771.0" y="75.0" width="12.0" height="12.0" fill="#313244" rx="2.0" opacity="0" aria-label="0 contributions on 2026-07-06">
+    <rect x="771.0" y="75.0" width="12.0" height="12.0" fill="#313244" rx="2.0" opacity="0" aria-label="0 contributions on 2026-07-13">
       <animate attributeName="opacity" from="0" to="1" begin="0.300s" dur="0.300s" fill="freeze" />
     </rect>
-    <rect x="771.0" y="90.0" width="12.0" height="12.0" fill="#313244" rx="2.0" opacity="0" aria-label="0 contributions on 2026-07-07">
+    <rect x="771.0" y="90.0" width="12.0" height="12.0" fill="#313244" rx="2.0" opacity="0" aria-label="0 contributions on 2026-07-14">
       <animate attributeName="opacity" from="0" to="1" begin="0.306s" dur="0.300s" fill="freeze" />
     </rect>
-    <rect x="771.0" y="105.0" width="12.0" height="12.0" fill="#313244" rx="2.0" opacity="0" aria-label="0 contributions on 2026-07-08">
+    <rect x="771.0" y="105.0" width="12.0" height="12.0" fill="#313244" rx="2.0" opacity="0" aria-label="0 contributions on 2026-07-15">
       <animate attributeName="opacity" from="0" to="1" begin="0.312s" dur="0.300s" fill="freeze" />
     </rect>
-    <rect x="771.0" y="120.0" width="12.0" height="12.0" fill="#313244" rx="2.0" opacity="0" aria-label="0 contributions on 2026-07-09">
+    <rect x="771.0" y="120.0" width="12.0" height="12.0" fill="#313244" rx="2.0" opacity="0" aria-label="0 contributions on 2026-07-16">
       <animate attributeName="opacity" from="0" to="1" begin="0.318s" dur="0.300s" fill="freeze" />
     </rect>
-    <rect x="771.0" y="135.0" width="12.0" height="12.0" fill="#313244" rx="2.0" opacity="0" aria-label="0 contributions on 2026-07-10">
+    <rect x="771.0" y="135.0" width="12.0" height="12.0" fill="#313244" rx="2.0" opacity="0" aria-label="0 contributions on 2026-07-17">
       <animate attributeName="opacity" from="0" to="1" begin="0.324s" dur="0.300s" fill="freeze" />
     </rect>
-    <rect x="771.0" y="150.0" width="12.0" height="12.0" fill="#313244" rx="2.0" opacity="0" aria-label="0 contributions on 2026-07-11">
+    <rect x="771.0" y="150.0" width="12.0" height="12.0" fill="#2d8b48" rx="2.0" opacity="0" aria-label="0 contributions on 2026-07-18" filter="url(#heatmap-glow)">
       <animate attributeName="opacity" from="0" to="1" begin="0.330s" dur="0.300s" fill="freeze" />
     </rect>
-    <rect x="786.0" y="60.0" width="12.0" height="12.0" fill="#313244" rx="2.0" opacity="0" aria-label="0 contributions on 2026-07-12">
+    <rect x="786.0" y="60.0" width="12.0" height="12.0" fill="#313244" rx="2.0" opacity="0" aria-label="0 contributions on 2026-07-19">
       <animate attributeName="opacity" from="0" to="1" begin="0.300s" dur="0.300s" fill="freeze" />
     </rect>
-    <rect x="786.0" y="75.0" width="12.0" height="12.0" fill="#313244" rx="2.0" opacity="0" aria-label="0 contributions on 2026-07-13">
+    <rect x="786.0" y="75.0" width="12.0" height="12.0" fill="#313244" rx="2.0" opacity="0" aria-label="0 contributions on 2026-07-20">
       <animate attributeName="opacity" from="0" to="1" begin="0.306s" dur="0.300s" fill="freeze" />
     </rect>
-    <rect x="786.0" y="90.0" width="12.0" height="12.0" fill="#313244" rx="2.0" opacity="0" aria-label="0 contributions on 2026-07-14">
+    <rect x="786.0" y="90.0" width="12.0" height="12.0" fill="#313244" rx="2.0" opacity="0" aria-label="0 contributions on 2026-07-21">
       <animate attributeName="opacity" from="0" to="1" begin="0.312s" dur="0.300s" fill="freeze" />
     </rect>
-    <rect x="786.0" y="105.0" width="12.0" height="12.0" fill="#313244" rx="2.0" opacity="0" aria-label="0 contributions on 2026-07-15">
+    <rect x="786.0" y="105.0" width="12.0" height="12.0" fill="#313244" rx="2.0" opacity="0" aria-label="0 contributions on 2026-07-22">
       <animate attributeName="opacity" from="0" to="1" begin="0.318s" dur="0.300s" fill="freeze" />
     </rect>
-    <rect x="786.0" y="120.0" width="12.0" height="12.0" fill="#313244" rx="2.0" opacity="0" aria-label="0 contributions on 2026-07-16">
+    <rect x="786.0" y="120.0" width="12.0" height="12.0" fill="#2d8b48" rx="2.0" opacity="0" aria-label="0 contributions on 2026-07-23" filter="url(#heatmap-glow)">
       <animate attributeName="opacity" from="0" to="1" begin="0.324s" dur="0.300s" fill="freeze" />
     </rect>
-    <rect x="786.0" y="135.0" width="12.0" height="12.0" fill="#313244" rx="2.0" opacity="0" aria-label="0 contributions on 2026-07-17">
+    <rect x="786.0" y="135.0" width="12.0" height="12.0" fill="#a6e3a1" rx="2.0" opacity="0" aria-label="0 contributions on 2026-07-24">
       <animate attributeName="opacity" from="0" to="1" begin="0.330s" dur="0.300s" fill="freeze" />
     </rect>
-    <rect x="786.0" y="150.0" width="12.0" height="12.0" fill="#2d8b48" rx="2.0" opacity="0" aria-label="0 contributions on 2026-07-18" filter="url(#heatmap-glow)">
+    <rect x="786.0" y="150.0" width="12.0" height="12.0" fill="#45475a" rx="2.0" opacity="0" aria-label="0 contributions on 2026-07-25">
       <animate attributeName="opacity" from="0" to="1" begin="0.336s" dur="0.300s" fill="freeze" />
     </rect>
-    <rect x="801.0" y="60.0" width="12.0" height="12.0" fill="#313244" rx="2.0" opacity="0" aria-label="0 contributions on 2026-07-19">
+    <rect x="801.0" y="60.0" width="12.0" height="12.0" fill="#313244" rx="2.0" opacity="0" aria-label="0 contributions on 2026-07-26">
       <animate attributeName="opacity" from="0" to="1" begin="0.306s" dur="0.300s" fill="freeze" />
     </rect>
-    <rect x="801.0" y="75.0" width="12.0" height="12.0" fill="#313244" rx="2.0" opacity="0" aria-label="0 contributions on 2026-07-20">
+    <rect x="801.0" y="75.0" width="12.0" height="12.0" fill="#45475a" rx="2.0" opacity="0" aria-label="0 contributions on 2026-07-27">
       <animate attributeName="opacity" from="0" to="1" begin="0.312s" dur="0.300s" fill="freeze" />
     </rect>
-    <rect x="801.0" y="90.0" width="12.0" height="12.0" fill="#313244" rx="2.0" opacity="0" aria-label="0 contributions on 2026-07-21">
+    <rect x="801.0" y="90.0" width="12.0" height="12.0" fill="#a6e3a1" rx="2.0" opacity="0" aria-label="0 contributions on 2026-07-28">
       <animate attributeName="opacity" from="0" to="1" begin="0.318s" dur="0.300s" fill="freeze" />
     </rect>
-    <rect x="801.0" y="105.0" width="12.0" height="12.0" fill="#313244" rx="2.0" opacity="0" aria-label="0 contributions on 2026-07-22">
+    <rect x="801.0" y="105.0" width="12.0" height="12.0" fill="#313244" rx="2.0" opacity="0" aria-label="0 contributions on 2026-07-29">
       <animate attributeName="opacity" from="0" to="1" begin="0.324s" dur="0.300s" fill="freeze" />
     </rect>
-    <rect x="801.0" y="120.0" width="12.0" height="12.0" fill="#2d8b48" rx="2.0" opacity="0" aria-label="0 contributions on 2026-07-23" filter="url(#heatmap-glow)">
+    <rect x="801.0" y="120.0" width="12.0" height="12.0" fill="#2d8b48" rx="2.0" opacity="0" aria-label="0 contributions on 2026-07-30" filter="url(#heatmap-glow)">
       <animate attributeName="opacity" from="0" to="1" begin="0.330s" dur="0.300s" fill="freeze" />
     </rect>
-    <rect x="801.0" y="135.0" width="12.0" height="12.0" fill="#a6e3a1" rx="2.0" opacity="0" aria-label="0 contributions on 2026-07-24">
+    <rect x="801.0" y="135.0" width="12.0" height="12.0" fill="#2d8b48" rx="2.0" opacity="0" aria-label="0 contributions on 2026-07-31" filter="url(#heatmap-glow)">
       <animate attributeName="opacity" from="0" to="1" begin="0.336s" dur="0.300s" fill="freeze" />
     </rect>
-    <rect x="801.0" y="150.0" width="12.0" height="12.0" fill="#45475a" rx="2.0" opacity="0" aria-label="0 contributions on 2026-07-25">
+    <rect x="801.0" y="150.0" width="12.0" height="12.0" fill="#313244" rx="2.0" opacity="0" aria-label="0 contributions on 2026-08-01">
       <animate attributeName="opacity" from="0" to="1" begin="0.342s" dur="0.300s" fill="freeze" />
     </rect>
-    <rect x="816.0" y="60.0" width="12.0" height="12.0" fill="#313244" rx="2.0" opacity="0" aria-label="0 contributions on 2026-07-26">
+    <rect x="816.0" y="60.0" width="12.0" height="12.0" fill="#313244" rx="2.0" opacity="0" aria-label="0 contributions on 2026-08-02">
       <animate attributeName="opacity" from="0" to="1" begin="0.312s" dur="0.300s" fill="freeze" />
-    </rect>
-    <rect x="816.0" y="75.0" width="12.0" height="12.0" fill="#45475a" rx="2.0" opacity="0" aria-label="0 contributions on 2026-07-27">
-      <animate attributeName="opacity" from="0" to="1" begin="0.318s" dur="0.300s" fill="freeze" />
-    </rect>
-    <rect x="816.0" y="90.0" width="12.0" height="12.0" fill="#a6e3a1" rx="2.0" opacity="0" aria-label="0 contributions on 2026-07-28">
-      <animate attributeName="opacity" from="0" to="1" begin="0.324s" dur="0.300s" fill="freeze" />
-    </rect>
-    <rect x="816.0" y="105.0" width="12.0" height="12.0" fill="#313244" rx="2.0" opacity="0" aria-label="0 contributions on 2026-07-29">
-      <animate attributeName="opacity" from="0" to="1" begin="0.330s" dur="0.300s" fill="freeze" />
-    </rect>
-    <rect x="816.0" y="120.0" width="12.0" height="12.0" fill="#2d8b48" rx="2.0" opacity="0" aria-label="0 contributions on 2026-07-30" filter="url(#heatmap-glow)">
-      <animate attributeName="opacity" from="0" to="1" begin="0.336s" dur="0.300s" fill="freeze" />
-    </rect>
-    <rect x="816.0" y="135.0" width="12.0" height="12.0" fill="#2d8b48" rx="2.0" opacity="0" aria-label="0 contributions on 2026-07-31" filter="url(#heatmap-glow)">
-      <animate attributeName="opacity" from="0" to="1" begin="0.342s" dur="0.300s" fill="freeze" />
-    </rect>
-    <rect x="816.0" y="150.0" width="12.0" height="12.0" fill="#313244" rx="2.0" opacity="0" aria-label="0 contributions on 2026-08-01">
-      <animate attributeName="opacity" from="0" to="1" begin="0.348s" dur="0.300s" fill="freeze" />
     </rect>
   </g>
   <text x="719.0" y="185.5" fill="#a6adc8" font-family="'Inter', 'Segoe UI', system-ui, sans-serif" font-size="10.0" font-weight="normal" text-anchor="start" dominant-baseline="middle" opacity="1.0">Less</text>
@@ -1158,6 +1140,6 @@
   <text x="333.0" y="208.5" fill="#a6adc8" font-family="'Inter', 'Segoe UI', system-ui, sans-serif" font-size="10.0" font-weight="normal" text-anchor="middle" dominant-baseline="auto" opacity="1.0">day streak</text>
   <text x="531.0" y="194.5" fill="#a6e3a1" font-family="'JetBrains Mono', 'Fira Code', 'Cascadia Code', 'Courier New', monospace" font-size="11.0" font-weight="bold" text-anchor="middle" dominant-baseline="auto" opacity="1.0">0</text>
   <text x="531.0" y="208.5" fill="#a6adc8" font-family="'Inter', 'Segoe UI', system-ui, sans-serif" font-size="10.0" font-weight="normal" text-anchor="middle" dominant-baseline="auto" opacity="1.0">longest streak</text>
-  <text x="729.0" y="194.5" fill="#a6e3a1" font-family="'JetBrains Mono', 'Fira Code', 'Cascadia Code', 'Courier New', monospace" font-size="11.0" font-weight="bold" text-anchor="middle" dominant-baseline="auto" opacity="1.0">2025-07-27 (0)</text>
+  <text x="729.0" y="194.5" fill="#a6e3a1" font-family="'JetBrains Mono', 'Fira Code', 'Cascadia Code', 'Courier New', monospace" font-size="11.0" font-weight="bold" text-anchor="middle" dominant-baseline="auto" opacity="1.0">2025-08-03 (0)</text>
   <text x="729.0" y="208.5" fill="#a6adc8" font-family="'Inter', 'Segoe UI', system-ui, sans-serif" font-size="10.0" font-weight="normal" text-anchor="middle" dominant-baseline="auto" opacity="1.0">busiest day</text>
 </svg>
