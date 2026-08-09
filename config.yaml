@@ -11,7 +11,7 @@ display_name:    "Fortunate Adesina"
 title:           "Software Engineering Student"
 location:        "Nigeria 🇳🇬"
 bio:             "Building systems, writing C, exploring the edges of software."
-pronouns:        "she/her"
+pronouns:        "he/him"
 
 # ── Info-card rows (label: value, rendered inside the terminal card) ─────────
 info_rows:
@@ -24,13 +24,13 @@ info_rows:
   - label: "Stack"
     value: "C · C++ · Python · Rust"
   - label: "Focus"
-    value: "Systems & Low-level Programming"
+    value: "Low-level Programming"
   - label: "Learning"
     value: "Compilers · Kernel Internals"
   - label: "Currently"
     value: "BSc Software Engineering @ Miva"
   - label: "Reading"
-    value: "CS:APP · Crafting Interpreters"
+    value: "The Linux Programming Interface"
   - label: "GitHub"
     value: "github.com/fortune-c"
   - label: "Twitter"
@@ -52,7 +52,6 @@ tech_stack:
   languages:
     - "C"
     - "C++"
-    - "Python"
     - "Rust"
   tools:
     - "VS Code"
@@ -179,7 +178,7 @@ banner:
   width:              860
   height:             120
   greeting:           "Hi, I'm Fortunate"
-  subtitle:           "Software Engineering Student  ·  Systems & Low-level Programmer"
+  subtitle:           "Software Engineering Student  ·  Low-level Programmer"
   font_size_greeting: 34
   font_size_subtitle: 15
   corner_radius:      10
