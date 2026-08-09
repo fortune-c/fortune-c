@@ -32,36 +32,28 @@ echo "  Animated GitHub Profile – Full Rebuild"
 echo "══════════════════════════════════════════"
 
 if [[ "$SKIP_PHOTO" == "false" ]]; then
-  echo ""
-  echo "▶ Step 1/5 – Pre-process portrait photo …"
-  python scripts/prep_photo.py
+echo ""
+echo "▶ Step 1/5 – Pre-process portrait photo …"
+python scripts/prep_photo.py
 else
   echo ""
   echo "▶ Step 1/5 – Skipping photo prep (--skip-photo)"
 fi
 
 echo ""
-echo "▶ Step 2/5 – Fetch contribution data …"
-python scripts/fetch_contributions.py
-
-echo ""
-echo "▶ Step 3/5 – Render contribution heatmap …"
-python scripts/render_heatmap_svg.py
-
-echo ""
-echo "▶ Step 4/5 – Render ASCII portrait …"
+echo "▶ Step 2/5 – Render ASCII portrait …"
 python scripts/make_ascii_svg.py
 
 echo ""
-echo "▶ Step 5/7 – Render info card …"
+echo "▶ Step 3/5 – Render info card …"
 python scripts/make_info_card.py
 
 echo ""
-echo "▶ Step 6/7 – Render animated banner …"
+echo "▶ Step 4/5 – Render animated banner …"
 python scripts/make_banner_svg.py
 
 echo ""
-echo "▶ Step 7/7 – Render Spotify card …"
+echo "▶ Step 5/5 – Render Spotify card …"
 python scripts/make_spotify_svg.py
 
 echo ""

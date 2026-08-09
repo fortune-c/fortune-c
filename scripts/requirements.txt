@@ -20,12 +20,5 @@ opencv-python-headless>=4.9.0.80   # headless = no GUI dependency needed in CI
 # ── Background removal (U²-Net via rembg) ────────────────────────────────────
 rembg[cpu]>=2.0.56
 
-# ── HTTP + HTML scraping ──────────────────────────────────────────────────────
-requests>=2.31.0
-beautifulsoup4>=4.12.3
-lxml>=5.1.0                         # faster BS4 parser (optional but recommended)
-
 # ── Type stubs (optional – for IDE support) ───────────────────────────────────
 # types-PyYAML
-# types-requests
-# types-beautifulsoup4

@@ -18,11 +18,11 @@ info_rows:
   - label: "OS"
     value: "Ubuntu"
   - label: "Shell"
-    value: "zsh + starship"
+    value: "zsh"
   - label: "Editor"
     value: "VSCode · Zed · Neovim"
   - label: "Stack"
-    value: "C · C++ · Python · Rust"
+    value: "C · C++ · Rust"
   - label: "Focus"
     value: "Low-level Programming"
   - label: "Learning"
@@ -96,14 +96,6 @@ theme:
   mauve:         "#cba6f7"
   sapphire:      "#74c7ec"
 
-# ── Heatmap contribution-level colours (index 0 = no contributions) ──────────
-heatmap_colors:
-  - "#313244"   # level 0 – surface (empty day)
-  - "#45475a"   # level 1 – surface_alt (very few)
-  - "#a6e3a1"   # level 2 – green (some)
-  - "#40a02b"   # level 3 – darker green (many)  [closest dark green to palette]
-  - "#2d8b48"   # level 4 – deepest green (max)
-
 # ── Typography ───────────────────────────────────────────────────────────────
 fonts:
   mono:    "'JetBrains Mono', 'Fira Code', 'Cascadia Code', 'Courier New', monospace"
@@ -136,24 +128,6 @@ info_card:
   label_width:       90   # px reserved for the label column
   glow_blur:         8
 
-# ── Heatmap SVG settings ─────────────────────────────────────────────────────
-heatmap:
-  cell_size:         12    # px width & height of each day square
-  cell_gap:          3     # px gap between squares
-  corner_radius:     2     # px border-radius of each square
-  padding_top:       60    # space above grid for title
-  padding_bottom:    50    # space below grid for legend / stats
-  padding_left:      36    # space left of grid for day labels
-  padding_right:     20
-  font_size_label:   10
-  font_size_title:   16
-  font_size_stats:   11
-  title:             "Contribution Activity"
-  # diagonal reveal animation
-  stagger_ms:        6     # ms per diagonal step
-  reveal_duration_ms: 300  # ms per square's fade-in
-  glow_blur:         4
-
 # ── Animation timing (all values in milliseconds unless noted) ───────────────
 animation:
   # ASCII portrait
@@ -163,7 +137,6 @@ animation:
   card_row_stagger_ms:   120   # delay between rows sliding in
   card_row_duration_ms:  400   # each row's slide+fade duration
   card_initial_delay_ms: 200   # pause before first row
-  # Heatmap already controlled by heatmap.stagger_ms / reveal_duration_ms
 
 # ── GitHub Actions ────────────────────────────────────────────────────────────
 actions:

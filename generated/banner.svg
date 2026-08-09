@@ -60,6 +60,6 @@
   </rect>
   <g opacity="0">
     <animate attributeName="opacity" from="0" to="1" begin="1.235s" dur="0.700s" fill="freeze" />
-    <text x="40.0" y="96.0" fill="#a6adc8" font-family="'Inter', 'Segoe UI', system-ui, sans-serif" font-size="15.0" font-weight="normal" text-anchor="start" dominant-baseline="auto" opacity="1.0">Software Engineering Student  ·  Systems &amp; Low-level Programmer</text>
+    <text x="40.0" y="96.0" fill="#a6adc8" font-family="'Inter', 'Segoe UI', system-ui, sans-serif" font-size="15.0" font-weight="normal" text-anchor="start" dominant-baseline="auto" opacity="1.0">Software Engineering Student  ·  Low-level Programmer</text>
   </g>
 </svg>

@@ -72,26 +72,18 @@ jobs:
           path: ${{ runner.temp }}/.u2net
           key: u2net-model-v1
 
-      # ── 5. Fetch contribution data ──────────────────────────────────────────
-      - name: Fetch GitHub contribution data
-        run: python scripts/fetch_contributions.py
-
-      # ── 6. Regenerate heatmap SVG ───────────────────────────────────────────
-      - name: Render contribution heatmap SVG
-        run: python scripts/render_heatmap_svg.py
-
-      # ── 7. Regenerate ASCII portrait SVG ────────────────────────────────────
+      # ── 5. Regenerate ASCII portrait SVG ────────────────────────────────────
       #
       # This step requires assets/profile_clean.png to exist.
       # If prep_photo.py was skipped, the cached file from the repository is used.
       - name: Render ASCII portrait SVG
         run: python scripts/make_ascii_svg.py
 
-      # ── 8. Regenerate info card SVG ─────────────────────────────────────────
+      # ── 6. Regenerate info card SVG ─────────────────────────────────────────
       - name: Render info card SVG
         run: python scripts/make_info_card.py
 
-      # ── 9. Commit & push ────────────────────────────────────────────────────
+      # ── 7. Commit & push ────────────────────────────────────────────────────
       #
       # Uses [skip ci] in the commit message so this auto-commit does not
       # trigger another workflow run, preventing an infinite loop.
@@ -101,10 +93,8 @@ jobs:
           git config user.email "github-actions[bot]@users.noreply.github.com"
 
           git add \
-            data/contributions.json \
             generated/avi-ascii.svg \
             generated/info-card.svg \
-            generated/contrib-heatmap.svg \
             assets/profile_clean.png || true
 
           # Only commit if there are staged changes

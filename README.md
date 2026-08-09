@@ -6,10 +6,9 @@
   1. Animated typing banner (full width)
   2. ASCII portrait  |  Info card  (side by side)
   3. Tech stack SVG card  (Languages | Tools, full width)
-  4. Contribution heatmap (full width)
-  5. Streak stats    |  Top languages  (side by side)
-  6. Spotify         |  Social badges  (side by side)
-  7. Footer wave
+  4. Streak stats    |  Top languages  (side by side)
+  5. Spotify         |  Social badges  (side by side)
+  6. Footer wave
 -->
 
 <!-- ── 1. Animated banner ─────────────────────────────────────────────────── -->
@@ -58,18 +57,7 @@
 
 <br/>
 
-<!-- ── 4. Contribution heatmap ─────────────────────────────────────────── -->
-<div align="center">
-  <img
-    src="generated/contrib-heatmap.svg"
-    alt="53-week contribution heatmap with animated diagonal reveal"
-    width="860"
-  />
-</div>
-
-<br/>
-
-<!-- ── 5. GitHub stats ────────────────────────────────────────────────────── -->
+<!-- ── 4. GitHub stats ────────────────────────────────────────────────────── -->
 <!--
   Streak stats use demolab.com which is stable and free.
   Top languages uses a community mirror of github-readme-stats.
@@ -104,7 +92,7 @@
 
 <br/>
 
-<!-- ── 6. Spotify + Social badges ─────────────────────────────────────────── -->
+<!-- ── 5. Spotify + Social badges ─────────────────────────────────────────── -->
 <!--
   To activate Spotify: deploy novatorem → https://github.com/novatorem/novatorem
   Then set spotify.vercel_url in config.yaml and update the src below.
