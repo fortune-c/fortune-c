@@ -83,11 +83,7 @@ jobs:
       - name: Render info card SVG
         run: python scripts/make_info_card.py
 
-      # ── 7. Regenerate tech stack SVG ────────────────────────────────────────
-      - name: Render tech stack SVG
-        run: python scripts/make_tech_stack_svg.py
-
-      # ── 8. Commit & push ────────────────────────────────────────────────────
+      # ── 7. Commit & push ────────────────────────────────────────────────────
       #
       # Uses [skip ci] in the commit message so this auto-commit does not
       # trigger another workflow run, preventing an infinite loop.
@@ -99,7 +95,6 @@ jobs:
           git add \
             generated/avi-ascii.svg \
             generated/info-card.svg \
-            generated/tech-stack.svg \
             assets/profile_clean.png || true
 
           # Only commit if there are staged changes

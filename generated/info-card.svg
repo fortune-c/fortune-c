@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="520" height="450" viewBox="0 0 520 450" role="img" aria-label="Terminal info card">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="520" height="506" viewBox="0 0 520 506" role="img" aria-label="Terminal info card">
   <defs>
     <clipPath id="card-clip">
-      <rect x="0" y="36" width="520" height="414" fill="white" rx="0" />
+      <rect x="0" y="36" width="520" height="470" fill="white" rx="0" />
     </clipPath>
     <filter id="card-glow" x="-30%" y="-30%" width="160%" height="160%">
       <feGaussianBlur in="SourceGraphic" stdDeviation="8.0" result="blur" />
@@ -15,7 +15,7 @@
     </filter>
   </defs>
   <g>
-    <rect x="0" y="0" width="520" height="450" fill="#1e1e2e" rx="10" stroke="#45475a" stroke-width="1.5" filter="url(#card-glow)" />
+    <rect x="0" y="0" width="520" height="506" fill="#1e1e2e" rx="10" stroke="#45475a" stroke-width="1.5" filter="url(#card-glow)" />
     <rect x="0" y="0" width="520" height="36" fill="#313244" rx="10" />
     <rect x="0" y="18.0" width="520" height="18.0" fill="#313244" rx="0" />
     <circle cx="20" cy="18.0" r="6.0" fill="#f38ba8" />
@@ -103,6 +103,18 @@
         <animateTransform attributeName="transform" type="translate" from="0 10" to="0 0" begin="1.640s" dur="0.400s" fill="freeze" additive="replace" />
         <text x="20" y="361.6" fill="#89b4fa" font-family="'JetBrains Mono', 'Fira Code', 'Cascadia Code', 'Courier New', monospace" font-size="13.0" font-weight="bold" text-anchor="start" dominant-baseline="auto" opacity="1.0">LinkedIn</text>
         <text x="110" y="361.6" fill="#cdd6f4" font-family="'JetBrains Mono', 'Fira Code', 'Cascadia Code', 'Courier New', monospace" font-size="13.0" font-weight="normal" text-anchor="start" dominant-baseline="auto" opacity="1.0">linkedin.com/in/fortune-c</text>
+      </g>
+      <g opacity="0" transform="translate(0, 10)">
+        <animate attributeName="opacity" from="0" to="1" begin="1.760s" dur="0.400s" fill="freeze" />
+        <animateTransform attributeName="transform" type="translate" from="0 10" to="0 0" begin="1.760s" dur="0.400s" fill="freeze" additive="replace" />
+        <text x="20" y="389.6" fill="#a6e3a1" font-family="'JetBrains Mono', 'Fira Code', 'Cascadia Code', 'Courier New', monospace" font-size="13.0" font-weight="bold" text-anchor="start" dominant-baseline="auto" opacity="1.0">Languages</text>
+        <text x="110" y="389.6" fill="#cdd6f4" font-family="'JetBrains Mono', 'Fira Code', 'Cascadia Code', 'Courier New', monospace" font-size="13.0" font-weight="normal" text-anchor="start" dominant-baseline="auto" opacity="1.0">C · C++ · Rust</text>
+      </g>
+      <g opacity="0" transform="translate(0, 10)">
+        <animate attributeName="opacity" from="0" to="1" begin="1.880s" dur="0.400s" fill="freeze" />
+        <animateTransform attributeName="transform" type="translate" from="0 10" to="0 0" begin="1.880s" dur="0.400s" fill="freeze" additive="replace" />
+        <text x="20" y="417.6" fill="#fab387" font-family="'JetBrains Mono', 'Fira Code', 'Cascadia Code', 'Courier New', monospace" font-size="13.0" font-weight="bold" text-anchor="start" dominant-baseline="auto" opacity="1.0">Tools</text>
+        <text x="110" y="417.6" fill="#cdd6f4" font-family="'JetBrains Mono', 'Fira Code', 'Cascadia Code', 'Courier New', monospace" font-size="13.0" font-weight="normal" text-anchor="start" dominant-baseline="auto" opacity="1.0">VS Code · Zed · Neovim · Git · Linux / Ubuntu · Bash / Zsh</text>
       </g>
     </g>
   </g>

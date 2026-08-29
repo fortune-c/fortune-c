@@ -5,10 +5,7 @@
   ──────
   1. Animated typing banner (full width)
   2. ASCII portrait  |  Info card  (side by side)
-  3. Tech stack SVG card  (Languages | Tools, full width)
-  4. Streak stats    |  Top languages  (side by side)
-  5. Spotify         |  Social badges  (side by side)
-  6. Footer wave
+  3. Footer wave
 -->
 
 <!-- ── 1. Animated banner ─────────────────────────────────────────────────── -->
@@ -42,17 +39,6 @@
       </td>
     </tr>
   </table>
-</div>
-
-<br/>
-
-<!-- ── 3. Tech stack (generated SVG card) ─────────────────────────────────── -->
-<div align="center">
-  <img
-    src="generated/tech-stack.svg"
-    alt="Tech stack – Languages: C, C++, Python, Rust · Tools: VS Code, Zed, Neovim, Git, Linux, Bash"
-    width="860"
-  />
 </div>
 
 <br/>

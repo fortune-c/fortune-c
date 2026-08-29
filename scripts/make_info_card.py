@@ -78,6 +78,26 @@ def _label_colour(palette, index: int) -> str:
 #  Row geometry helper
 # ═══════════════════════════════════════════════════════════════════════════════
 
+def _build_merged_rows(cfg: dict) -> list[dict]:
+    """Merge info_rows with tech_stack items into a single row list.
+
+    Languages and Tools from ``tech_stack`` are appended as extra rows
+    so they appear inside the info card terminal window.
+    """
+    rows: list[dict] = list(cfg["info_rows"])
+
+    ts = cfg.get("tech_stack", {})
+    languages = ts.get("languages", [])
+    tools = ts.get("tools", [])
+
+    if languages:
+        rows.append({"label": "Languages", "value": " · ".join(languages)})
+    if tools:
+        rows.append({"label": "Tools", "value": " · ".join(tools)})
+
+    return rows
+
+
 def _total_card_height(cfg: dict) -> int:
     """Compute the total outer SVG canvas height.
 
@@ -88,10 +108,8 @@ def _total_card_height(cfg: dict) -> int:
         Integer pixel height.
     """
     card_cfg = cfg["info_card"]
-    info_rows = cfg["info_rows"]
-    rows = len(info_rows)
+    rows = len(_build_merged_rows(cfg))
 
-    header_h = int(card_cfg["header_height"])
     title_bar_h = 36  # matches draw_terminal_chrome default
     row_h = int(card_cfg["row_height"])
     padding = int(card_cfg["padding"])
@@ -133,7 +151,7 @@ def build_info_card_svg(cfg: dict) -> ET.Element:
     fonts_cfg = cfg["fonts"]
     palette = get_palette(cfg)
 
-    info_rows: list[dict] = cfg["info_rows"]
+    info_rows: list[dict] = _build_merged_rows(cfg)
     prompt_text: str = cfg["terminal_prompt"]
     github_username: str = cfg["github_username"]
     display_name: str = cfg["display_name"]
