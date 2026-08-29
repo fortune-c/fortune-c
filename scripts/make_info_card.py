@@ -34,6 +34,8 @@ import sys
 from pathlib import Path
 from xml.etree import ElementTree as ET
 
+from PIL import Image
+
 _SCRIPT_DIR = Path(__file__).resolve().parent
 _PROJECT_ROOT = _SCRIPT_DIR.parent
 sys.path.insert(0, str(_SCRIPT_DIR))
@@ -78,6 +80,31 @@ def _label_colour(palette, index: int) -> str:
 #  Row geometry helper
 # ═══════════════════════════════════════════════════════════════════════════════
 
+def _compute_ascii_height(cfg: dict) -> int:
+    """Compute the ASCII portrait SVG height from config.
+
+    Mirrors the calculation in ``make_ascii_svg.py`` so the info card
+    can match it exactly.
+    """
+    portrait_cfg = cfg["portrait"]
+    source_path = _PROJECT_ROOT / portrait_cfg["source_path"]
+
+    with Image.open(source_path) as img:
+        orig_w, orig_h = img.size
+
+    target_w = int(portrait_cfg["ascii_width_chars"])
+    char_ratio = float(portrait_cfg["char_height_ratio"])
+    target_h = int(orig_h * (target_w / orig_w) * char_ratio)
+
+    font_size = float(portrait_cfg["svg_font_size_px"])
+    line_height_mult = float(portrait_cfg["svg_line_height"])
+    char_cell_h = font_size * line_height_mult
+    padding = 12.0
+
+    canvas_h = target_h * char_cell_h + padding * 2
+    return int(canvas_h) + 1
+
+
 def _build_merged_rows(cfg: dict) -> list[dict]:
     """Merge info_rows with tech_stack items into a single row list.
 
@@ -99,31 +126,8 @@ def _build_merged_rows(cfg: dict) -> list[dict]:
 
 
 def _total_card_height(cfg: dict) -> int:
-    """Compute the total outer SVG canvas height.
-
-    Args:
-        cfg: Loaded config dict.
-
-    Returns:
-        Integer pixel height.
-    """
-    card_cfg = cfg["info_card"]
-    rows = len(_build_merged_rows(cfg))
-
-    title_bar_h = 36  # matches draw_terminal_chrome default
-    row_h = int(card_cfg["row_height"])
-    padding = int(card_cfg["padding"])
-
-    # prompt row + separator + all info rows + top/bottom padding
-    content_height = (
-        padding            # gap after title bar
-        + row_h            # prompt/username header row
-        + padding // 2     # gap
-        + row_h            # separator
-        + rows * row_h     # info rows
-        + padding          # bottom gap
-    )
-    return title_bar_h + content_height
+    """Return the SVG canvas height, matching the ASCII portrait height."""
+    return _compute_ascii_height(cfg)
 
 
 # ═══════════════════════════════════════════════════════════════════════════════
@@ -205,8 +209,21 @@ def build_info_card_svg(cfg: dict) -> ET.Element:
     # Apply clip to content group so slide-in rows don't overflow window bounds
     content_g.set("clip-path", "url(#card-clip)")
 
+    # ── Compute vertical centering offset ──────────────────────────────────
+    num_rows = len(info_rows)
+    content_h = (
+        padding            # gap after title bar
+        + row_h            # prompt/username header row
+        + padding // 2     # gap
+        + row_h            # separator
+        + num_rows * row_h # info rows
+        + padding          # bottom gap
+    )
+    available_h = total_height - title_bar_h
+    y_offset = max(0, int((available_h - content_h) / 2))
+
     # ── Prompt / username header row ────────────────────────────────────────
-    header_y = padding + row_h
+    header_y = y_offset + padding + row_h
     prompt_g = group(content_g, opacity="0")
     set_attr(prompt_g, "opacity", "1", begin=ms_to_smil(initial_delay_ms))
     animate(prompt_g, "opacity", "0", "1",
