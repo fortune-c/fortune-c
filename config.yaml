@@ -55,11 +55,9 @@ tech_stack:
     - "Rust"
   tools:
     - "VS Code"
-    - "Zed"
-    - "Neovim"
     - "Git"
-    - "Linux / Ubuntu"
-    - "Bash / Zsh"
+    - "Linux"
+    - "Bash"
   # SVG card settings
   width:              860
   padding:            24
