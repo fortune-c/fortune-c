@@ -151,7 +151,7 @@ banner:
   width:              860
   height:             120
   greeting:           "Hi, I'm Fortunate"
-  subtitle:           "Software Engineering Student  ·  Low-level Programmer"
+  subtitle:           "Software Engineering Student  ·  Low-level"
   font_size_greeting: 34
   font_size_subtitle: 15
   corner_radius:      10
