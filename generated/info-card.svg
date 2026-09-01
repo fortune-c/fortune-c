@@ -66,13 +66,13 @@
         <animate attributeName="opacity" from="0" to="1" begin="0.920s" dur="0.400s" fill="freeze" />
         <animateTransform attributeName="transform" type="translate" from="0 10" to="0 0" begin="0.920s" dur="0.400s" fill="freeze" additive="replace" />
         <text x="20" y="235.6" fill="#b4befe" font-family="'JetBrains Mono', 'Fira Code', 'Cascadia Code', 'Courier New', monospace" font-size="13.0" font-weight="bold" text-anchor="start" dominant-baseline="auto" opacity="1.0">Focus</text>
-        <text x="110" y="235.6" fill="#cdd6f4" font-family="'JetBrains Mono', 'Fira Code', 'Cascadia Code', 'Courier New', monospace" font-size="13.0" font-weight="normal" text-anchor="start" dominant-baseline="auto" opacity="1.0">Low-level Programming</text>
+        <text x="110" y="235.6" fill="#cdd6f4" font-family="'JetBrains Mono', 'Fira Code', 'Cascadia Code', 'Courier New', monospace" font-size="13.0" font-weight="normal" text-anchor="start" dominant-baseline="auto" opacity="1.0">Low-level</text>
       </g>
       <g opacity="0" transform="translate(0, 10)">
         <animate attributeName="opacity" from="0" to="1" begin="1.040s" dur="0.400s" fill="freeze" />
         <animateTransform attributeName="transform" type="translate" from="0 10" to="0 0" begin="1.040s" dur="0.400s" fill="freeze" additive="replace" />
         <text x="20" y="263.6" fill="#94e2d5" font-family="'JetBrains Mono', 'Fira Code', 'Cascadia Code', 'Courier New', monospace" font-size="13.0" font-weight="bold" text-anchor="start" dominant-baseline="auto" opacity="1.0">Learning</text>
-        <text x="110" y="263.6" fill="#cdd6f4" font-family="'JetBrains Mono', 'Fira Code', 'Cascadia Code', 'Courier New', monospace" font-size="13.0" font-weight="normal" text-anchor="start" dominant-baseline="auto" opacity="1.0">Compilers · Kernel Internals</text>
+        <text x="110" y="263.6" fill="#cdd6f4" font-family="'JetBrains Mono', 'Fira Code', 'Cascadia Code', 'Courier New', monospace" font-size="13.0" font-weight="normal" text-anchor="start" dominant-baseline="auto" opacity="1.0">Computer Graphic · GPU Programming</text>
       </g>
       <g opacity="0" transform="translate(0, 10)">
         <animate attributeName="opacity" from="0" to="1" begin="1.160s" dur="0.400s" fill="freeze" />
@@ -84,7 +84,7 @@
         <animate attributeName="opacity" from="0" to="1" begin="1.280s" dur="0.400s" fill="freeze" />
         <animateTransform attributeName="transform" type="translate" from="0 10" to="0 0" begin="1.280s" dur="0.400s" fill="freeze" additive="replace" />
         <text x="20" y="319.6" fill="#89dceb" font-family="'JetBrains Mono', 'Fira Code', 'Cascadia Code', 'Courier New', monospace" font-size="13.0" font-weight="bold" text-anchor="start" dominant-baseline="auto" opacity="1.0">Reading</text>
-        <text x="110" y="319.6" fill="#cdd6f4" font-family="'JetBrains Mono', 'Fira Code', 'Cascadia Code', 'Courier New', monospace" font-size="13.0" font-weight="normal" text-anchor="start" dominant-baseline="auto" opacity="1.0">The Linux Programming Interface</text>
+        <text x="110" y="319.6" fill="#cdd6f4" font-family="'JetBrains Mono', 'Fira Code', 'Cascadia Code', 'Courier New', monospace" font-size="13.0" font-weight="normal" text-anchor="start" dominant-baseline="auto" opacity="1.0">Computer Graphics: Principles and Practice</text>
       </g>
       <g opacity="0" transform="translate(0, 10)">
         <animate attributeName="opacity" from="0" to="1" begin="1.400s" dur="0.400s" fill="freeze" />
