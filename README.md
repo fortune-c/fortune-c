@@ -2,9 +2,9 @@
 
 <table>
   <tr>
-    <td valign="top" width="50%">
-      <pre>
-                             .``::`..
+    <td valign="top">
+
+<pre>.``::`..
                       .:=+ccssssssscc**=-:`
                     :*#####ssscccc*csccssssc=.
                   :c#sc***++==-:````:-+**cc##s-
@@ -32,12 +32,13 @@
  `@%%%%%%%%%%%%%%%%%%%###############%%%####%%%%%%%%##%%%%%%%%%#%%%%%###
   +%%%%%%%%%%%%%%%#%#####%%%%%%#######%%##%##%%%%%%%%%%%%%%%%#%%########
    +%%%%%%%%%%%%%%%%###%%%%%%%%%%%%####%%%%%#%%%%%%%%%%%#%%%%%##########
-      </pre>
+</pre>
+
     </td>
-    <td valign="top" width="50%">
-      <pre>
-fortune@github:~$
-  OS:                Ubuntu · Windows · Android
+    <td valign="top">
+
+<pre>fortune@github:~$
+OS:                Ubuntu · Windows · Android
   Shell:             zsh
   Editor:            VSCode · Zed · Neovim
   Stack:             C · C++ · Rust
@@ -48,20 +49,24 @@ fortune@github:~$
   GitHub:            github.com/fortune-c
   Twitter:           @fortunevm
   LinkedIn:          linkedin.com/in/fortune-c
-      </pre>
-      <hr>
-      <b>GitHub Stats</b>
-      <br>
-      [![Repos](https://img.shields.io/badge/Repos-1-blue?style=flat-square&logo=github)](https://github.com/fortune-c?tab=repositories)
+</pre>
+
+---
+
+### 📊 GitHub Stats
+
+[![Repos](https://img.shields.io/badge/Repos-1-blue?style=flat-square&logo=github)](https://github.com/fortune-c?tab=repositories)
 [![Stars](https://img.shields.io/github/stars/fortune-c?style=flat-square&logo=github&color=yellow)](https://github.com/fortune-c/stargazers)
 [![Followers](https://img.shields.io/github/followers/fortune-c?style=flat-square&logo=github&color=purple)](https://github.com/fortune-c?tab=followers)
-      <hr>
-      <b>Connect</b>
-      <ul>
-        <li><b>GitHub:</b> <a href="https://github.com/fortune-c">fortune-c</a></li>
-        <li><b>Twitter/X:</b> <a href="https://x.com/fortunevm">@fortunevm</a></li>
-        <li><b>LinkedIn:</b> <a href="https://www.linkedin.com/in/fortune-c/">linkedin.com/in/fortune-c</a></li>
-      </ul>
+
+---
+
+### 🔗 Connect
+
+- **GitHub:** [fortune-c](https://github.com/fortune-c)
+- **Twitter/X:** [@fortunevm](https://x.com/fortunevm)
+- **LinkedIn:** [linkedin.com/in/fortune-c](https://www.linkedin.com/in/fortune-c/)
+
     </td>
   </tr>
 </table>

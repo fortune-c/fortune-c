@@ -53,31 +53,42 @@ def generate_readme(cfg: dict, ascii_art: str) -> str:
 [![Stars](https://img.shields.io/github/stars/{github}?style=flat-square&logo=github&color=yellow)](https://github.com/{github}/stargazers)
 [![Followers](https://img.shields.io/github/followers/{github}?style=flat-square&logo=github&color=purple)](https://github.com/{github}?tab=followers)"""
 
+    # Strip leading/trailing whitespace from ASCII art
+    ascii_art = ascii_art.strip()
+
+    # Strip leading/trailing whitespace from info card
+    info_card = info_card.strip()
+
     readme = f"""<!-- README.md – {name}'s GitHub Profile -->
 
 <table>
   <tr>
-    <td valign="top" width="50%">
-      <pre>
-{ascii_art}
-      </pre>
+    <td valign="top">
+
+<pre>{ascii_art}
+</pre>
+
     </td>
-    <td valign="top" width="50%">
-      <pre>
-{cfg["terminal_prompt"]}
+    <td valign="top">
+
+<pre>{cfg["terminal_prompt"]}
 {info_card}
-      </pre>
-      <hr>
-      <b>GitHub Stats</b>
-      <br>
-      {stats_badges}
-      <hr>
-      <b>Connect</b>
-      <ul>
-        <li><b>GitHub:</b> <a href="{links["github"]}">{github}</a></li>
-        <li><b>Twitter/X:</b> <a href="{links["twitter"]}">@fortunevm</a></li>
-        <li><b>LinkedIn:</b> <a href="{links["linkedin"]}">linkedin.com/in/fortune-c</a></li>
-      </ul>
+</pre>
+
+---
+
+### 📊 GitHub Stats
+
+{stats_badges}
+
+---
+
+### 🔗 Connect
+
+- **GitHub:** [{github}]({links["github"]})
+- **Twitter/X:** [@fortunevm]({links["twitter"]})
+- **LinkedIn:** [linkedin.com/in/fortune-c]({links["linkedin"]})
+
     </td>
   </tr>
 </table>
