@@ -29,3 +29,6 @@ cache/
 
 # cache
 cache/
+
+# environment
+.env

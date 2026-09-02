@@ -1,18 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
 <svg xmlns="http://www.w3.org/2000/svg" width="475" height="180" viewBox="0 0 475 180">
-  <text id="commit_data" x="10" y="20">0</text>
-  <text id="commit_data_dots" x="120" y="20">......................</text>
+  <text id="commit_data" x="10" y="20">133</text>
+  <text id="commit_data_dots" x="120" y="20"> ................... </text>
   <text id="star_data" x="10" y="40">0</text>
-  <text id="star_data_dots" x="80" y="40">..............</text>
-  <text id="repo_data" x="10" y="60">0</text>
-  <text id="repo_data_dots" x="40" y="60">......</text>
-  <text id="contrib_data" x="10" y="80">0</text>
+  <text id="star_data_dots" x="80" y="40"> ............. </text>
+  <text id="repo_data" x="10" y="60">3</text>
+  <text id="repo_data_dots" x="40" y="60"> ..... </text>
+  <text id="contrib_data" x="10" y="80">3</text>
   <text id="contrib_data_dots" x="100" y="80"></text>
   <text id="follower_data" x="10" y="100">0</text>
-  <text id="follower_data_dots" x="100" y="100">..........</text>
-  <text id="loc_data" x="10" y="120">0</text>
-  <text id="loc_data_dots" x="30" y="120">.........</text>
-  <text id="loc_add" x="10" y="140">0</text>
+  <text id="follower_data_dots" x="100" y="100"> ......... </text>
+  <text id="loc_data" x="10" y="120">76,527</text>
+  <text id="loc_data_dots" x="30" y="120"> ... </text>
+  <text id="loc_add" x="10" y="140">167,103</text>
   <text id="loc_add_dots" x="30" y="140"></text>
-  <text id="loc_del" x="10" y="160">0</text>
-  <text id="loc_del_dots" x="30" y="160">.......</text>
+  <text id="loc_del" x="10" y="160">90,576</text>
+  <text id="loc_del_dots" x="30" y="160"> </text>
 </svg>
