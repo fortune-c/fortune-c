@@ -31,10 +31,13 @@ jobs:
           USER_NAME: ${{ secrets.USER_NAME }}
         run: python today.py
       - name: Commit
+        env:
+          GIT_COMMIT_USER_NAME: ${{ secrets.USER_NAME }}
+          GIT_COMMIT_USER_EMAIL: ${{ secrets.USER_EMAIL }}
         run: |-
           git add .
           git diff
-          git config --global user.email "github-actions-bot@andrew6rant.github.io"
-          git config --global user.name "Andrew6rant/GitHub-Actions-Bot"
+          git config --global user.email "${GIT_COMMIT_USER_EMAIL:-github-actions[bot]@users.noreply.github.com}"
+          git config --global user.name "${GIT_COMMIT_USER_NAME:-github-actions[bot]}"
           git commit -m "Updated README" -a || echo "No changes to commit"
           git push
