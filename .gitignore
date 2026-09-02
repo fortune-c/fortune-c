@@ -9,6 +9,9 @@ dist/
 build/
 .eggs/
 
+# Cache
+cache/
+
 # rembg model weights (large, re-downloaded on demand)
 .u2net/
 
@@ -23,3 +26,6 @@ build/
 
 # Logs
 *.log
+
+# cache
+cache/

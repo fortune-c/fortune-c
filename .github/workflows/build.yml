@@ -36,7 +36,6 @@ jobs:
           GIT_COMMIT_USER_EMAIL: ${{ secrets.USER_EMAIL }}
         run: |-
           git add .
-          git diff
           git config --global user.email "${GIT_COMMIT_USER_EMAIL:-github-actions[bot]@users.noreply.github.com}"
           git config --global user.name "${GIT_COMMIT_USER_NAME:-github-actions[bot]}"
           git commit -m "Updated README" -a || echo "No changes to commit"

@@ -104,6 +104,7 @@ def graph_repos_stars(count_type, owner_affiliation, cursor=None, add_loc=0, del
             return request.json()['data']['user']['repositories']['totalCount']
         elif count_type == 'stars':
             return stars_counter(request.json()['data']['user']['repositories']['edges'])
+    return 0
 
 
 def recursive_loc(owner, repo_name, data, cache_comment, addition_total=0, deletion_total=0, my_commits=0, cursor=None):
@@ -171,13 +172,15 @@ def loc_counter_one_repo(owner, repo_name, data, cache_comment, history, additio
     else: return recursive_loc(owner, repo_name, data, cache_comment, addition_total, deletion_total, my_commits, history['pageInfo']['endCursor'])
 
 
-def loc_query(owner_affiliation, comment_size=0, force_cache=False, cursor=None, edges=[]):
+def loc_query(owner_affiliation, comment_size=0, force_cache=False, cursor=None, edges=None):
     """
     Uses GitHub's GraphQL v4 API to query all the repositories I have access to (with respect to owner_affiliation)
     Queries 60 repos at a time, because larger queries give a 502 timeout error and smaller queries send too many
     requests and also give a 502 error.
     Returns the total number of lines of code in all repositories
     """
+    if edges is None:
+        edges = []
     query_count('loc_query')
     query = '''
     query ($owner_affiliation: [RepositoryAffiliation], $login: String!, $cursor: String) {
@@ -305,6 +308,7 @@ def force_close_file(data, cache_comment):
         f.writelines(cache_comment)
         f.writelines(data)
     print('There was an error while writing to the cache file. The file,', filename, 'has had the partial data saved and closed.')
+    raise
 
 
 def stars_counter(data):
@@ -447,7 +451,7 @@ if __name__ == '__main__':
     user_data, user_time = perf_counter(user_getter, USER_NAME)
     OWNER_ID, acc_date = user_data
     formatter('account data', user_time)
-    age_data, age_time = perf_counter(daily_readme, datetime.datetime(2002, 7, 5))
+    age_data, age_time = perf_counter(daily_readme, datetime.datetime(2004, 4, 23))
     formatter('age calculation', age_time)
     total_loc, loc_time = perf_counter(loc_query, ['OWNER', 'COLLABORATOR', 'ORGANIZATION_MEMBER'], 7)
     formatter('LOC (cached)', loc_time) if total_loc[-1] else formatter('LOC (no cache)', loc_time)
