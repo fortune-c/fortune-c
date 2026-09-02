@@ -1,8 +1,3 @@
-<!-- README.md – Fortunate Adesina's GitHub Profile -->
-
-<div align="center">
-
-```
                              .``::`..
                       .:=+ccssssssscc**=-:`
                     :*#####ssscccc*csccssssc=.
@@ -31,54 +26,3 @@
  `@%%%%%%%%%%%%%%%%%%%###############%%%####%%%%%%%%##%%%%%%%%%#%%%%%###
   +%%%%%%%%%%%%%%%#%#####%%%%%%#######%%##%##%%%%%%%%%%%%%%%%#%%########
    +%%%%%%%%%%%%%%%%###%%%%%%%%%%%%####%%%%%#%%%%%%%%%%%#%%%%%##########
-```
-
-</div>
-
-<table>
-  <tr>
-    <td valign="top">
-
-```bash
-fortune@github:~$
-  OS:                Ubuntu · Windows · Android
-  Shell:             zsh
-  Editor:            VSCode · Zed · Neovim
-  Stack:             C · C++ · Rust
-  Focus:             Low-level
-  Learning:          Computer Graphic · GPU Programming
-  Currently:         BSc Software Engineering @ Miva
-  Reading:           Computer Graphics: Principles and Practice
-  GitHub:            github.com/fortune-c
-  Twitter:           @fortunevm
-  LinkedIn:          linkedin.com/in/fortune-c
-```
-
-    </td>
-    <td valign="top">
-
-### 📊 GitHub Stats
-
-[![Repos](https://img.shields.io/badge/Repos-1-blue?style=flat-square&logo=github)](https://github.com/fortune-c?tab=repositories)
-[![Stars](https://img.shields.io/github/stars/fortune-c?style=flat-square&logo=github&color=yellow)](https://github.com/fortune-c/stargazers)
-[![Followers](https://img.shields.io/github/followers/fortune-c?style=flat-square&logo=github&color=purple)](https://github.com/fortune-c?tab=followers)
-
----
-
-### 🔗 Connect
-
-- **GitHub:** [fortune-c](https://github.com/fortune-c)
-- **Twitter/X:** [@fortunevm](https://x.com/fortunevm)
-- **LinkedIn:** [linkedin.com/in/fortune-c](https://www.linkedin.com/in/fortune-c/)
-
-    </td>
-  </tr>
-</table>
-
----
-
-<div align="center">
-
-![Profile Views](https://komarev.com/ghpvc/?username=fortune-c&color=blueviolet&style=flat-square)
-
-</div>

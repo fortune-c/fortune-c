@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
-# run_all.sh – Regenerate every profile art asset in one command.
+# run_all.sh – Regenerate GitHub profile assets.
 #
 # Usage:
 #   ./run_all.sh              # full pipeline (includes photo prep)
@@ -28,35 +28,27 @@ else
 fi
 
 echo "══════════════════════════════════════════"
-echo "  Animated GitHub Profile – Full Rebuild"
+echo "  GitHub Profile – Regenerate README"
 echo "══════════════════════════════════════════"
 
 if [[ "$SKIP_PHOTO" == "false" ]]; then
-echo ""
-echo "▶ Step 1/5 – Pre-process portrait photo …"
-python scripts/prep_photo.py
+  echo ""
+  echo "▶ Step 1/3 – Pre-process portrait photo …"
+  python scripts/prep_photo.py
 else
   echo ""
-  echo "▶ Step 1/5 – Skipping photo prep (--skip-photo)"
+  echo "▶ Step 1/3 – Skipping photo prep (--skip-photo)"
 fi
 
 echo ""
-echo "▶ Step 2/5 – Render ASCII portrait …"
-python scripts/make_ascii_svg.py
+echo "▶ Step 2/3 – Generate ASCII art text …"
+python scripts/make_ascii_text.py
 
 echo ""
-echo "▶ Step 3/5 – Render info card …"
-python scripts/make_info_card.py
-
-echo ""
-echo "▶ Step 4/5 – Render animated banner …"
-python scripts/make_banner_svg.py
-
-echo ""
-echo "▶ Step 5/5 – Render Spotify card …"
-python scripts/make_spotify_svg.py
+echo "▶ Step 3/3 – Generate README.md …"
+python scripts/make_readme.py
 
 echo ""
 echo "══════════════════════════════════════════"
-echo "  ✓ All assets generated in generated/"
+echo "  ✓ README.md generated successfully!"
 echo "══════════════════════════════════════════"

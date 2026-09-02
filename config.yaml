@@ -1,8 +1,7 @@
 # ─────────────────────────────────────────────────────────────────────────────
-# config.yaml  –  Single source of truth for the animated GitHub profile.
+# config.yaml  –  Configuration for the GitHub profile README.
 #
-# Edit this file to personalise the generated SVGs without touching any script.
-# All Python generators read their settings exclusively from here.
+# Edit this file to personalise your README without touching any script.
 # ─────────────────────────────────────────────────────────────────────────────
 
 # ── Identity ────────────────────────────────────────────────────────────────
@@ -13,7 +12,7 @@ location:        "Nigeria 🇳🇬"
 bio:             "Building systems, writing C/C++, exploring the edges of graphics."
 pronouns:        "he/him"
 
-# ── Info-card rows (label: value, rendered inside the terminal card) ─────────
+# ── Info-card rows (label: value, rendered in the terminal card) ────────────
 info_rows:
   - label: "OS"
     value: "Ubuntu · Windows · Android"
@@ -47,125 +46,15 @@ links:
   twitter:  "https://x.com/fortunevm"
   github:   "https://github.com/fortune-c"
 
-# ── Tech stack (rendered as an animated SVG card) ────────────────────────────
-tech_stack:
-  languages:
-    - "C"
-    - "C++"
-    - "Rust"
-  tools:
-    - "VS Code"
-    - "Git"
-    - "Linux"
-    - "Bash"
-  # SVG card settings
-  width:              860
-  padding:            24
-  row_height:         30
-  corner_radius:      10
-  border_width:       1.5
-  font_size_heading:  15
-  font_size_item:     13
-  dot_radius:         4
-  glow_blur:          8
-  # Animation
-  stagger_ms:         100
-  duration_ms:        400
-  initial_delay_ms:   200
-
-# ── Catppuccin Mocha palette ────────────────────────────────────────────────
-theme:
-  background:    "#1e1e2e"
-  surface:       "#313244"
-  surface_alt:   "#45475a"
-  overlay:       "#6c7086"
-  muted:         "#585b70"
-  text:          "#cdd6f4"
-  subtext:       "#a6adc8"
-  blue:          "#89b4fa"
-  green:         "#a6e3a1"
-  pink:          "#f5c2e7"
-  lavender:      "#b4befe"
-  peach:         "#fab387"
-  red:           "#f38ba8"
-  yellow:        "#f9e2af"
-  teal:          "#94e2d5"
-  sky:           "#89dceb"
-  mauve:         "#cba6f7"
-  sapphire:      "#74c7ec"
-
-# ── Typography ───────────────────────────────────────────────────────────────
-fonts:
-  mono:    "'JetBrains Mono', 'Fira Code', 'Cascadia Code', 'Courier New', monospace"
-  sans:    "'Inter', 'Segoe UI', system-ui, sans-serif"
-
 # ── Portrait / ASCII settings ────────────────────────────────────────────────
 portrait:
-  source_path:       "assets/profile.png"   # relative to project root
+  source_path:       "assets/profile.png"
   cleaned_path:      "assets/profile_clean.png"
-  ascii_width_chars: 72           # number of character columns in ASCII art
-  char_height_ratio: 0.55         # height-to-width ratio of one character cell
+  ascii_width_chars: 72
+  char_height_ratio: 0.55
   brightness_ramp:   " .`:-=+*cs#%@"
-  svg_font_size_px:  8            # font-size for each ASCII character
-  svg_line_height:   1.2          # multiplier on font-size for row height
-  # SVG canvas dimensions (auto-computed if 0, but you can override)
-  svg_width:         0
-  svg_height:        0
 
-# ── Info-card SVG settings ───────────────────────────────────────────────────
-info_card:
-  width:             520
-  padding:           20
-  row_height:        28
-  header_height:     44
-  corner_radius:     10
-  border_width:      1.5
-  font_size_body:    13
-  font_size_header:  14
-  font_size_prompt:  13
-  label_width:       90   # px reserved for the label column
-  glow_blur:         8
-
-# ── Animation timing (all values in milliseconds unless noted) ───────────────
-animation:
-  # ASCII portrait
-  ascii_char_delay_ms:   6     # time between each character appearing
-  ascii_cursor_blink_ms: 530   # cursor blink period
-  # Info card
-  card_row_stagger_ms:   120   # delay between rows sliding in
-  card_row_duration_ms:  400   # each row's slide+fade duration
-  card_initial_delay_ms: 200   # pause before first row
 
 # ── GitHub Actions ────────────────────────────────────────────────────────────
 actions:
-  schedule_cron:  "0 4 * * *"   # UTC time for daily regeneration
   python_version: "3.11"
-  commit_message: "chore: regenerate profile art [skip ci]"
-  committer_name: "github-actions[bot]"
-  committer_email: "github-actions[bot]@users.noreply.github.com"
-
-# ── Animated banner SVG ───────────────────────────────────────────────────────
-banner:
-  width:              860
-  height:             120
-  greeting:           "Hi, I'm Fortunate"
-  subtitle:           "Software Engineering Student  ·  Low-level"
-  font_size_greeting: 34
-  font_size_subtitle: 15
-  corner_radius:      10
-  typing_delay_ms:    55    # ms per character for the greeting line
-  subtitle_fade_ms:   700   # duration of the subtitle fade-in
-  subtitle_delay_ms:  300   # extra pause after greeting finishes before subtitle appears
-  glow_blur:          10
-
-# ── Spotify ───────────────────────────────────────────────────────────────────
-# To enable the live "Now Playing" widget:
-#   1. Go to https://github.com/novatorem/novatorem and deploy to Vercel.
-#   2. Set your Spotify credentials in the Vercel env vars as described in
-#      the novatorem README.
-#   3. Paste your deployed Vercel URL below (without trailing slash).
-#
-# Leave vercel_url empty to show the placeholder card instead.
-spotify:
-  vercel_url: ""          # e.g. "https://novatorem-fortune-c.vercel.app"
-  theme: "novatorem"
