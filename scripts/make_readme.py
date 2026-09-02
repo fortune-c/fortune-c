@@ -2,7 +2,7 @@
 make_readme.py – Generate a terminal-style README.md for the GitHub profile.
 
 Creates a single README.md with:
-- Left side: ASCII art portrait in a <pre> block
+- Left side: ASCII art portrait
 - Right side: Terminal-style info card with system info, languages, and stats
 
 Usage
@@ -55,38 +55,29 @@ def generate_readme(cfg: dict, ascii_art: str) -> str:
 
     readme = f"""<!-- README.md – {name}'s GitHub Profile -->
 
-<div align="center">
-
-```
-{ascii_art}
-```
-
-</div>
-
 <table>
   <tr>
-    <td valign="top">
-
-```bash
+    <td valign="top" width="50%">
+      <pre>
+{ascii_art}
+      </pre>
+    </td>
+    <td valign="top" width="50%">
+      <pre>
 {cfg["terminal_prompt"]}
 {info_card}
-```
-
-    </td>
-    <td valign="top">
-
-### 📊 GitHub Stats
-
-{stats_badges}
-
----
-
-### 🔗 Connect
-
-- **GitHub:** [{github}]({links["github"]})
-- **Twitter/X:** [@fortunevm]({links["twitter"]})
-- **LinkedIn:** [linkedin.com/in/fortune-c]({links["linkedin"]})
-
+      </pre>
+      <hr>
+      <b>GitHub Stats</b>
+      <br>
+      {stats_badges}
+      <hr>
+      <b>Connect</b>
+      <ul>
+        <li><b>GitHub:</b> <a href="{links["github"]}">{github}</a></li>
+        <li><b>Twitter/X:</b> <a href="{links["twitter"]}">@fortunevm</a></li>
+        <li><b>LinkedIn:</b> <a href="{links["linkedin"]}">linkedin.com/in/fortune-c</a></li>
+      </ul>
     </td>
   </tr>
 </table>

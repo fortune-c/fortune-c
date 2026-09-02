@@ -1,8 +1,9 @@
 <!-- README.md – Fortunate Adesina's GitHub Profile -->
 
-<div align="center">
-
-```
+<table>
+  <tr>
+    <td valign="top" width="50%">
+      <pre>
                              .``::`..
                       .:=+ccssssssscc**=-:`
                     :*#####ssscccc*csccssssc=.
@@ -31,15 +32,10 @@
  `@%%%%%%%%%%%%%%%%%%%###############%%%####%%%%%%%%##%%%%%%%%%#%%%%%###
   +%%%%%%%%%%%%%%%#%#####%%%%%%#######%%##%##%%%%%%%%%%%%%%%%#%%########
    +%%%%%%%%%%%%%%%%###%%%%%%%%%%%%####%%%%%#%%%%%%%%%%%#%%%%%##########
-```
-
-</div>
-
-<table>
-  <tr>
-    <td valign="top">
-
-```bash
+      </pre>
+    </td>
+    <td valign="top" width="50%">
+      <pre>
 fortune@github:~$
   OS:                Ubuntu · Windows · Android
   Shell:             zsh
@@ -52,25 +48,20 @@ fortune@github:~$
   GitHub:            github.com/fortune-c
   Twitter:           @fortunevm
   LinkedIn:          linkedin.com/in/fortune-c
-```
-
-    </td>
-    <td valign="top">
-
-### 📊 GitHub Stats
-
-[![Repos](https://img.shields.io/badge/Repos-1-blue?style=flat-square&logo=github)](https://github.com/fortune-c?tab=repositories)
+      </pre>
+      <hr>
+      <b>GitHub Stats</b>
+      <br>
+      [![Repos](https://img.shields.io/badge/Repos-1-blue?style=flat-square&logo=github)](https://github.com/fortune-c?tab=repositories)
 [![Stars](https://img.shields.io/github/stars/fortune-c?style=flat-square&logo=github&color=yellow)](https://github.com/fortune-c/stargazers)
 [![Followers](https://img.shields.io/github/followers/fortune-c?style=flat-square&logo=github&color=purple)](https://github.com/fortune-c?tab=followers)
-
----
-
-### 🔗 Connect
-
-- **GitHub:** [fortune-c](https://github.com/fortune-c)
-- **Twitter/X:** [@fortunevm](https://x.com/fortunevm)
-- **LinkedIn:** [linkedin.com/in/fortune-c](https://www.linkedin.com/in/fortune-c/)
-
+      <hr>
+      <b>Connect</b>
+      <ul>
+        <li><b>GitHub:</b> <a href="https://github.com/fortune-c">fortune-c</a></li>
+        <li><b>Twitter/X:</b> <a href="https://x.com/fortunevm">@fortunevm</a></li>
+        <li><b>LinkedIn:</b> <a href="https://www.linkedin.com/in/fortune-c/">linkedin.com/in/fortune-c</a></li>
+      </ul>
     </td>
   </tr>
 </table>
