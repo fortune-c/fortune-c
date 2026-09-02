@@ -1,19 +1,36 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<svg xmlns="http://www.w3.org/2000/svg" width="475" height="180" viewBox="0 0 475 180">
-  <text id="commit_data" x="10" y="20">133</text>
-  <text id="commit_data_dots" x="120" y="20"> ................... </text>
-  <text id="star_data" x="10" y="40">0</text>
-  <text id="star_data_dots" x="80" y="40"> ............. </text>
-  <text id="repo_data" x="10" y="60">3</text>
-  <text id="repo_data_dots" x="40" y="60"> ..... </text>
-  <text id="contrib_data" x="10" y="80">3</text>
-  <text id="contrib_data_dots" x="100" y="80"></text>
-  <text id="follower_data" x="10" y="100">0</text>
-  <text id="follower_data_dots" x="100" y="100"> ......... </text>
-  <text id="loc_data" x="10" y="120">76,527</text>
-  <text id="loc_data_dots" x="30" y="120"> ... </text>
-  <text id="loc_add" x="10" y="140">167,103</text>
-  <text id="loc_add_dots" x="30" y="140"></text>
-  <text id="loc_del" x="10" y="160">90,576</text>
-  <text id="loc_del_dots" x="30" y="160"> </text>
+<svg xmlns="http://www.w3.org/2000/svg" width="475" height="220" viewBox="0 0 475 220">
+  <defs>
+    <style>
+      text { font-family: monospace; font-size: 14px; fill: #e6edf3; }
+      .label { fill: #8b949e; font-size: 12px; }
+      .dots { fill: #30363d; font-size: 12px; }
+      .value { fill: #58a6ff; font-size: 14px; font-weight: bold; }
+      .sub { fill: #8b949e; font-size: 11px; }
+    </style>
+  </defs>
+  <rect width="475" height="220" rx="6" fill="#0d1117"/>
+  <text x="20" y="30" class="label">Commits</text>
+  <text id="commit_data_dots" x="100" y="30" class="dots"> ................... </text>
+  <text id="commit_data" x="450" y="30" class="value" text-anchor="end">0</text>
+  <text x="20" y="60" class="label">Stars</text>
+  <text id="star_data_dots" x="100" y="60" class="dots"> ............. </text>
+  <text id="star_data" x="450" y="60" class="value" text-anchor="end">0</text>
+  <text x="20" y="90" class="label">Repos</text>
+  <text id="repo_data_dots" x="100" y="90" class="dots"> ..... </text>
+  <text id="repo_data" x="450" y="90" class="value" text-anchor="end">0</text>
+  <text x="20" y="120" class="label">Contributions</text>
+  <text id="contrib_data_dots" x="120" y="120" class="dots"></text>
+  <text id="contrib_data" x="450" y="120" class="value" text-anchor="end">0</text>
+  <text x="20" y="150" class="label">Followers</text>
+  <text id="follower_data_dots" x="100" y="150" class="dots"> ......... </text>
+  <text id="follower_data" x="450" y="150" class="value" text-anchor="end">0</text>
+  <text x="20" y="180" class="label">Lines of Code</text>
+  <text id="loc_data_dots" x="120" y="180" class="dots"> ... </text>
+  <text id="loc_data" x="450" y="180" class="value" text-anchor="end">0</text>
+  <text x="20" y="205" class="sub">+</text>
+  <text id="loc_add_dots" x="30" y="205" class="dots"></text>
+  <text id="loc_add" x="450" y="205" class="sub" text-anchor="end">0</text>
+  <text x="20" y="220" class="sub">-</text>
+  <text id="loc_del_dots" x="30" y="220" class="dots"></text>
+  <text id="loc_del" x="450" y="220" class="sub" text-anchor="end">0</text>
 </svg>
