@@ -1,7 +1,7 @@
 # Fortunate Adesina
 
 <p align="center">
-  <img src="./ascii-art.png" alt="ASCII Art" width="500">
+  <img src="./ascii-pic.png" alt="ASCII Art" width="500">
 </p>
 
 <pre>
