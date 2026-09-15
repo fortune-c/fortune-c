@@ -1,33 +1,33 @@
-# Fortunate Adesina
-
-<pre>
 fortune@github ~ ------------------------------------------------
 
+  Role: ............................... Systems / Graphics Developer
   OS: ................................. Ubuntu, Windows
-  Uptime: ............................. Loading..
   Shell: .............................. zsh
   Editor: ............................. VSCode, Zed
-  Stack: .............................. C, C++, Rust
+
+  Languages: .......................... C, C++, Rust
+  Tools: .............................. Git, Linux
 
   Focus: .............................. Low-level Engineering
-  Learning: ........................... Computer Graphics
+  Learning: ........................... Graphics Programming
+  Interests: .......................... Game Engines, Rendering, Systems
+
   School: ............................. Miva University
   Country: ............................ Nigeria
 
-  Hobbies.Software: .... Computer Graphics, Low-level Systems
-
   - Contact ----------------------------------------------------
+
   GitHub: ............................. fortune-c
   X/Twitter: .......................... @fortunevm
   LinkedIn: ........................... fortune-c
 
-  - Current Focus ----------------------------------------------
+  - Currently --------------------------------------------------
 
-  Building: .......................... Low-level Systems
+  Building: ........................... StrategyLab
   Exploring: ......................... Computer Graphics
-  Developing: ....................... Game Development
+  Developing: ........................ Game Development
   Learning: .......................... C++, Rust, OpenGL
-  Projects: .......................... StrategyLab
+
+  Goal: ................................ Graphics / Systems Engineering
 
 ----------------------------------------------------------------
-</pre>
