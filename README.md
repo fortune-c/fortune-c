@@ -1,6 +1,28 @@
-<a href="https://github.com/fortune-c/fortune-c">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/fortune-c/fortune-c/main/dark_mode.svg">
-    <img alt="Fortunate Adesina's GitHub Profile README" src="https://raw.githubusercontent.com/fortune-c/fortune-c/main/light_mode.svg">
-  </picture>
-</a>
+<pre>
+fortune@github ~ ------------------------------------------------
+
+  OS: ................................. Ubuntu, Windows
+  Uptime: ............................. Loading..
+  Shell: .............................. zsh
+  Editor: ............................. VSCode, Zed
+  Stack: .............................. C, C++, Rust
+
+  Focus: .............................. Low-level Engineering
+  Learning: ........................... Computer Graphics
+  School: ............................. Miva University
+  Country: ............................ Nigeria
+
+  Hobbies.Software: .... Computer Graphics, Low-level Systems
+
+  - Contact ----------------------------------------------------
+  GitHub: ............................. fortune-c
+  X/Twitter: .......................... @fortunevm
+  LinkedIn: ........................... fortune-c
+
+  - GitHub Stats -----------------------------------------------
+  Repos: .... 3 (Contributed: 3) | Stars: ................... 0
+  Commits: ................................................... 165
+  Lines of Code on GitHub: ............ 78,352 (169,231++, 90,879--)
+
+----------------------------------------------------------------
+</pre>
