@@ -1,3 +1,9 @@
+# Fortunate Adesina
+
+<p align="center">
+  <img src="./ascii-art.png" alt="ASCII Art" width="500">
+</p>
+
 <pre>
 fortune@github ~ ------------------------------------------------
 
