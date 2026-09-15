@@ -1,9 +1,5 @@
 # Fortunate Adesina
 
-<p align="center">
-  <img src="./ascii-pic.png" alt="ASCII Art" width="500">
-</p>
-
 <pre>
 fortune@github ~ ------------------------------------------------
 
@@ -25,10 +21,13 @@ fortune@github ~ ------------------------------------------------
   X/Twitter: .......................... @fortunevm
   LinkedIn: ........................... fortune-c
 
-  - GitHub Stats -----------------------------------------------
-  Repos: .... 3 (Contributed: 3) | Stars: ................... 0
-  Commits: ................................................... 165
-  Lines of Code on GitHub: ............ 78,352 (169,231++, 90,879--)
+  - Current Focus ----------------------------------------------
+
+  Building: .......................... Low-level Systems
+  Exploring: ......................... Computer Graphics
+  Developing: ....................... Game Development
+  Learning: .......................... C++, Rust, OpenGL
+  Projects: .......................... StrategyLab
 
 ----------------------------------------------------------------
 </pre>
