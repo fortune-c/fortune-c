@@ -1,8 +1,8 @@
 ```text
 fortune@github ~ ------------------------------------------------
 
-  Role: ............................... Systems & Graphics Developer
-  Focus: .............................. Low-level Engineering / Graphics / Game Engines
+  Role: ............................... Computer Graphics Engineer
+  Focus: .............................. Low-level Engineering / Graphics / Engines
   OS: ................................. Ubuntu, Windows
   Shell: .............................. zsh
   Editor: ............................. VSCode, Zed
@@ -34,7 +34,7 @@ fortune@github ~ ------------------------------------------------
   Game Development .................... Gameplay & Systems
   Low-level Engineering ............... C++ / Rust / Linux
 
-  Goal: ................................ Graphics / Systems Engineering
+  Goal: ................................ Graphics Engineering
 
 ----------------------------------------------------------------
 ```
