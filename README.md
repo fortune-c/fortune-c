@@ -20,7 +20,7 @@ fortune@github ~ ------------------------------------------------
 
   - Currently --------------------------------------------------
 
-  Building: ........................... StrategyLab
+  Building: ........................... BamBull
   Exploring: .......................... Computer Graphics
   Developing: ........................ Game Development
   Practicing: ........................ 3D Modeling & Animation
